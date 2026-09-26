@@ -1,6 +1,6 @@
 {
  "consensus": {
-  "overall_rating": 26,
+  "overall_rating": 27,
   "score_basis": "mean_frame_ratings",
   "overall_verdict": "inconclusive",
   "confidence": "low",
@@ -12,7 +12,7 @@
     "step": "frame_agreement",
     "frames": 4,
     "synthetic_frames": 0,
-    "authentic_frames": 1,
+    "authentic_frames": 0,
     "rating_spread": 3
    },
    {
@@ -26,21 +26,21 @@
   "not_decisive": [
    {
     "name": "Claude Vision",
-    "rating": 58,
-    "verdict": "inconclusive",
-    "note": "Worst of 4 frames (slide 1): synthetic likelihood 58/100; tells: network diagram geometry is approximately but not mathematically regular: uneven node spacing and edge endpoints that do not always terminate cleanly on nodes, some edges appear semi-transparent or softly blurred in an inconsistent way, unlike typical crisp vector rendering, teal-to-orange colour transition across nodes is painterly rather than rule-based, faint background polygon mesh with irregular, fading line segments"
+    "rating": 60,
+    "verdict": "synthetic_likely",
+    "note": "Worst of 4 frames (slide 1): synthetic likelihood 60/100; tells: network diagram is decorative and roughly symmetric rather than a data-driven force-directed layout, inconsistent node sizes and some edges ending without clear nodes, semi-transparent, softly blurred overlapping edge layers with painterly anti-aliasing, smooth teal-to-orange color gradient across the graph unrelated to any legend"
    },
    {
     "name": "OpenAI Vision",
-    "rating": 15,
+    "rating": 20,
     "verdict": "inconclusive",
-    "note": "Worst of 4 frames (slide 1): synthetic likelihood 15/100; tells: Presentation-slide layout rather than a camera photograph, Legible typography with consistent letterforms and alignment, Network illustration uses clean straight edges and regularly placed circular nodes, No obvious generative distortions; conventional vector graphics could explain the design"
+    "note": "Worst of 4 frames (slide 5): synthetic likelihood 20/100; tells: Consistently legible text with coherent letterforms and regular spacing, Four circular nodes with uniform glow effects and thin connecting lines, Aligned text blocks and repeated geometric network decorations typical of presentation graphics, No photographic subjects or camera texture available for assessment"
    },
    {
     "name": "Gemini Vision",
     "rating": 28,
     "verdict": "authentic_likely",
-    "note": "Worst of 4 frames (slide 5): synthetic likelihood 28/100; tells: sharp vector-style typography, clean standard digital design elements, absence of generative diffusion artifacts, structured geometric layout"
+    "note": "Worst of 4 frames (slide 1): synthetic likelihood 28/100; tells: clean vector geometry, standard digital typography, consistent presentation graphic layout, absence of generative diffusion artifacts"
    },
    {
     "name": "Local forensic cues",
@@ -55,7 +55,7 @@
     "note": "Embedded credentials: none found. Origin remains unresolved by this check."
    }
   ],
-  "visible_text": "Catalyst 2: The Conspiracy Ecosystem | 1 | #Plandemic | The Threat Hoax | Minimising the virus itself. \u201cIt\u2019s just the flu,\u201d preferring natural immunity over interventions. | #Scamdemic | 2 | #COVID1984 | The Control Mechanism | Belief that mandates test public compliance, equating health rules to authoritarian mouth-gags. | #MaskTyranny | 3 | The Micro-Constituent Fear | Targeting vaccines specifically: fears of mRNA DNA-alteration, microchips, infertility, and Bill Gates narratives. | Once a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the \u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
+  "visible_text": "Catalyst 2: The Conspiracy Ecosystem | 1 The Threat Hoax: Minimising the virus itself. \u201cIt\u2019s just the flu,\u201d preferring natural immunity over interventions. | #Plandemic | #Scamdemic | 2 The Control Mechanism: Belief that mandates test public compliance, equating health rules to authoritarian mouth-gags. | #COVID1984 | #MaskTyranny | 3 The Micro-Constituent Fear: Targeting vaccines specifically: fears of mRNA DNA-alteration, microchips, infertility, and Bill Gates narratives. | Once a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the \u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
   "vaccine_codes": [],
   "disclaimer": "Research assessment. Review alongside source information and context."
  },
@@ -65,48 +65,48 @@
    "name": "Claude Vision",
    "kind": "vision",
    "status": "ok",
-   "rating": 58,
-   "verdict": "inconclusive",
+   "rating": 60,
+   "verdict": "synthetic_likely",
    "confidence": "low",
-   "summary": "Worst of 4 frames (slide 1): synthetic likelihood 58/100; tells: network diagram geometry is approximately but not mathematically regular: uneven node spacing and edge endpoints that do not always terminate cleanly on nodes, some edges appear semi-transparent or softly blurred in an inconsistent way, unlike typical crisp vector rendering, teal-to-orange colour transition across nodes is painterly rather than rule-based, faint background polygon mesh with irregular, fading line segments",
+   "summary": "Worst of 4 frames (slide 1): synthetic likelihood 60/100; tells: network diagram is decorative and roughly symmetric rather than a data-driven force-directed layout, inconsistent node sizes and some edges ending without clear nodes, semi-transparent, softly blurred overlapping edge layers with painterly anti-aliasing, smooth teal-to-orange color gradient across the graph unrelated to any legend",
    "evidence": [
-    "Frame slide 1: 58/100",
-    "Frame slide 5: 58/100",
-    "Frame slide 10: 55/100",
-    "Frame slide 14: 55/100",
-    "Network diagram geometry is approximately but not mathematically regular: uneven node spacing and edge endpoints that do not always terminate cleanly on nodes",
-    "Some edges appear semi-transparent or softly blurred in an inconsistent way, unlike typical crisp vector rendering",
-    "Teal-to-orange colour transition across nodes is painterly rather than rule-based",
-    "Faint background polygon mesh with irregular, fading line segments",
-    "Typography is clean, correctly spelled and consistently kerned, which fits either conventional slide software or a modern text-capable image generator",
-    "No camera signals (no sensor noise, lens blur or perspective) because this is a flat digital graphic, so photographic forensics do not apply",
-    "Filename indicates a PowerPoint slide export, a plausible conventional design origin",
-    "Caveat: This is a flat designed graphic, so camera-based forensic cues are absent. The irregular network rendering suggests an AI image generator but could also come from design or graph-visualisation software. Checking the source .pptx file, its metadata and the authoring tool history would be more decisive than visual inspection."
+    "Frame slide 1: 60/100",
+    "Frame slide 5: 55/100",
+    "Frame slide 10: 58/100",
+    "Frame slide 14: 40/100",
+    "Network diagram is decorative and roughly symmetric rather than a data-driven force-directed layout",
+    "Inconsistent node sizes and some edges ending without clear nodes",
+    "Semi-transparent, softly blurred overlapping edge layers with painterly anti-aliasing",
+    "Smooth teal-to-orange color gradient across the graph unrelated to any legend",
+    "Faint low-poly mesh background typical of generated slide art",
+    "Text is crisply and correctly rendered, consistent with either a design tool or a modern text-capable generator",
+    "No camera-origin signals (vector-style graphic, no sensor noise or lens characteristics)",
+    "Caveat: This is a graphic, not a photo, so camera-authenticity cues do not apply. The slide could equally come from ordinary slide or data-visualization software (the filename suggests a PowerPoint export). Checking the source file, the author and the claimed study would resolve its origin better than visual inspection."
    ],
-   "visible_text": "Catalyst 2: The Conspiracy Ecosystem | 1 | #Plandemic | The Threat Hoax | Minimising the virus itself. \u201cIt\u2019s just the flu,\u201d preferring natural immunity over interventions. | #Scamdemic | 2 | #COVID1984 | The Control Mechanism | Belief that mandates test public compliance, equating health rules to authoritarian mouth-gags. | #MaskTyranny | 3 | The Micro-Constituent Fear | Targeting vaccines specifically: fears of mRNA DNA-alteration, microchips, infertility, and Bill Gates narratives. | Once a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the \u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
-   "vaccine_relevance": "Framed as a research or academic title slide about the study of mask and vaccine opposition networks. It is not itself making anti-vaccine claims. The only symbolism is an abstract network graph representing social-media interactions.",
+   "visible_text": "Catalyst 2: The Conspiracy Ecosystem | 1 The Threat Hoax: Minimising the virus itself. \u201cIt\u2019s just the flu,\u201d preferring natural immunity over interventions. | #Plandemic | #Scamdemic | 2 The Control Mechanism: Belief that mandates test public compliance, equating health rules to authoritarian mouth-gags. | #COVID1984 | #MaskTyranny | 3 The Micro-Constituent Fear: Targeting vaccines specifically: fears of mRNA DNA-alteration, microchips, infertility, and Bill Gates narratives. | Once a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the \u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
+   "vaccine_relevance": "Title slide framed as research on mask and vaccine opposition networks during COVID-19. It makes no anti-vaccine claims itself, but its topic is vaccine-hesitancy discourse. The quoted dataset figure (7.89 million interactions) is unverified.",
    "model": "claude-opus-5-5",
-   "latency_ms": 12035,
+   "latency_ms": 14472,
    "raw": {
     "per_frame": [
      {
       "frame": "slide 1",
-      "rating": 58,
-      "verdict": "inconclusive"
+      "rating": 60,
+      "verdict": "synthetic_likely"
      },
      {
       "frame": "slide 5",
-      "rating": 58,
+      "rating": 55,
       "verdict": "inconclusive"
      },
      {
       "frame": "slide 10",
-      "rating": 55,
+      "rating": 58,
       "verdict": "inconclusive"
      },
      {
       "frame": "slide 14",
-      "rating": 55,
+      "rating": 40,
       "verdict": "inconclusive"
      }
     ],
@@ -118,25 +118,25 @@
    "name": "OpenAI Vision",
    "kind": "vision",
    "status": "ok",
-   "rating": 15,
+   "rating": 20,
    "verdict": "inconclusive",
-   "confidence": "medium",
-   "summary": "Worst of 4 frames (slide 1): synthetic likelihood 15/100; tells: Presentation-slide layout rather than a camera photograph, Legible typography with consistent letterforms and alignment, Network illustration uses clean straight edges and regularly placed circular nodes, No obvious generative distortions; conventional vector graphics could explain the design",
+   "confidence": "low",
+   "summary": "Worst of 4 frames (slide 5): synthetic likelihood 20/100; tells: Consistently legible text with coherent letterforms and regular spacing, Four circular nodes with uniform glow effects and thin connecting lines, Aligned text blocks and repeated geometric network decorations typical of presentation graphics, No photographic subjects or camera texture available for assessment",
    "evidence": [
     "Frame slide 1: 15/100",
-    "Frame slide 5: 15/100",
-    "Frame slide 10: 12/100",
-    "Frame slide 14: 10/100",
-    "Presentation-slide layout rather than a camera photograph",
-    "Legible typography with consistent letterforms and alignment",
-    "Network illustration uses clean straight edges and regularly placed circular nodes",
-    "No obvious generative distortions; conventional vector graphics could explain the design",
-    "Caveat: A digitally designed slide is not itself evidence of AI generation; source files or provenance records are needed to distinguish conventional design from AI assistance."
+    "Frame slide 5: 20/100",
+    "Frame slide 10: 15/100",
+    "Frame slide 14: 15/100",
+    "Consistently legible text with coherent letterforms and regular spacing",
+    "Four circular nodes with uniform glow effects and thin connecting lines",
+    "Aligned text blocks and repeated geometric network decorations typical of presentation graphics",
+    "No photographic subjects or camera texture available for assessment",
+    "Caveat: This is a presentation graphic, not a camera photo; appearance alone cannot distinguish conventional slide design from AI-assisted production."
    ],
-   "visible_text": "Catalyst 2: The Conspiracy Ecosystem\n1\n#Plandemic\nThe Threat\nHoax\nMinimising the virus itself.\n\u00aaIt\u2019s just the flu,\u201d preferring\nnatural immunity over\ninterventions.\n#Scamdemic\n2\n#COVID1984\nThe Control\nMechanism\nBelief that mandates test\npublic compliance,\nequating health rules\nto authoritarian\nmouth-gags.\n#MaskTyranny\n3\nThe Micro-\nConstituent Fear\nTargeting vaccines\nspecifically: fears of mRNA\nDNA-alteration, microchips,\ninfertility, and Bill Gates\nnarratives.\nOnce a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the\n\u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
-   "vaccine_relevance": "Frames opposition to masks and vaccines as connected during the COVID-19 pandemic; references social-network research without presenting a specific vaccine safety or efficacy claim.",
+   "visible_text": "Catalyst 2: The Conspiracy Ecosystem\n1\n#Plandemic\nThe Threat\nHoax\nMinimising the virus itself.\n\u1d43It\u2019s just the flu,\u201d preferring\nnatural immunity over\ninterventions.\n#Scamdemic\n2\nThe Control\nMechanism\nBelief that mandates test\npublic compliance,\nequating health rules\nto authoritarian\nmouth-gags.\n#COVID1984\n#MaskTyranny\n3\nThe Micro-\nConstituent Fear\nTargeting vaccines\nspecifically: fears of mRNA\nDNA-alteration, microchips,\ninfertility, and Bill Gates\nnarratives.\nOnce a citizen accepted the \u2018Control Mechanism\u2019 premise for masks, transitioning to the\n\u2018Micro-Constituent Fear\u2019 for vaccines required almost no psychological leap.",
+   "vaccine_relevance": "Presentation frames mask and vaccine opposition as converging during the first year of COVID-19; no specific vaccine safety or efficacy claim is shown.",
    "model": "gpt-6-astra",
-   "latency_ms": 11639,
+   "latency_ms": 8564,
    "raw": {
     "per_frame": [
      {
@@ -146,21 +146,21 @@
      },
      {
       "frame": "slide 5",
-      "rating": 15,
+      "rating": 20,
       "verdict": "inconclusive"
      },
      {
       "frame": "slide 10",
-      "rating": 12,
-      "verdict": "authentic_likely"
+      "rating": 15,
+      "verdict": "inconclusive"
      },
      {
       "frame": "slide 14",
-      "rating": 10,
+      "rating": 15,
       "verdict": "inconclusive"
      }
     ],
-    "representative": "slide 1"
+    "representative": "slide 5"
    }
   },
   {
@@ -171,27 +171,27 @@
    "rating": 28,
    "verdict": "authentic_likely",
    "confidence": "medium",
-   "summary": "Worst of 4 frames (slide 5): synthetic likelihood 28/100; tells: sharp vector-style typography, clean standard digital design elements, absence of generative diffusion artifacts, structured geometric layout",
+   "summary": "Worst of 4 frames (slide 1): synthetic likelihood 28/100; tells: clean vector geometry, standard digital typography, consistent presentation graphic layout, absence of generative diffusion artifacts",
    "evidence": [
-    "Frame slide 1: 25/100",
+    "Frame slide 1: 28/100",
     "Frame slide 5: 28/100",
     "Frame slide 10: 25/100",
-    "Frame slide 14: 25/100",
-    "Sharp vector-style typography",
-    "Clean standard digital design elements",
+    "Frame slide 14: 28/100",
+    "Clean vector geometry",
+    "Standard digital typography",
+    "Consistent presentation graphic layout",
     "Absence of generative diffusion artifacts",
-    "Structured geometric layout",
-    "Caveat: Standard presentation slide graphics can be synthesized or edited via modern automated design tools."
+    "Caveat: Digital vector graphics and layout elements can mimic procedural generation tools."
    ],
    "visible_text": "Catalyst 2: The Conspiracy Ecosystem\n1\nThe Threat Hoax\nMinimising the virus itself. \"It's just the flu,\" preferring natural immunity over interventions.\n#Plandemic\n#Scamdemic\n2\nThe Control Mechanism\nBelief that mandates test public compliance, equating health rules to authoritarian mouth-gags.\n#COVID1984\n#MaskTyranny\n3\nThe Micro-Constituent Fear\nTargeting vaccines specifically: fears of mRNA DNA-alteration, microchips, infertility, and Bill Gates narratives.\nOnce a citizen accepted the 'Control Mechanism' premise for masks, transitioning to the 'Micro-Constituent Fear' for vaccines required almost no psychological leap.",
-   "vaccine_relevance": "Slide discussing academic or analytical research into public health opposition to masks and COVID-19 vaccines.",
+   "vaccine_relevance": "Academic or research presentation slide studying COVID-19 mask and vaccine opposition dynamics.",
    "model": "gemini-3.8-flash",
-   "latency_ms": 3188,
+   "latency_ms": 6625,
    "raw": {
     "per_frame": [
      {
       "frame": "slide 1",
-      "rating": 25,
+      "rating": 28,
       "verdict": "authentic_likely"
      },
      {
@@ -206,11 +206,11 @@
      },
      {
       "frame": "slide 14",
-      "rating": 25,
+      "rating": 28,
       "verdict": "authentic_likely"
      }
     ],
-    "representative": "slide 5"
+    "representative": "slide 1"
    }
   },
   {
@@ -231,7 +231,7 @@
    "visible_text": null,
    "vaccine_relevance": null,
    "model": null,
-   "latency_ms": 97,
+   "latency_ms": 6,
    "raw": {
     "validation": {
      "integrity": "absent",
@@ -272,7 +272,7 @@
    "visible_text": null,
    "vaccine_relevance": null,
    "model": null,
-   "latency_ms": 96,
+   "latency_ms": 105,
    "raw": {
     "per_frame": [
      {
@@ -303,7 +303,7 @@
  "frames": [
   {
    "frame": "slide 1",
-   "rating": 25,
+   "rating": 28,
    "verdict": "inconclusive",
    "phash": "ad1c91e1d7c2c639"
   },
@@ -316,12 +316,12 @@
   {
    "frame": "slide 10",
    "rating": 25,
-   "verdict": "authentic_likely",
+   "verdict": "inconclusive",
    "phash": "af8c0bb23ae0f21e"
   },
   {
    "frame": "slide 14",
-   "rating": 25,
+   "rating": 28,
    "verdict": "inconclusive",
    "phash": "ed2d92921b696cc6"
   }
@@ -333,9 +333,9 @@
   "ed2d92921b696cc6"
  ],
  "meta": {
-  "report_id": "07b8225b-30ca-47ee-8808-13e21f17ca4b",
+  "report_id": "250bad8f-c5c8-49fb-8c8c-10a2b68368b0",
   "input_sha256": "d0ec89da564078611922195fca82364f2f8e63d253d02a6d9bb672a8265c5f15",
-  "method_version": "verdict-consistency-2026-09-26.1",
+  "method_version": "pdf-preparation-2026-09-26.1",
   "context_sha256": "1bc166797a8ce62a5e71aaf8a9e42b5221b28c450082a8d5c22163235595d487",
   "extraction_policy": {
    "pdf_mode": "auto",
@@ -344,23 +344,37 @@
   "tool": "SDA Vision",
   "version": "0.1.0",
   "panel_version": "panel-2026-09-24",
-  "generated_at": "2026-09-26T17:54:46+00:00",
+  "generated_at": "2026-09-26T22:31:28+00:00",
   "filename": "presentation.pptx",
   "kind": "pptx",
   "frame_count": 4,
   "frames_found": 14,
   "notes": [
    "14 slides; sampled 4 of 14 embedded slide image(s).",
-   "Recomputed locally from the same saved provider replies acquired under run five-examples-20260926-r1. No new provider requests. Original report f08956d6-23e1-4043-972d-6af6e3cd2603 was generated at 2026-09-26T17:38:39+00:00 under method publication-repair-2026-09-24.3; that report is preserved.",
-   "Method verdict-consistency-2026-09-26.1: directional model votes require matching explicit verdicts and rating thresholds. Inconclusive replies retain their ratings and remain undecided observations.",
-   "Presentation copy of saved report d5854304-5dab-4b76-945b-d844e5fe7c44. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis."
+   "Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.",
+   "Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step."
   ],
   "mode": "general",
-  "elapsed_ms": 90861,
+  "elapsed_ms": 94923,
   "models": [
    "claude-opus-5-5",
    "gemini-3.8-flash",
    "gpt-6-astra"
+  ],
+  "acquisition_run_id": "eleven-examples-refresh-20260926-r1",
+  "provider_acquired_at": [
+   "2026-09-26T22:29:22.427723+00:00",
+   "2026-09-26T22:29:25.848963+00:00",
+   "2026-09-26T22:29:30.956985+00:00",
+   "2026-09-26T22:29:45.434354+00:00",
+   "2026-09-26T22:29:49.354333+00:00",
+   "2026-09-26T22:29:57.922655+00:00",
+   "2026-09-26T22:30:11.905492+00:00",
+   "2026-09-26T22:30:18.541249+00:00",
+   "2026-09-26T22:30:24.195957+00:00",
+   "2026-09-26T22:30:35.356013+00:00",
+   "2026-09-26T22:30:39.521351+00:00",
+   "2026-09-26T22:30:45.779208+00:00"
   ],
   "thumbnail": "data:image/jpeg;base64,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"
  }

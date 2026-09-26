@@ -2,42 +2,54 @@
 
 - **File:** journal-image.png
 - **Tool version:** 0.1.0
-- **Verdict:** inconclusive (confidence low)
-- **Indicative score:** n/a (no numeric score)
-- **Method version:** verdict-consistency-2026-09-26.1
+- **Verdict:** synthetic likely (confidence high)
+- **Indicative score:** 78/100 (median of available model ratings; not a calibrated probability)
+- **Method version:** pdf-preparation-2026-09-26.1
 - **Input SHA-256:** b11aa1e8c5c17a9496d362987bd4bf0c00a83bccd3a4a704f0f6ab7a7cf6fc8d
-- **Headline:** Inconclusive
+- **Headline:** Leaning synthetic
 - **Input:** image - 1 frame(s) analysed
-- **Generated:** 2026-09-26T18:37:47+00:00
-- **Models:** none
+- **Generated:** 2026-09-26T22:31:06+00:00
+- **Models:** claude-opus-5-5, gemini-3.8-flash, gpt-6-astra
 
-> No vision model returned a usable result. Check provider status in the table.
+> 3 models agree this is likely synthetic.
 
 **Research assessment. Review alongside source information and context. When credentials are missing, origin remains unresolved by this check. Use these findings to inform a documented human review.**
 
 ## How the file was read
 
-- Local checks only. LLM visual checks have not been run for this example; no provider requests or fees. An Inconclusive combined result here reflects unavailable visual assessments, not three inconclusive model replies.
-- Presentation copy of saved report 51daff64-c246-46da-95b5-06bef3c925b8. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis.
+- Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.
+- Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step.
 
 ## Provider ratings
 
 | Provider | Model | Type | Status | Verdict | Rating | Confidence | Signal |
 |---|---|---|---|---|---|---|---|
-| Claude Vision | - | vision | disabled | inconclusive |  | - | - |
-| OpenAI Vision | - | vision | disabled | inconclusive |  | - | - |
-| Gemini Vision | - | vision | disabled | inconclusive |  | - | - |
+| Claude Vision | claude-opus-5-5 | vision | ok | synthetic likely | 90 | medium | supporting |
+| OpenAI Vision | gpt-6-astra | vision | ok | synthetic likely | 78 | medium | supporting |
+| Gemini Vision | gemini-3.8-flash | vision | ok | synthetic likely | 72 | medium | supporting |
 | C2PA Content Credentials | - | provenance | ok | inconclusive |  | - | additional |
 | Local forensic cues | - | forensic | ok | partially synthetic | 41 | low | additional |
 
 ## Key evidence per provider
 
 - **Claude Vision**:
-  - No request or image was sent to this provider for this record.
+  - Uniform painterly-photoreal rendering style shared across the main scene and all six portrait tiles, typical of a single image-generation pass
+  - Stock-archetype faces with exaggerated, near-identical 'distressed' expressions and similar desaturated grading
+  - Over-smooth yet hyper-detailed skin texture (pores and stubble rendered evenly, slightly waxy highlights)
+  - Syringe and gloved-hand geometry ambiguous: needle entry point and grip read loosely, with fingers merging around the barrel
+  - Man's hand pinching the sleeve has soft, poorly separated knuckles
 - **OpenAI Vision**:
-  - No request or image was sent to this provider for this record.
+  - Main vaccination scene and six inset portraits share unusually uniform cinematic lighting and textured skin rendering.
+  - Syringe barrel, plunger, and gloved grip have indistinct, difficult-to-reconcile geometry.
+  - Hair and facial creases in several portraits appear unusually densely sharpened against smooth backgrounds.
+  - Crisp, coherent typography and neatly aligned panels indicate a designed graphic but do not independently establish AI use.
+  - Caveat: A professionally designed collage of stock photographs could produce similar styling; source assets and provenance are needed to distinguish generated portraits from conventional editing.
 - **Gemini Vision**:
-  - No request or image was sent to this provider for this record.
+  - Model read this as AI editing over a photographic base image
+  - Hyper-rendered skin textures
+  - Characteristic AI portrait lighting across multiple subjects
+  - Slightly unnatural finger and needle interaction
+  - Stereotyped expressive posing common in text-to-image models
 - **C2PA Content Credentials**:
   - Embedded credentials: none found. Origin remains unresolved by this check.
   - Coverage: credentials embedded in the submitted file. External credentials were not retrieved.
@@ -52,7 +64,9 @@
 
 ## Evidence supporting this verdict
 
-- (none)
+- **Claude Vision** (90): synthetic likelihood 90/100; tells: uniform painterly-photoreal rendering style shared across the main scene and all six portrait tiles, typical of a single image-generation pass, stock-archetype faces with exaggerated, near-identical 'distressed' expressions and similar desaturated grading, over-smooth yet hyper-detailed skin texture (pores and stubble rendered evenly, slightly waxy highlights), syringe and gloved-hand geometry ambiguous: needle entry point and grip read loosely, with fingers merging around the barrel
+- **OpenAI Vision** (78): synthetic likelihood 78/100; tells: Main vaccination scene and six inset portraits share unusually uniform cinematic lighting and textured skin rendering., Syringe barrel, plunger, and gloved grip have indistinct, difficult-to-reconcile geometry., Hair and facial creases in several portraits appear unusually densely sharpened against smooth backgrounds., Crisp, coherent typography and neatly aligned panels indicate a designed graphic but do not independently establish AI use.
+- **Gemini Vision** (72): synthetic likelihood 72/100; tells: model read this as AI editing over a photographic base image, hyper-rendered skin textures, characteristic AI portrait lighting across multiple subjects, slightly unnatural finger and needle interaction
 
 ## Additional findings
 
@@ -61,8 +75,23 @@ Shown separately from the combined assessment.
 - **Local forensic cues**: Supporting observation; considered alongside the model assessments.
 - **C2PA Content Credentials**: Embedded credentials: none found. Origin remains unresolved by this check.
 
+## Visible text
+
+```
+Research Brief • 2025
+Neurological Reports Following
+Immunisation: A Preliminary Review
+NEW REVIEW RAISES QUESTIONS
+ABOUT mRNA SHOTS
+Z
+Z
+MOOD
+MEMORY
+SLEEP
+```
+
 ## How this assessment was reached
 
 1. `override` outcome=none; detail=No confirmed C2PA AI assertion or SynthID watermark. Origin remains unresolved by these checks.
-2. `model_agreement` synthetic=[]; authentic=[]; uncertain=[]; forensic_supports_synthetic=False
-3. `verdict` value=inconclusive; confidence=low; reason=No vision model returned a usable result. Check provider status in the table.
+2. `model_agreement` synthetic=['Claude Vision', 'OpenAI Vision', 'Gemini Vision']; authentic=[]; uncertain=[]; forensic_supports_synthetic=False
+3. `verdict` value=synthetic_likely; confidence=high; reason=3 models agree this is likely synthetic.

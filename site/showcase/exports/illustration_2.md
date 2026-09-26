@@ -3,12 +3,12 @@
 - **File:** illustration-2.png
 - **Tool version:** 0.1.0
 - **Verdict:** synthetic likely (confidence high)
-- **Indicative score:** 85/100 (median of available model ratings; not a calibrated probability)
-- **Method version:** verdict-consistency-2026-09-26.1
+- **Indicative score:** 82/100 (median of available model ratings; not a calibrated probability)
+- **Method version:** pdf-preparation-2026-09-26.1
 - **Input SHA-256:** 6693be931db5fb33a8cacfae382bf3bc79fc23b0d9f8e967015a663688d8c8f5
 - **Headline:** Leaning synthetic
 - **Input:** image - 1 frame(s) analysed
-- **Generated:** 2026-09-26T17:54:46+00:00
+- **Generated:** 2026-09-26T22:31:04+00:00
 - **Models:** claude-opus-5-5, gemini-3.8-flash, gpt-6-astra
 
 > 3 models agree this is likely synthetic.
@@ -17,16 +17,15 @@
 
 ## How the file was read
 
-- Recomputed locally from the same saved provider replies acquired under run five-examples-20260926-r1. No new provider requests. Original report 6ea1656c-14d6-4257-bf8c-ed1a698f7865 was generated at 2026-09-26T17:38:40+00:00 under method publication-repair-2026-09-24.3; that report is preserved.
-- Method verdict-consistency-2026-09-26.1: directional model votes require matching explicit verdicts and rating thresholds. Inconclusive replies retain their ratings and remain undecided observations.
-- Presentation copy of saved report bced0e9e-ff82-4c4a-82bc-404c08a9a212. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis.
+- Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.
+- Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step.
 
 ## Provider ratings
 
 | Provider | Model | Type | Status | Verdict | Rating | Confidence | Signal |
 |---|---|---|---|---|---|---|---|
 | Claude Vision | claude-opus-5-5 | vision | ok | synthetic likely | 88 | medium | supporting |
-| OpenAI Vision | gpt-6-astra | vision | ok | synthetic likely | 85 | medium | supporting |
+| OpenAI Vision | gpt-6-astra | vision | ok | synthetic likely | 82 | medium | supporting |
 | Gemini Vision | gemini-3.8-flash | vision | ok | synthetic likely | 72 | medium | supporting |
 | C2PA Content Credentials | - | provenance | ok | inconclusive |  | - | additional |
 | Local forensic cues | - | forensic | ok | partially synthetic | 41 | low | additional |
@@ -34,23 +33,23 @@
 ## Key evidence per provider
 
 - **Claude Vision**:
-  - Garbled secondary text on props: 'ULTRA-PATCAI' on raised bottle, 'REMEDV' on jar, 'Buu' on picket sign
-  - Picket sign text is repetitive and semantically incoherent ('Chloe Dubois Buy Chloe')
-  - Poster is held by two people's hands yet also rests on an easel, which is physically redundant
-  - Homogeneous glossy digital-comic rendering with uniform line weight and soft airbrushed shading typical of diffusion image models
-  - Large crowd of stylistically similar, idealized faces with consistent generic features
+  - Garbled secondary text on props: 'ULTRA-PATCAI' bottle label, 'Buy Chloe' / 'Buy' rendered as 'Buu' on placard, 'REMEDV' jar label
+  - Illegible pseudo-text lines on 'VACCINE FACTS' sheet and 'REMEDY' label
+  - 'EMERGENCY' sign truncated and awkwardly occluded
+  - Uniform glossy semi-realistic comic rendering typical of diffusion image models across all faces
+  - Man with megaphone holding a bottle in a hand of ambiguous ownership near the poster, suggesting limb/hand attribution confusion
 - **OpenAI Vision**:
-  - Bottle-gripping fingers have crowded, irregular contours and ambiguous joins to wrists.
-  - The small placard repeats the name in the awkward sequence 'Chloe Dubois Buu Chloe'.
-  - Uniform glossy facial shading and densely repeated hair contours across the illustrated crowd.
-  - Some hands and arms overlap props with unclear anatomical connections.
-  - Caveat: This is a digital illustration; stylization and manual compositing can mimic generation artifacts, so AI origin requires provenance review.
+  - Ambiguous arm ownership around the megaphone and raised bottle
+  - Cramped, irregular finger contours around the small ULTRA-PATCH bottle
+  - Background placard repeats 'Chloe Dubois Buy Chloe' without clear layout logic
+  - Highly uniform glossy facial shading and repeated stylized hair highlights across the crowd
+  - Caveat: This is an illustration, not a camera photo; stylization and polished lettering alone cannot distinguish AI generation from human artwork. Source files and provenance need review.
 - **Gemini Vision**:
-  - Stylized digital comic illustration style
-  - Characteristic generative AI linework consistency
-  - Overly smooth shading on faces and hair
-  - Inconsistencies in minor background details
-  - Caveat: Standard digital illustration techniques can closely mimic AI-generated comic and vector aesthetics.
+  - Model read this as AI editing over a photographic base image
+  - Smooth vector-comic diffusion styling
+  - Slight anatomical and hand rendering anomalies
+  - AI-typical illustrative shading on hair and faces
+  - Typeset overlays added digitally over generated background art
 - **C2PA Content Credentials**:
   - Embedded credentials: none found. Origin remains unresolved by this check.
   - Coverage: credentials embedded in the submitted file. External credentials were not retrieved.
@@ -65,9 +64,9 @@
 
 ## Evidence supporting this verdict
 
-- **Claude Vision** (88): synthetic likelihood 88/100; tells: garbled secondary text on props: 'ULTRA-PATCAI' on raised bottle, 'REMEDV' on jar, 'Buu' on picket sign, picket sign text is repetitive and semantically incoherent ('Chloe Dubois Buy Chloe'), poster is held by two people's hands yet also rests on an easel, which is physically redundant, homogeneous glossy digital-comic rendering with uniform line weight and soft airbrushed shading typical of diffusion image models
-- **OpenAI Vision** (85): synthetic likelihood 85/100; tells: Bottle-gripping fingers have crowded, irregular contours and ambiguous joins to wrists., The small placard repeats the name in the awkward sequence 'Chloe Dubois Buu Chloe'., Uniform glossy facial shading and densely repeated hair contours across the illustrated crowd., Some hands and arms overlap props with unclear anatomical connections.
-- **Gemini Vision** (72): synthetic likelihood 72/100; tells: stylized digital comic illustration style, characteristic generative AI linework consistency, overly smooth shading on faces and hair, inconsistencies in minor background details
+- **Claude Vision** (88): synthetic likelihood 88/100; tells: garbled secondary text on props: 'ULTRA-PATCAI' bottle label, 'Buy Chloe' / 'Buy' rendered as 'Buu' on placard, 'REMEDV' jar label, illegible pseudo-text lines on 'VACCINE FACTS' sheet and 'REMEDY' label, 'EMERGENCY' sign truncated and awkwardly occluded, uniform glossy semi-realistic comic rendering typical of diffusion image models across all faces
+- **OpenAI Vision** (82): synthetic likelihood 82/100; tells: Ambiguous arm ownership around the megaphone and raised bottle, Cramped, irregular finger contours around the small ULTRA-PATCH bottle, Background placard repeats 'Chloe Dubois Buy Chloe' without clear layout logic, Highly uniform glossy facial shading and repeated stylized hair highlights across the crowd
+- **Gemini Vision** (72): synthetic likelihood 72/100; tells: model read this as AI editing over a photographic base image, smooth vector-comic diffusion styling, slight anatomical and hand rendering anomalies, AI-typical illustrative shading on hair and faces
 
 ## Additional findings
 
@@ -79,7 +78,7 @@ Shown separately from the combined assessment.
 ## Visible text
 
 ```
-Chloe Dubois is suffering “side effects”! Our unique detox patches are the ONLY answer! Buy them now! The true cure! | STOP YOUR DANGEROUS LIES! Chloe is healthy and pro-vaccine! Vaccines are proven safe! | The only “injury” is your grift! Our public health is not for sale. Science Defends All! | HOSPITAL | EMERGENCY | Chloe Dubois Buu Chloe | ULTRA-PATCAI | ULTRA-PATCH | CHLOE-CLEANSE | REMEDV | VACCINE FACTS | CHLOE DUBOIS | SDA
+Chloe Dubois is suffering “side effects”! Our unique detox patches are the ONLY answer! Buy them now! The true cure! | STOP YOUR DANGEROUS LIES! Chloe is healthy and pro-vaccine! Vaccines are proven safe! | The only “injury” is your grift! Our public health is not for sale. Science Defends All! | Chloe Dubois Buu Chloe | ULTRA-PATCAI | HOSPITAL | EMERGENCY | ULTRA-PATCH | CHLOE-CLEANSE | REMEDV | VACCINE FACTS | CHLOE DUBOIS | SDA
 ```
 
 ## How this assessment was reached

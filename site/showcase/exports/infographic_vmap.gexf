@@ -25,21 +25,21 @@
       <node id="item" label="infographic.pdf">
         <attvalues>
           <attvalue for="0" value="inconclusive" />
-          <attvalue for="1" value="26" />
+          <attvalue for="1" value="27" />
           <attvalue for="2" value="low" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="item" />
           <attvalue for="5" value="" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
-          <attvalue for="9" value="0.7" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.9" />
         </attvalues>
       </node>
       <node id="sig_claude" label="Claude Vision">
         <attvalues>
-          <attvalue for="0" value="inconclusive" />
-          <attvalue for="1" value="55" />
+          <attvalue for="0" value="synthetic_likely" />
+          <attvalue for="1" value="62" />
           <attvalue for="2" value="low" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
@@ -62,14 +62,14 @@
           <attvalue for="10" value="vision" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="0" />
+          <attvalue for="8" value="1" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
       <node id="sig_gemini" label="Gemini Vision">
         <attvalues>
           <attvalue for="0" value="authentic_likely" />
-          <attvalue for="1" value="28" />
+          <attvalue for="1" value="30" />
           <attvalue for="2" value="medium" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
@@ -77,7 +77,7 @@
           <attvalue for="10" value="vision" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
+          <attvalue for="8" value="0" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -92,7 +92,7 @@
           <attvalue for="10" value="provenance" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="0" />
+          <attvalue for="8" value="1" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -107,7 +107,7 @@
           <attvalue for="10" value="forensic" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
+          <attvalue for="8" value="0" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -143,19 +143,7 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_openai" id="5" weight="0.6">
-        <attvalues>
-          <attvalue for="11" value="agree" />
-          <attvalue for="12" value="-1" />
-        </attvalues>
-      </edge>
-      <edge source="sig_claude" target="sig_c2pa" id="6" weight="0.6">
-        <attvalues>
-          <attvalue for="11" value="agree" />
-          <attvalue for="12" value="-1" />
-        </attvalues>
-      </edge>
-      <edge source="sig_openai" target="sig_c2pa" id="7" weight="0.6">
+      <edge source="sig_openai" target="sig_c2pa" id="5" weight="0.6">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />

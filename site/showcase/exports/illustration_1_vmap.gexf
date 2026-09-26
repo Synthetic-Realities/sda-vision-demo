@@ -39,7 +39,7 @@
       <node id="sig_claude" label="Claude Vision">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
-          <attvalue for="1" value="85" />
+          <attvalue for="1" value="82" />
           <attvalue for="2" value="medium" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
@@ -143,13 +143,13 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_openai" id="5" weight="0.93">
+      <edge source="sig_claude" target="sig_openai" id="5" weight="0.96">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_gemini" id="6" weight="0.87">
+      <edge source="sig_claude" target="sig_gemini" id="6" weight="0.9">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />

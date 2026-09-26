@@ -3,12 +3,12 @@
 - **File:** earth-image.jpg
 - **Tool version:** 0.1.0
 - **Verdict:** authentic likely (confidence medium)
-- **Indicative score:** 5/100 (median of available model ratings; not a calibrated probability)
-- **Method version:** verdict-consistency-2026-09-26.1
+- **Indicative score:** 4/100 (median of available model ratings; not a calibrated probability)
+- **Method version:** pdf-preparation-2026-09-26.1
 - **Input SHA-256:** a4bad2aba040fd992aff7483eee6166943e232061b82d7149b2060786719753b
 - **Headline:** Leaning authentic
 - **Input:** image - 1 frame(s) analysed
-- **Generated:** 2026-09-26T17:54:47+00:00
+- **Generated:** 2026-09-26T22:31:03+00:00
 - **Models:** claude-opus-5-5, gemini-3.8-flash, gpt-6-astra
 
 > 3 models lean authentic with matching verdicts and ratings. Review the other findings, original source and context alongside this result.
@@ -17,40 +17,39 @@
 
 ## How the file was read
 
-- Recomputed locally from the same saved provider replies acquired under run five-examples-20260926-r1. No new provider requests. Original report 6201ac7a-3540-405f-b234-0346b77f7672 was generated at 2026-09-26T17:38:41+00:00 under method publication-repair-2026-09-24.3; that report is preserved.
-- Method verdict-consistency-2026-09-26.1: directional model votes require matching explicit verdicts and rating thresholds. Inconclusive replies retain their ratings and remain undecided observations.
-- Presentation copy of saved report cf784e2f-0554-4bed-8880-c825ae7b8282. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis.
+- Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.
+- Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step.
 
 ## Provider ratings
 
 | Provider | Model | Type | Status | Verdict | Rating | Confidence | Signal |
 |---|---|---|---|---|---|---|---|
-| Claude Vision | claude-opus-5-5 | vision | ok | authentic likely | 5 | high | supporting |
+| Claude Vision | claude-opus-5-5 | vision | ok | authentic likely | 4 | high | supporting |
 | OpenAI Vision | gpt-6-astra | vision | ok | authentic likely | 2 | high | supporting |
-| Gemini Vision | gemini-3.8-flash | vision | ok | authentic likely | 15 | high | supporting |
+| Gemini Vision | gemini-3.8-flash | vision | ok | authentic likely | 25 | medium | supporting |
 | C2PA Content Credentials | - | provenance | ok | inconclusive |  | - | additional |
 | Local forensic cues | - | forensic | ok | partially synthetic | 47 | low | additional |
 
 ## Key evidence per provider
 
 - **Claude Vision**:
-  - Composition matches the widely circulated 1972 Apollo 17 'Blue Marble' photograph (AS17-148-22727)
-  - Geographically accurate Africa, Arabian Peninsula, Red Sea, Gulf of Aden and Madagascar outlines
-  - Antarctic ice cap consistent with December solstice illumination
-  - Physically coherent cloud structures: cyclonic swirls, frontal bands, open-cell cumulus fields
-  - Film-scan grain and slight color cast consistent with analog Hasselblad film digitization
+  - Visually consistent with the widely documented Apollo 17 'Blue Marble' photograph (NASA AS17-148-22727, Dec 1972)
+  - Geographically accurate coastlines: Africa, Arabian Peninsula, Red Sea, Gulf of Aden, Madagascar, Antarctic ice cap
+  - Physically coherent cloud systems and cyclonic swirls with plausible meteorological structure
+  - Film-scan grain and slight color cast consistent with analog photography
+  - Natural limb shading and terminator-free full-disc illumination consistent with sun behind the camera
 - **OpenAI Vision**:
-  - Coherent coastlines of Africa, Madagascar and the Arabian Peninsula
-  - Irregular, finely detailed cloud systems with consistent spherical foreshortening
-  - Natural atmospheric haze and gradual shading around Earth's limb
-  - Fine photographic grain and slight color fringing along the globe edge
-  - Caveat: Resembles the historical Blue Marble photograph; source-file comparison is needed to establish provenance and exclude subtle edits.
+  - Coherent African, Arabian Peninsula, and Madagascar coastlines
+  - Intricate, nonrepeating cloud bands and storm spirals
+  - Consistent atmospheric haze and foreshortening toward Earth's limb
+  - Fine grain and slight softness consistent with a scanned photograph
+  - Composition closely resembles the historical Blue Marble photograph
 - **Gemini Vision**:
-  - Authentic Apollo 17 'Blue Marble' photograph
-  - Natural film grain structure
-  - Consistent atmospheric limb glow
-  - Accurate meteorological cloud swirls
-  - Caveat: High-profile historic images are frequently duplicated, cropped, or color-adjusted across digital archives.
+  - Authentic film grain
+  - Consistent atmospheric limb scatter
+  - Historically documented cloud formations
+  - Natural optical sensor characteristics
+  - Caveat: High-profile historical images can be digitally remastered or simulated by generative models.
 - **C2PA Content Credentials**:
   - Embedded credentials: none found. Origin remains unresolved by this check.
   - Coverage: credentials embedded in the submitted file. External credentials were not retrieved.
@@ -65,9 +64,9 @@
 
 ## Evidence supporting this verdict
 
-- **Claude Vision** (5): synthetic likelihood 5/100; tells: composition matches the widely circulated 1972 Apollo 17 'Blue Marble' photograph (AS17-148-22727), geographically accurate Africa, Arabian Peninsula, Red Sea, Gulf of Aden and Madagascar outlines, Antarctic ice cap consistent with December solstice illumination, physically coherent cloud structures: cyclonic swirls, frontal bands, open-cell cumulus fields
-- **OpenAI Vision** (2): synthetic likelihood 2/100; tells: Coherent coastlines of Africa, Madagascar and the Arabian Peninsula, Irregular, finely detailed cloud systems with consistent spherical foreshortening, Natural atmospheric haze and gradual shading around Earth's limb, Fine photographic grain and slight color fringing along the globe edge
-- **Gemini Vision** (15): synthetic likelihood 15/100; tells: authentic Apollo 17 'Blue Marble' photograph, natural film grain structure, consistent atmospheric limb glow, accurate meteorological cloud swirls
+- **Claude Vision** (4): synthetic likelihood 4/100; tells: visually consistent with the widely documented Apollo 17 'Blue Marble' photograph (NASA AS17-148-22727, Dec 1972), geographically accurate coastlines: Africa, Arabian Peninsula, Red Sea, Gulf of Aden, Madagascar, Antarctic ice cap, physically coherent cloud systems and cyclonic swirls with plausible meteorological structure, film-scan grain and slight color cast consistent with analog photography
+- **OpenAI Vision** (2): synthetic likelihood 2/100; tells: Coherent African, Arabian Peninsula, and Madagascar coastlines, Intricate, nonrepeating cloud bands and storm spirals, Consistent atmospheric haze and foreshortening toward Earth's limb, Fine grain and slight softness consistent with a scanned photograph
+- **Gemini Vision** (25): synthetic likelihood 25/100; tells: authentic film grain, consistent atmospheric limb scatter, historically documented cloud formations, natural optical sensor characteristics
 
 ## Additional findings
 

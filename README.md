@@ -9,8 +9,9 @@ An academic research project of **Synthetic Realities**, led by **Dr Sam Martin*
 This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
 
 This repository contains the prepared website, eleven approved examples and their
-saved findings. Eight examples reuse saved model assessments; three article/poster
-images have local checks only. Visitors can explore Developer, Community Workshop
+saved findings. All eleven now have recorded Claude, OpenAI and Gemini
+assessments. The PDF and presentation each use four sampled images; the podcast
+assessment covers a transcript excerpt. Visitors can explore Developer, Community Workshop
 and trainer views, use prepared batches and download reports. New Second Opinion
 replies remain in browser memory and can be exported separately from recorded findings.
 The site accepts no visitor file uploads and makes no new analysis-provider calls.
@@ -32,7 +33,9 @@ third-party dependencies retain their separate terms:
 
 The prepared site comes from the tested September 2026 candidate: 312 offline
 Python checks, fresh installation, frontend builds and export checks passed.
-Original media and recorded results are preserved. Physical-device, projector,
+Original media and earlier recorded results are preserved. The latest refresh
+completed 52 preparation API requests; all 33 example/model rows are complete.
+The demo notices sit beneath the branding and in the footer. Physical-device, projector,
 browser file-saving and native presentation-software rehearsals remain to be completed.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is

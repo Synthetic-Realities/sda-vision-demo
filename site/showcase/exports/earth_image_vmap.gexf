@@ -25,7 +25,7 @@
       <node id="item" label="earth-image.jpg">
         <attvalues>
           <attvalue for="0" value="authentic_likely" />
-          <attvalue for="1" value="5" />
+          <attvalue for="1" value="4" />
           <attvalue for="2" value="medium" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="item" />
@@ -39,7 +39,7 @@
       <node id="sig_claude" label="Claude Vision">
         <attvalues>
           <attvalue for="0" value="authentic_likely" />
-          <attvalue for="1" value="5" />
+          <attvalue for="1" value="4" />
           <attvalue for="2" value="high" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
@@ -69,8 +69,8 @@
       <node id="sig_gemini" label="Gemini Vision">
         <attvalues>
           <attvalue for="0" value="authentic_likely" />
-          <attvalue for="1" value="15" />
-          <attvalue for="2" value="high" />
+          <attvalue for="1" value="25" />
+          <attvalue for="2" value="medium" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
           <attvalue for="5" value="gemini" />
@@ -143,19 +143,19 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_openai" id="5" weight="0.97">
+      <edge source="sig_claude" target="sig_openai" id="5" weight="0.98">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_gemini" id="6" weight="0.9">
+      <edge source="sig_claude" target="sig_gemini" id="6" weight="0.79">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_openai" target="sig_gemini" id="7" weight="0.87">
+      <edge source="sig_openai" target="sig_gemini" id="7" weight="0.77">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />

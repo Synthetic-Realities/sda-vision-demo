@@ -25,7 +25,7 @@
       <node id="item" label="illustration-2.png">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
-          <attvalue for="1" value="85" />
+          <attvalue for="1" value="82" />
           <attvalue for="2" value="high" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="item" />
@@ -54,7 +54,7 @@
       <node id="sig_openai" label="OpenAI Vision">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
-          <attvalue for="1" value="85" />
+          <attvalue for="1" value="82" />
           <attvalue for="2" value="medium" />
           <attvalue for="3" value="" />
           <attvalue for="4" value="signal" />
@@ -143,7 +143,7 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_openai" id="5" weight="0.97">
+      <edge source="sig_claude" target="sig_openai" id="5" weight="0.94">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />
@@ -155,7 +155,7 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_openai" target="sig_gemini" id="7" weight="0.87">
+      <edge source="sig_openai" target="sig_gemini" id="7" weight="0.9">
         <attvalues>
           <attvalue for="11" value="agree" />
           <attvalue for="12" value="-1" />

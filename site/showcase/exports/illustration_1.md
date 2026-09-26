@@ -4,11 +4,11 @@
 - **Tool version:** 0.1.0
 - **Verdict:** synthetic likely (confidence high)
 - **Indicative score:** 78/100 (median of available model ratings; not a calibrated probability)
-- **Method version:** verdict-consistency-2026-09-26.1
+- **Method version:** pdf-preparation-2026-09-26.1
 - **Input SHA-256:** 137f1b7c292c882be741e1a6c881ab4a2082c7dd6ab2181d63304000a0d92252
 - **Headline:** Leaning synthetic
 - **Input:** image - 1 frame(s) analysed
-- **Generated:** 2026-09-26T17:54:47+00:00
+- **Generated:** 2026-09-26T22:31:03+00:00
 - **Models:** claude-opus-5-5, gemini-3.8-flash, gpt-6-astra
 
 > 3 models agree this is likely synthetic.
@@ -17,15 +17,14 @@
 
 ## How the file was read
 
-- Recomputed locally from the same saved provider replies acquired under run five-examples-20260926-r1. No new provider requests. Original report 6ed01bd6-3868-4680-ba90-536492d5c7ff was generated at 2026-09-26T17:38:40+00:00 under method publication-repair-2026-09-24.3; that report is preserved.
-- Method verdict-consistency-2026-09-26.1: directional model votes require matching explicit verdicts and rating thresholds. Inconclusive replies retain their ratings and remain undecided observations.
-- Presentation copy of saved report 6faeca61-589d-4810-8b3a-aec00dfb18e5. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis.
+- Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.
+- Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step.
 
 ## Provider ratings
 
 | Provider | Model | Type | Status | Verdict | Rating | Confidence | Signal |
 |---|---|---|---|---|---|---|---|
-| Claude Vision | claude-opus-5-5 | vision | ok | synthetic likely | 85 | medium | supporting |
+| Claude Vision | claude-opus-5-5 | vision | ok | synthetic likely | 82 | medium | supporting |
 | OpenAI Vision | gpt-6-astra | vision | ok | synthetic likely | 78 | medium | supporting |
 | Gemini Vision | gemini-3.8-flash | vision | ok | synthetic likely | 72 | medium | supporting |
 | C2PA Content Credentials | - | provenance | ok | inconclusive |  | - | additional |
@@ -34,23 +33,23 @@
 ## Key evidence per provider
 
 - **Claude Vision**:
-  - Uniform digital-illustration style with inked outlines and painterly shading typical of current image generators
-  - Over-regular stippled texture in grey curly hair
-  - Wheelchair spoke and frame geometry inconsistent between wheels, with spokes merging and fading
-  - Tablet screen shows a generic, softly detailed garden scene with no UI elements
-  - Hands plausible but slightly smoothed, with simplified finger joints
+  - Not a camera photo: digital illustration in a uniform, polished comic/ink-and-colour style typical of current image generators
+  - Hyper-consistent line weight and cel shading across all figures with no stroke variation or construction marks
+  - Noisy, fragmented texture in the grey curly hair, resembling generator detail artifacts rather than deliberate strokes
+  - Tablet screen shows an indistinct garden/playground scene with smeared, non-specific detail
+  - Wheelchair spokes and frame are mostly plausible but slightly irregular in spacing and junctions
 - **OpenAI Vision**:
-  - Gray hair contains tangled, ribbon-like shapes inconsistent with the other hair rendering.
-  - Wheelchair spokes and frame supports intersect in mechanically ambiguous ways.
-  - Gesturing hands have uneven finger separation and awkward contours.
-  - Illustrated outlines and smooth shading throughout; no photographic base is evident.
-  - Caveat: This is a stylized illustration; human-drawn or stock artwork can share these irregularities, so source provenance should be checked.
+  - Older woman's gray hair contains tangled, ribbon-like shapes inconsistent with the other hair rendering.
+  - Wheelchair spokes and lower frame tubes form irregular junctions and ambiguous connections.
+  - Gesturing hands have uneven finger separation and merged-looking contours.
+  - Tablet garden has noticeably softer, less defined detail than the surrounding outlined illustration.
+  - Caveat: This is a digital illustration, not a photograph; stylized drawing errors alone cannot establish AI origin without provenance.
 - **Gemini Vision**:
-  - Digital illustration style with hyper-clean lines
-  - Typical diffusion model character rendering features
-  - Slight anatomical inconsistencies in hands and fingers
-  - Unusual blending around tablet screen integration
-  - Caveat: Vector or digital human art can closely mimic generative cartoon styles.
+  - Stylized digital line art with subtle AI generative markers
+  - Irregular finger proportions and geometry
+  - Overly smooth shading gradients typical of generative models
+  - Inconsistent perspective on wheelchair spokes
+  - Caveat: High-quality human digital vector/raster illustrations often closely resemble generative 2D art styles.
 - **C2PA Content Credentials**:
   - File integrity: validated. Signer trust: unresolved under the current local policy. The recorded declarations remain available for review and are not used as a decisive provenance finding. Manifest declares AI-generated content.
   - Credentials: embedded manifest found.
@@ -80,9 +79,9 @@
 
 ## Evidence supporting this verdict
 
-- **Claude Vision** (85): synthetic likelihood 85/100; tells: uniform digital-illustration style with inked outlines and painterly shading typical of current image generators, over-regular stippled texture in grey curly hair, wheelchair spoke and frame geometry inconsistent between wheels, with spokes merging and fading, tablet screen shows a generic, softly detailed garden scene with no UI elements
-- **OpenAI Vision** (78): synthetic likelihood 78/100; tells: Gray hair contains tangled, ribbon-like shapes inconsistent with the other hair rendering., Wheelchair spokes and frame supports intersect in mechanically ambiguous ways., Gesturing hands have uneven finger separation and awkward contours., Illustrated outlines and smooth shading throughout; no photographic base is evident.
-- **Gemini Vision** (72): synthetic likelihood 72/100; tells: digital illustration style with hyper-clean lines, typical diffusion model character rendering features, slight anatomical inconsistencies in hands and fingers, unusual blending around tablet screen integration
+- **Claude Vision** (82): synthetic likelihood 82/100; tells: not a camera photo: digital illustration in a uniform, polished comic/ink-and-colour style typical of current image generators, hyper-consistent line weight and cel shading across all figures with no stroke variation or construction marks, noisy, fragmented texture in the grey curly hair, resembling generator detail artifacts rather than deliberate strokes, tablet screen shows an indistinct garden/playground scene with smeared, non-specific detail
+- **OpenAI Vision** (78): synthetic likelihood 78/100; tells: Older woman's gray hair contains tangled, ribbon-like shapes inconsistent with the other hair rendering., Wheelchair spokes and lower frame tubes form irregular junctions and ambiguous connections., Gesturing hands have uneven finger separation and merged-looking contours., Tablet garden has noticeably softer, less defined detail than the surrounding outlined illustration.
+- **Gemini Vision** (72): synthetic likelihood 72/100; tells: stylized digital line art with subtle AI generative markers, irregular finger proportions and geometry, overly smooth shading gradients typical of generative models, inconsistent perspective on wheelchair spokes
 
 ## Additional findings
 

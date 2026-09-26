@@ -1,6 +1,6 @@
 {
  "consensus": {
-  "overall_rating": 84,
+  "overall_rating": 78,
   "score_basis": "median_model_ratings",
   "overall_verdict": "synthetic_likely",
   "confidence": "high",
@@ -34,21 +34,21 @@
   "supporting": [
    {
     "name": "Claude Vision",
-    "rating": 88,
+    "rating": 90,
     "verdict": "synthetic_likely",
-    "note": "synthetic likelihood 88/100; tells: hat merges with head with no visible ears or straps; fold-like ear shapes sit ambiguously under brim, overly smooth, idealized fur rendering with painterly micro-texture on face, whiskers unusually long, dense and uniformly bright, some originating from implausible positions, near-identical glossy eye reflections with slightly irregular pupil shapes"
+    "note": "synthetic likelihood 90/100; tells: ear anatomy ambiguous: folded ears appear to merge into the hat brim and head without a clear boundary, whiskers emerge from implausible origins (some from cheeks and neck, not only the muzzle pads) with inconsistent thickness and length, fur texture uniformly hyper-detailed and 'painted' across the face, with an overly regular tabby pattern, hat fits the cat's head perfectly with no deformation or visible support, typical of generated props"
    },
    {
     "name": "OpenAI Vision",
-    "rating": 84,
+    "rating": 78,
     "verdict": "synthetic_likely",
-    "note": "synthetic likelihood 84/100; tells: Chest fur forms unusually broad, layered, feather-like clumps, Cheek fur has a densely etched, repetitive texture, Ear contours merge ambiguously with fur beneath the hat brim, Highly polished eye and nose surfaces contrast with exaggerated fur detail"
+    "note": "synthetic likelihood 78/100; tells: Chest fur forms unusually broad, sculpted clumps compared with the fine facial fur, Several whiskers have angular bends and uneven thickness, Highly regular facial detailing and unusually smooth, uniform iris textures, Hat brim and partly concealed ears have ambiguous contact geometry"
    },
    {
     "name": "Gemini Vision",
-    "rating": 72,
+    "rating": 75,
     "verdict": "synthetic_likely",
-    "note": "synthetic likelihood 72/100; tells: overly uniform airbrushed fur rendering, implausible ear integration under hat, perfect studio lighting and stylized depth of field blur"
+    "note": "synthetic likelihood 75/100; tells: implausible ear anatomy under hat brim, hyper-smooth rendering of fur and felt texture, unnatural symmetry in whisker and facial layout, diffuse artificial lighting effects"
    }
   ],
   "not_decisive": [
@@ -75,43 +75,43 @@
    "name": "Claude Vision",
    "kind": "vision",
    "status": "ok",
-   "rating": 88,
+   "rating": 90,
    "verdict": "synthetic_likely",
    "confidence": "medium",
-   "summary": "synthetic likelihood 88/100; tells: hat merges with head with no visible ears or straps; fold-like ear shapes sit ambiguously under brim, overly smooth, idealized fur rendering with painterly micro-texture on face, whiskers unusually long, dense and uniformly bright, some originating from implausible positions, near-identical glossy eye reflections with slightly irregular pupil shapes",
+   "summary": "synthetic likelihood 90/100; tells: ear anatomy ambiguous: folded ears appear to merge into the hat brim and head without a clear boundary, whiskers emerge from implausible origins (some from cheeks and neck, not only the muzzle pads) with inconsistent thickness and length, fur texture uniformly hyper-detailed and 'painted' across the face, with an overly regular tabby pattern, hat fits the cat's head perfectly with no deformation or visible support, typical of generated props",
    "evidence": [
-    "Hat merges with head with no visible ears or straps; fold-like ear shapes sit ambiguously under brim",
-    "Overly smooth, idealized fur rendering with painterly micro-texture on face",
-    "Whiskers unusually long, dense and uniformly bright, some originating from implausible positions",
-    "Near-identical glossy eye reflections with slightly irregular pupil shapes",
-    "Hyper-stylized golden-hour backlight and creamy bokeh typical of text-to-image 'cinematic portrait' outputs",
-    "Ambiguous dark garment/background mass at lower right with no clear structure",
-    "Hat felt texture and brim edge fibers unusually uniform",
-    "Filename references Firefly and C2PA AI example (contextual, not visual, evidence)",
-    "Caveat: Rating relies partly on aesthetic cues that a staged, retouched pet photo could mimic, and the filename hint is unverified; a human should check the embedded C2PA manifest and file metadata directly rather than trusting the filename."
+    "Ear anatomy ambiguous: folded ears appear to merge into the hat brim and head without a clear boundary",
+    "Whiskers emerge from implausible origins (some from cheeks and neck, not only the muzzle pads) with inconsistent thickness and length",
+    "Fur texture uniformly hyper-detailed and 'painted' across the face, with an overly regular tabby pattern",
+    "Hat fits the cat's head perfectly with no deformation or visible support, typical of generated props",
+    "Idealized 'golden hour' bokeh and rim lighting consistent with stylized text-to-image output",
+    "Eye reflections are glossy but generic and do not clearly correspond to the background light source",
+    "Body and neck fur transition into a vague dark garment with an indistinct edge",
+    "No compression-consistent sensor grain; smooth, noise-free tonal gradients throughout",
+    "Caveat: A real photo of a cat wearing a hat is possible, and heavy retouching or upscaling can mimic generative artifacts. Metadata, C2PA/provenance data, and a reverse-image search should be checked before relying on this assessment."
    ],
    "visible_text": null,
    "vaccine_relevance": null,
    "model": "claude-opus-5-5",
-   "latency_ms": 13009,
+   "latency_ms": 8546,
    "raw": {
-    "synthetic_rating": 88,
+    "synthetic_rating": 90,
     "verdict": "synthetic_likely",
     "confidence": "medium",
     "tells": [
-     "hat merges with head with no visible ears or straps; fold-like ear shapes sit ambiguously under brim",
-     "overly smooth, idealized fur rendering with painterly micro-texture on face",
-     "whiskers unusually long, dense and uniformly bright, some originating from implausible positions",
-     "near-identical glossy eye reflections with slightly irregular pupil shapes",
-     "hyper-stylized golden-hour backlight and creamy bokeh typical of text-to-image 'cinematic portrait' outputs",
-     "ambiguous dark garment/background mass at lower right with no clear structure",
-     "hat felt texture and brim edge fibers unusually uniform",
-     "filename references Firefly and C2PA AI example (contextual, not visual, evidence)"
+     "ear anatomy ambiguous: folded ears appear to merge into the hat brim and head without a clear boundary",
+     "whiskers emerge from implausible origins (some from cheeks and neck, not only the muzzle pads) with inconsistent thickness and length",
+     "fur texture uniformly hyper-detailed and 'painted' across the face, with an overly regular tabby pattern",
+     "hat fits the cat's head perfectly with no deformation or visible support, typical of generated props",
+     "idealized 'golden hour' bokeh and rim lighting consistent with stylized text-to-image output",
+     "eye reflections are glossy but generic and do not clearly correspond to the background light source",
+     "body and neck fur transition into a vague dark garment with an indistinct edge",
+     "no compression-consistent sensor grain; smooth, noise-free tonal gradients throughout"
     ],
     "partially_synthetic": false,
     "visible_text": "",
     "vaccine_misinformation_relevance": "",
-    "caveat": "Rating relies partly on aesthetic cues that a staged, retouched pet photo could mimic, and the filename hint is unverified; a human should check the embedded C2PA manifest and file metadata directly rather than trusting the filename."
+    "caveat": "A real photo of a cat wearing a hat is possible, and heavy retouching or upscaling can mimic generative artifacts. Metadata, C2PA/provenance data, and a reverse-image search should be checked before relying on this assessment."
    }
   },
   {
@@ -119,37 +119,37 @@
    "name": "OpenAI Vision",
    "kind": "vision",
    "status": "ok",
-   "rating": 84,
+   "rating": 78,
    "verdict": "synthetic_likely",
    "confidence": "medium",
-   "summary": "synthetic likelihood 84/100; tells: Chest fur forms unusually broad, layered, feather-like clumps, Cheek fur has a densely etched, repetitive texture, Ear contours merge ambiguously with fur beneath the hat brim, Highly polished eye and nose surfaces contrast with exaggerated fur detail",
+   "summary": "synthetic likelihood 78/100; tells: Chest fur forms unusually broad, sculpted clumps compared with the fine facial fur, Several whiskers have angular bends and uneven thickness, Highly regular facial detailing and unusually smooth, uniform iris textures, Hat brim and partly concealed ears have ambiguous contact geometry",
    "evidence": [
-    "Chest fur forms unusually broad, layered, feather-like clumps",
-    "Cheek fur has a densely etched, repetitive texture",
-    "Ear contours merge ambiguously with fur beneath the hat brim",
-    "Highly polished eye and nose surfaces contrast with exaggerated fur detail",
-    "Coherent warm rim lighting and background blur provide some photographic plausibility",
-    "Caveat: Visual styling alone is not decisive; inspect the original file and validate any C2PA credentials rather than relying on the filename."
+    "Chest fur forms unusually broad, sculpted clumps compared with the fine facial fur",
+    "Several whiskers have angular bends and uneven thickness",
+    "Highly regular facial detailing and unusually smooth, uniform iris textures",
+    "Hat brim and partly concealed ears have ambiguous contact geometry",
+    "Consistent warm rim lighting and plausible background blur provide some photographic cues",
+    "Caveat: Stylized photography and sharpening can produce similar textures; the original file and provenance are needed to distinguish generation from photography or editing."
    ],
    "visible_text": null,
    "vaccine_relevance": null,
    "model": "gpt-6-astra",
-   "latency_ms": 9726,
+   "latency_ms": 8021,
    "raw": {
-    "synthetic_rating": 84,
+    "synthetic_rating": 78,
     "verdict": "synthetic_likely",
     "confidence": "medium",
     "tells": [
-     "Chest fur forms unusually broad, layered, feather-like clumps",
-     "Cheek fur has a densely etched, repetitive texture",
-     "Ear contours merge ambiguously with fur beneath the hat brim",
-     "Highly polished eye and nose surfaces contrast with exaggerated fur detail",
-     "Coherent warm rim lighting and background blur provide some photographic plausibility"
+     "Chest fur forms unusually broad, sculpted clumps compared with the fine facial fur",
+     "Several whiskers have angular bends and uneven thickness",
+     "Highly regular facial detailing and unusually smooth, uniform iris textures",
+     "Hat brim and partly concealed ears have ambiguous contact geometry",
+     "Consistent warm rim lighting and plausible background blur provide some photographic cues"
     ],
     "partially_synthetic": false,
     "visible_text": "",
     "vaccine_misinformation_relevance": "",
-    "caveat": "Visual styling alone is not decisive; inspect the original file and validate any C2PA credentials rather than relying on the filename."
+    "caveat": "Stylized photography and sharpening can produce similar textures; the original file and provenance are needed to distinguish generation from photography or editing."
    }
   },
   {
@@ -157,33 +157,35 @@
    "name": "Gemini Vision",
    "kind": "vision",
    "status": "ok",
-   "rating": 72,
+   "rating": 75,
    "verdict": "synthetic_likely",
    "confidence": "medium",
-   "summary": "synthetic likelihood 72/100; tells: overly uniform airbrushed fur rendering, implausible ear integration under hat, perfect studio lighting and stylized depth of field blur",
+   "summary": "synthetic likelihood 75/100; tells: implausible ear anatomy under hat brim, hyper-smooth rendering of fur and felt texture, unnatural symmetry in whisker and facial layout, diffuse artificial lighting effects",
    "evidence": [
-    "Overly uniform airbrushed fur rendering",
-    "Implausible ear integration under hat",
-    "Perfect studio lighting and stylized depth of field blur",
-    "Caveat: High-quality digital rendering or retouching on real reference photos can mimic full synthesis."
+    "Implausible ear anatomy under hat brim",
+    "Hyper-smooth rendering of fur and felt texture",
+    "Unnatural symmetry in whisker and facial layout",
+    "Diffuse artificial lighting effects",
+    "Caveat: High-quality digital art or photo manipulation can occasionally mimic diffusion model artifacts."
    ],
    "visible_text": null,
    "vaccine_relevance": null,
    "model": "gemini-3.8-flash",
-   "latency_ms": 4865,
+   "latency_ms": 2976,
    "raw": {
-    "synthetic_rating": 72,
+    "synthetic_rating": 75,
     "verdict": "synthetic_likely",
     "confidence": "medium",
     "tells": [
-     "overly uniform airbrushed fur rendering",
-     "implausible ear integration under hat",
-     "perfect studio lighting and stylized depth of field blur"
+     "implausible ear anatomy under hat brim",
+     "hyper-smooth rendering of fur and felt texture",
+     "unnatural symmetry in whisker and facial layout",
+     "diffuse artificial lighting effects"
     ],
     "partially_synthetic": false,
     "visible_text": "",
     "vaccine_misinformation_relevance": "",
-    "caveat": "High-quality digital rendering or retouching on real reference photos can mimic full synthesis."
+    "caveat": "High-quality digital art or photo manipulation can occasionally mimic diffusion model artifacts."
    }
   },
   {
@@ -219,7 +221,7 @@
    "visible_text": null,
    "vaccine_relevance": null,
    "model": null,
-   "latency_ms": 78,
+   "latency_ms": 109,
    "raw": {
     "active_manifest": "urn:uuid:828b19c8-a70e-4a3f-84df-763967f7d372",
     "generator": "Adobe_Firefly",
@@ -298,7 +300,7 @@
    "visible_text": null,
    "vaccine_relevance": null,
    "model": null,
-   "latency_ms": 300,
+   "latency_ms": 270,
    "raw": {
     "exif": {},
     "ela_mean": 0.96,
@@ -314,7 +316,7 @@
  "frames": [
   {
    "frame": "image",
-   "rating": 84,
+   "rating": 78,
    "verdict": "synthetic_likely",
    "phash": "e0fee1c5c25a0d39"
   }
@@ -323,9 +325,9 @@
   "e0fee1c5c25a0d39"
  ],
  "meta": {
-  "report_id": "7817982d-f469-43e4-9862-3399a7eb9397",
+  "report_id": "e661b59d-245a-45f7-84ad-51f4402efb24",
   "input_sha256": "bdc5c19d4211d9c9f9f8dce5bf4e4dec29e9b32e308ff12a60979481e928154f",
-  "method_version": "verdict-consistency-2026-09-26.1",
+  "method_version": "pdf-preparation-2026-09-26.1",
   "context_sha256": "1bc166797a8ce62a5e71aaf8a9e42b5221b28c450082a8d5c22163235595d487",
   "extraction_policy": {
    "pdf_mode": "auto",
@@ -334,21 +336,27 @@
   "tool": "SDA Vision",
   "version": "0.1.0",
   "panel_version": "panel-2026-09-24",
-  "generated_at": "2026-09-26T18:37:49+00:00",
+  "generated_at": "2026-09-26T22:31:02+00:00",
   "filename": "animal-portrait.jpg",
   "kind": "image",
   "frame_count": 1,
   "frames_found": 1,
   "notes": [
-   "Recomputed locally from saved LLM replies acquired at 2026-09-25T09:04:42+00:00 under method publication-repair-2026-09-24.3. Original report b487ceee-de8a-4546-bdd2-1aa3066f0245 is preserved. No new provider requests. The original analysis used a source-labelled filename; this is not a source-blind comparison.",
-   "Presentation copy of saved report c624f79c-a343-4aff-8450-3a4b7ded4d97. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis."
+   "Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.",
+   "Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step."
   ],
   "mode": "general",
-  "elapsed_ms": 27923,
+  "elapsed_ms": 20138,
   "models": [
    "claude-opus-5-5",
    "gemini-3.8-flash",
    "gpt-6-astra"
+  ],
+  "acquisition_run_id": "eleven-examples-refresh-20260926-r1",
+  "provider_acquired_at": [
+   "2026-09-26T22:25:28.718999+00:00",
+   "2026-09-26T22:25:31.699890+00:00",
+   "2026-09-26T22:25:39.729706+00:00"
   ],
   "thumbnail": "data:image/jpeg;base64,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"
  }

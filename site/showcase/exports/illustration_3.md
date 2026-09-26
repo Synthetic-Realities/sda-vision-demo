@@ -3,12 +3,12 @@
 - **File:** illustration-3.webp
 - **Tool version:** 0.1.0
 - **Verdict:** authentic likely (confidence medium)
-- **Indicative score:** 5/100 (median of available model ratings; not a calibrated probability)
-- **Method version:** verdict-consistency-2026-09-26.1
+- **Indicative score:** 8/100 (median of available model ratings; not a calibrated probability)
+- **Method version:** pdf-preparation-2026-09-26.1
 - **Input SHA-256:** 17442d095e61a319e806d0a58993fcb5b4a89705867bda5ead74b82bec4b8add
 - **Headline:** Leaning authentic
 - **Input:** image - 1 frame(s) analysed
-- **Generated:** 2026-09-26T18:37:51+00:00
+- **Generated:** 2026-09-26T22:31:04+00:00
 - **Models:** claude-opus-5-5, gemini-3.8-flash, gpt-6-astra
 
 > 3 models lean authentic with matching verdicts and ratings. Review the other findings, original source and context alongside this result.
@@ -17,15 +17,15 @@
 
 ## How the file was read
 
-- Recomputed locally from saved LLM replies acquired at 2026-09-25T11:22:07+00:00 under method publication-repair-2026-09-24.3. Original report ae05de4f-1d78-4c71-85a5-9a9e833d7306 is preserved. No new provider requests. The original analysis used a source-labelled filename; this is not a source-blind comparison.
-- Presentation copy of saved report a7209748-4dcd-4092-898a-e2a5dc6c475f. The descriptive filename replaces the earlier example ID for navigation. Original analysis dates, provider replies, scores and acquisition context are retained; no new model analysis.
+- Fresh provider replies acquired for eleven-examples-refresh-20260926-r1; report assembled locally from the saved responses without further API calls.
+- Provider latency values are restored from the acquisition receipts (maximum sampled-frame latency per provider); raw replies and assessment results are unchanged by this bookkeeping step.
 
 ## Provider ratings
 
 | Provider | Model | Type | Status | Verdict | Rating | Confidence | Signal |
 |---|---|---|---|---|---|---|---|
 | Claude Vision | claude-opus-5-5 | vision | ok | authentic likely | 5 | medium | supporting |
-| OpenAI Vision | gpt-6-astra | vision | ok | authentic likely | 5 | medium | supporting |
+| OpenAI Vision | gpt-6-astra | vision | ok | authentic likely | 8 | medium | supporting |
 | Gemini Vision | gemini-3.8-flash | vision | ok | authentic likely | 25 | high | supporting |
 | C2PA Content Credentials | - | provenance | ok | inconclusive |  | - | additional |
 | Local forensic cues | - | forensic | ok | partially synthetic | 41 | low | additional |
@@ -33,23 +33,23 @@
 ## Key evidence per provider
 
 - **Claude Vision**:
-  - Consistent hand-drawn ink linework with natural stroke weight variation
-  - Cross-hatched shading at left edge typical of manual/digital-pen editorial cartooning
+  - Hand-drawn ink linework with consistent, deliberate pen strokes
   - Coherent, correctly spelled hand-lettered text in speech bubble and labels
-  - Legible artist signature ('BEELER') with year mark
-  - Legible syndicate/publication credit ('The Columbus Dispatch', 'CagleCartoons.com')
+  - Legible artist signature and syndication credit (The Columbus Dispatch / CagleCartoons.com, dated '19)
+  - Cross-hatching texture on left background typical of traditional/digital-inked editorial cartoons
+  - Anatomically coherent hands and consistent character styling
 - **OpenAI Vision**:
-  - Consistent pen-and-ink outlines and crosshatched shading throughout the cartoon
-  - Coherent, legible hand-lettered speech and disease labels
-  - Deliberate caricature proportions and integrated symbolic virus heads
-  - Visible publication credit and artist signature
-  - Caveat: Appears to be a conventional editorial illustration, not a camera photo; visual inspection alone cannot verify authorship or exclude AI edits, and the stylized signature/date are difficult to read.
+  - Consistent editorial-cartoon ink outlines and crosshatching
+  - Coherent hand-lettered speech and disease labels
+  - Deliberate, consistent caricature proportions
+  - Integrated publication credit and artist signature
+  - No conspicuous generative texture or lettering artifacts
 - **Gemini Vision**:
-  - Consistent editorial cartoon linework
-  - Artist signature and syndication text
-  - Hand-drawn hatching and crosshatching
-  - Coherent hand lettering
-  - Caveat: Editorial illustrations follow stylistic conventions distinct from photographic media, which automated detectors may mischaracterize.
+  - Consistent hand-drawn editorial cartoon style
+  - Legible artist signature and syndicate attribution
+  - Coherent crosshatching and ink work
+  - Absence of diffusion generation artifacts
+  - Caveat: Editorial illustrations are non-photographic, requiring human review to confirm original publication provenance.
 - **C2PA Content Credentials**:
   - Embedded credentials: none found. Origin remains unresolved by this check.
   - Coverage: credentials embedded in the submitted file. External credentials were not retrieved.
@@ -64,9 +64,9 @@
 
 ## Evidence supporting this verdict
 
-- **Claude Vision** (5): synthetic likelihood 5/100; tells: consistent hand-drawn ink linework with natural stroke weight variation, cross-hatched shading at left edge typical of manual/digital-pen editorial cartooning, coherent, correctly spelled hand-lettered text in speech bubble and labels, legible artist signature ('BEELER') with year mark
-- **OpenAI Vision** (5): synthetic likelihood 5/100; tells: Consistent pen-and-ink outlines and crosshatched shading throughout the cartoon, Coherent, legible hand-lettered speech and disease labels, Deliberate caricature proportions and integrated symbolic virus heads, Visible publication credit and artist signature
-- **Gemini Vision** (25): synthetic likelihood 25/100; tells: consistent editorial cartoon linework, artist signature and syndication text, hand-drawn hatching and crosshatching, coherent hand lettering
+- **Claude Vision** (5): synthetic likelihood 5/100; tells: hand-drawn ink linework with consistent, deliberate pen strokes, coherent, correctly spelled hand-lettered text in speech bubble and labels, legible artist signature and syndication credit (The Columbus Dispatch / CagleCartoons.com, dated '19), cross-hatching texture on left background typical of traditional/digital-inked editorial cartoons
+- **OpenAI Vision** (8): synthetic likelihood 8/100; tells: Consistent editorial-cartoon ink outlines and crosshatching, Coherent hand-lettered speech and disease labels, Deliberate, consistent caricature proportions, Integrated publication credit and artist signature
+- **Gemini Vision** (25): synthetic likelihood 25/100; tells: consistent hand-drawn editorial cartoon style, legible artist signature and syndicate attribution, coherent crosshatching and ink work, absence of diffusion generation artifacts
 
 ## Additional findings
 
@@ -78,7 +78,7 @@ Shown separately from the combined assessment.
 ## Visible text
 
 ```
-I REJECT VACCINES OUT OF LOVE FOR MY CHILDREN. | VAX | MEASLES | MUMPS | RUBELLA | THE COLUMBUS DISPATCH CAGLECARTOONS.com | BEELER ©19
+THE COLUMBUS DISPATCH CAGLECARTOONS.COM Beeler 2019 / I REJECT VACCINES OUT OF LOVE FOR MY CHILDREN. / NO VAX / MEASLES / MUMPS / RUBELLA
 ```
 
 ## How this assessment was reached
