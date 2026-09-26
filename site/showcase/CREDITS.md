@@ -6,7 +6,6 @@ Required attribution for the selected originals is recorded below. The researche
 | --- | --- |
 | `presentation.pptx` | Dr Sam Martin, SDR UK \| Manchester Metropolitan University, 2026 |
 | `illustration-2.png` | Dr Sam Martin, SDR UK \| Manchester Metropolitan University, 2026 |
-| `illustration-1.png` | Dr Sam Martin, SDR UK \| Manchester Metropolitan University, 2026 |
 | `earth-image.jpg` | Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center. Source reference: [The Blue Marble From Apollo 17](https://svs.gsfc.nasa.gov/30613/). Photograph: 7 December 1972; source-page release: 20 July 2015. |
 | `infographic.pdf` | Dr Sam Martin, SDR UK \| Manchester Metropolitan University, 2026 |
 | `illustration-3.webp` | CagleCartoons.com / The Columbus Dispatch; original artist signature retained. Use authorised by the researcher. |

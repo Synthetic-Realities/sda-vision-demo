@@ -1,5 +1,9 @@
 # SDA Vision — interactive demo
 
+[![SDA Vision demo opening in Community Workshop](docs/images/community-workshop.png)](https://synthetic-realities.github.io/sda-vision-demo/)
+
+The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
+
 [Open the saved-results demo](https://Synthetic-Realities.github.io/sda-vision-demo/).
 
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**
@@ -8,8 +12,8 @@ An academic research project of **Synthetic Realities**, led by **Dr Sam Martin*
 
 This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
 
-This repository contains the prepared website, eleven approved examples and their
-saved findings. All eleven now have recorded Claude, OpenAI and Gemini
+This repository contains the prepared website, ten approved examples and their
+saved findings. All ten now have recorded Claude, OpenAI and Gemini
 assessments. The PDF and presentation each use four sampled images; the podcast
 assessment covers a transcript excerpt. Visitors can explore Developer, Community Workshop
 and trainer views, use prepared batches and download reports. New Second Opinion

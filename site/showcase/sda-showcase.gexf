@@ -3,7 +3,7 @@
   <meta lastmodifieddate="2026-09-26">
     <creator>NetworkX 3.6.1</creator>
   </meta>
-  <graph defaultedgetype="undirected" mode="static" name="SDA Vision population: {&quot;displayed_items&quot;: 11, &quot;edge_mode&quot;: &quot;attributes&quot;, &quot;eligible_items&quot;: 11, &quot;excluded_by_filter&quot;: 0, &quot;excluded_duplicates&quot;: 0, &quot;excluded_unreadable&quot;: 0, &quot;excluded_unsupported&quot;: 0, &quot;isolated_before_filter&quot;: 0, &quot;isolated_displayed&quot;: 0, &quot;loaded_items&quot;: 11, &quot;min_component&quot;: 1, &quot;source_items&quot;: 11, &quot;threshold&quot;: 10}">
+  <graph defaultedgetype="undirected" mode="static" name="SDA Vision population: {&quot;displayed_items&quot;: 10, &quot;edge_mode&quot;: &quot;attributes&quot;, &quot;eligible_items&quot;: 10, &quot;excluded_by_filter&quot;: 0, &quot;excluded_duplicates&quot;: 0, &quot;excluded_unreadable&quot;: 0, &quot;excluded_unsupported&quot;: 0, &quot;isolated_before_filter&quot;: 0, &quot;isolated_displayed&quot;: 0, &quot;loaded_items&quot;: 10, &quot;min_component&quot;: 1, &quot;source_items&quot;: 10, &quot;threshold&quot;: 10}">
     <attributes mode="static" class="edge">
       <attribute id="11" title="kind" type="string" />
       <attribute id="12" title="hamming" type="long" />
@@ -34,7 +34,7 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.0889" />
+          <attvalue for="10" value="0.0347" />
         </attvalues>
       </node>
       <node id="n0001" label="earth-image.jpg">
@@ -52,22 +52,7 @@
           <attvalue for="10" value="0.0" />
         </attvalues>
       </node>
-      <node id="n0002" label="illustration-1.png">
-        <attvalues>
-          <attvalue for="0" value="synthetic_likely" />
-          <attvalue for="1" value="78" />
-          <attvalue for="2" value="high" />
-          <attvalue for="3" value="none" />
-          <attvalue for="4" value="image" />
-          <attvalue for="5" value="claude" />
-          <attvalue for="6" value="" />
-          <attvalue for="7" value="" />
-          <attvalue for="8" value="0" />
-          <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.0889" />
-        </attvalues>
-      </node>
-      <node id="n0003" label="illustration-2.png">
+      <node id="n0002" label="illustration-2.png">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
           <attvalue for="1" value="82" />
@@ -79,10 +64,10 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.0889" />
+          <attvalue for="10" value="0.0347" />
         </attvalues>
       </node>
-      <node id="n0004" label="illustration-3.webp">
+      <node id="n0003" label="illustration-3.webp">
         <attvalues>
           <attvalue for="0" value="authentic_likely" />
           <attvalue for="1" value="8" />
@@ -97,7 +82,7 @@
           <attvalue for="10" value="0.0" />
         </attvalues>
       </node>
-      <node id="n0005" label="infographic.pdf">
+      <node id="n0004" label="infographic.pdf">
         <attvalues>
           <attvalue for="0" value="inconclusive" />
           <attvalue for="1" value="27" />
@@ -109,10 +94,10 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="1" />
-          <attvalue for="10" value="0.1556" />
+          <attvalue for="10" value="0.1667" />
         </attvalues>
       </node>
-      <node id="n0006" label="journal-diagram.png">
+      <node id="n0005" label="journal-diagram.png">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
           <attvalue for="1" value="68" />
@@ -124,10 +109,10 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.5333" />
+          <attvalue for="10" value="0.5556" />
         </attvalues>
       </node>
-      <node id="n0007" label="journal-image.png">
+      <node id="n0006" label="journal-image.png">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
           <attvalue for="1" value="78" />
@@ -139,10 +124,10 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.0" />
+          <attvalue for="10" value="0.0347" />
         </attvalues>
       </node>
-      <node id="n0008" label="podcast.m4a">
+      <node id="n0007" label="podcast.m4a">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
           <attvalue for="1" value="90" />
@@ -154,10 +139,10 @@
           <attvalue for="7" value="Local soundtrack: present; 1 track(s) found; Track details and audio levels in the sampled windows. AI-origin detection from sound is outside this workflow." />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="0" />
-          <attvalue for="10" value="0.0" />
+          <attvalue for="10" value="0.0347" />
         </attvalues>
       </node>
-      <node id="n0009" label="presentation.pptx">
+      <node id="n0008" label="presentation.pptx">
         <attvalues>
           <attvalue for="0" value="inconclusive" />
           <attvalue for="1" value="27" />
@@ -169,10 +154,10 @@
           <attvalue for="7" value="" />
           <attvalue for="8" value="0" />
           <attvalue for="9" value="1" />
-          <attvalue for="10" value="0.1556" />
+          <attvalue for="10" value="0.1667" />
         </attvalues>
       </node>
-      <node id="n0010" label="social-media-image.png">
+      <node id="n0009" label="social-media-image.png">
         <attvalues>
           <attvalue for="0" value="synthetic_likely" />
           <attvalue for="1" value="93" />
@@ -195,7 +180,7 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0000" target="n0003" id="1" weight="1.0">
+      <edge source="n0000" target="n0005" id="1" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
@@ -207,133 +192,115 @@
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0000" target="n0007" id="3" weight="1.0">
+      <edge source="n0000" target="n0007" id="3" weight="0.98">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0000" target="n0008" id="4" weight="0.98">
+      <edge source="n0000" target="n0009" id="4" weight="0.95">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0000" target="n0010" id="5" weight="0.95">
+      <edge source="n0001" target="n0003" id="5" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0001" target="n0004" id="6" weight="1.0">
+      <edge source="n0001" target="n0004" id="6" weight="0.77">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0001" target="n0005" id="7" weight="0.77">
+      <edge source="n0001" target="n0008" id="7" weight="0.77">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0001" target="n0009" id="8" weight="0.77">
+      <edge source="n0002" target="n0006" id="8" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0002" target="n0003" id="9" weight="1.0">
+      <edge source="n0002" target="n0007" id="9" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0002" target="n0006" id="10" weight="1.0">
+      <edge source="n0002" target="n0009" id="10" weight="0.99">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0002" target="n0007" id="11" weight="1.0">
+      <edge source="n0002" target="n0005" id="11" weight="0.96">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0002" target="n0008" id="12" weight="0.98">
+      <edge source="n0003" target="n0004" id="12" weight="0.81">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0002" target="n0010" id="13" weight="0.95">
+      <edge source="n0003" target="n0008" id="13" weight="0.81">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0003" target="n0007" id="14" weight="1.0">
+      <edge source="n0004" target="n0008" id="14" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0003" target="n0008" id="15" weight="1.0">
+      <edge source="n0004" target="n0005" id="15" weight="0.59">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0003" target="n0006" id="16" weight="0.96">
+      <edge source="n0005" target="n0006" id="16" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0003" target="n0010" id="17" weight="0.99">
+      <edge source="n0005" target="n0007" id="17" weight="0.88">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0004" target="n0005" id="18" weight="0.81">
+      <edge source="n0005" target="n0008" id="18" weight="0.59">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0004" target="n0009" id="19" weight="0.81">
+      <edge source="n0006" target="n0007" id="19" weight="0.98">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0005" target="n0009" id="20" weight="1.0">
+      <edge source="n0006" target="n0009" id="20" weight="0.95">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
         </attvalues>
       </edge>
-      <edge source="n0005" target="n0006" id="21" weight="0.59">
-        <attvalues>
-          <attvalue for="11" value="similar" />
-          <attvalue for="12" value="-1" />
-        </attvalues>
-      </edge>
-      <edge source="n0006" target="n0007" id="22" weight="1.0">
-        <attvalues>
-          <attvalue for="11" value="similar" />
-          <attvalue for="12" value="-1" />
-        </attvalues>
-      </edge>
-      <edge source="n0006" target="n0009" id="23" weight="0.59">
-        <attvalues>
-          <attvalue for="11" value="similar" />
-          <attvalue for="12" value="-1" />
-        </attvalues>
-      </edge>
-      <edge source="n0008" target="n0010" id="24" weight="1.0">
+      <edge source="n0007" target="n0009" id="21" weight="1.0">
         <attvalues>
           <attvalue for="11" value="similar" />
           <attvalue for="12" value="-1" />
