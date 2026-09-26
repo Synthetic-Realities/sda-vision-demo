@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" data-theme="studio">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SDA Vision - provenance-aware synthetic media analysis</title>
+    <script>
+      // Apply the saved theme and text size before first paint so users do
+      // not see a flash of the defaults. Defaults: Studio bright, standard size.
+      try {
+        var t = localStorage.getItem("sda-theme");
+        document.documentElement.dataset.theme =
+          ["studio", "dark", "light", "console", "pulse", "ppie"].indexOf(t) >= 0 ? t : "studio";
+        var s = localStorage.getItem("sda-textsize");
+        if (s === "large" || s === "workshop")
+          document.documentElement.dataset.textsize = s;
+      } catch (e) { /* storage unavailable: keep the defaults */ }
+    </script>
+    <script type="module" crossorigin src="./assets/index-B35OxuQJ.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BYwg6lk-.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
