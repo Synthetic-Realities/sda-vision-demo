@@ -37,10 +37,13 @@ third-party dependencies retain their separate terms:
 
 The prepared site comes from the tested September 2026 candidate: 312 offline
 Python checks, fresh installation, frontend builds and export checks passed.
-Original media and earlier recorded results are preserved. The latest refresh
-completed 52 preparation API requests; all 33 example/model rows are complete.
-The demo notices sit beneath the branding and in the footer. Physical-device, projector,
-browser file-saving and native presentation-software rehearsals remain to be completed.
+Original media and earlier recorded results are preserved. The model refresh
+completed 52 preparation API requests across the original eleven examples. The
+current ten-example selection retains 30 completed model rows. This layout
+update passed 39 focused checks, TypeScript and both frontend builds, plus
+desktop and phone-width browser checks. The demo notices sit beneath the
+branding and in the footer. Physical-device, projector, browser file-saving and
+native presentation-software rehearsals remain to be completed.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is
 manual through the Pages workflow; it publishes only `site/`. No backend, API
