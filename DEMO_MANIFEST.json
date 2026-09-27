@@ -1,5 +1,5 @@
 {
-  "revision": "workshop-review-2026-09-27.2",
+  "revision": "facilitator-text-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://sdavision.io/",
   "publication_authorised": "Researcher approved reviewed interface and media update; full source remains private.",
@@ -47,7 +47,25 @@
     "sound_rows": 4,
     "local_uploads_and_slide_preview": "passed",
     "new_provider_requests_for_publication": 0,
-    "physical_TV_Silk": "awaiting researcher check"
+    "physical_TV_Silk": "awaiting researcher check",
+    "facilitator_text_layout": {
+      "revision": "facilitator-text-2026-09-27.1",
+      "scope": "Introductory lead and numbered instructions fill their existing text sections; original cover placement and two-column activity boxes retained.",
+      "typescript": "passed",
+      "frontend_builds": [
+        "public",
+        "research",
+        "conference"
+      ],
+      "browser_widths_checked": [
+        390,
+        768,
+        1920
+      ],
+      "horizontal_overflow": false,
+      "physical_TV_Silk": "awaiting researcher check",
+      "new_provider_requests": 0
+    }
   },
   "files": [
     {
@@ -91,9 +109,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-BaXdbiks.js",
+      "path": "site/assets/index.es-Ci-6zS2v.js",
       "bytes": 158947,
-      "sha256": "61ff7772d7df9781753530a8c96cae5d2ced07659827d01b96d0c40db527c760"
+      "sha256": "fd07107b7c943d88f044443d0e4181368c10dadb36fd258f8ce8f8799c4c83a0"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -101,19 +119,19 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-Cl8XO6qQ.js",
+      "path": "site/assets/jspdf.es.min-Bg2GpMot.js",
       "bytes": 386221,
-      "sha256": "97fd6095eb925c90fbfdd551b85085af6678611ddfea4d5e505372e9b4638ce8"
+      "sha256": "f2504b868e0a7d44797cd94217de4d3dc9d3b801bed8ac54471a8a36cabd4c10"
     },
     {
-      "path": "site/assets/main-B8c5pUgH.js",
+      "path": "site/assets/main-DRdKLg58.css",
+      "bytes": 77913,
+      "sha256": "db7088d5642c5072cc6c41c42e1c412cf0d622a969ecf2ba34c5f1a11552dcee"
+    },
+    {
+      "path": "site/assets/main-cdHq14DM.js",
       "bytes": 370505,
-      "sha256": "f37b77b74f85ebe98567c80cc32bbb42337c8f06a9355d61fc52d5549bbbee63"
-    },
-    {
-      "path": "site/assets/main-CCWojv4z.css",
-      "bytes": 77945,
-      "sha256": "03603e813576e2a266d00b6d1c5a3145792cebd584ff8b179aba6188877d4caf"
+      "sha256": "028ea4629268cbfb027a48bd2901f9ec57fddddb35571e738ac865fe00dbfdc1"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -121,9 +139,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-Cbn3SwNd.js",
+      "path": "site/assets/pptxgen.es-CkkY1u-K.js",
       "bytes": 372447,
-      "sha256": "05a95b21dfbf464bb717cbfd6c8d4b65d90b433042688d4acb30d2cd2831bf5e"
+      "sha256": "46db8171552b4a0ae1a855c212376c1df53878076996d337246f0d104fd4a83c"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -168,7 +186,7 @@
     {
       "path": "site/facilitator.html",
       "bytes": 9267,
-      "sha256": "62ab4717ac83e6bf04f898dfbe52bb1679b028a11bd66900acc52d8df2eb1a26"
+      "sha256": "2c345cddcddb991fc045ca3dd30f32d173a0a78e966177b774f909009a151698"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -268,7 +286,7 @@
     {
       "path": "site/index.html",
       "bytes": 3242,
-      "sha256": "6026c912f9d08fde41e613abac801aad7ba3bb68e8aa8f8b98c9371d93b49670"
+      "sha256": "90ddac67ec6b5b6be5079a8412ce124b86911107e6078f938663125897387bc2"
     },
     {
       "path": "site/showcase/CREDITS.md",

@@ -1,6 +1,6 @@
 # Interface and release-pack record — 27 September 2026
 
-Display revision: `workshop-review-2026-09-27.2`. Facilitator field guide: version 1.4. Scientific aggregation, provider prompts and signer-trust policy retain their existing versions.
+Display revision: `facilitator-text-2026-09-27.1`. Facilitator field guide: version 1.4. Scientific aggregation, provider prompts and signer-trust policy retain their existing versions.
 
 ## Workshop and findings
 
@@ -33,3 +33,9 @@ The six-page guide version 1.4 has previews of all four activities, current scre
 - Publication preparation used saved reports only and made zero model requests. Physical TV/Silk, projector and conference-hardware acceptance remains with the researcher.
 
 `DEMO_MANIFEST.json` in the public repository identifies the exact deployed file set. Zenodo preparation is separate from depositing or publishing a record.
+
+## Facilitator text layout
+
+The introductory lead and numbered instructions fill the available width of their existing sections. The cover remains alongside the introduction, and the four activity previews retain their two-column boxed layout on wider screens and single column on phones. The audience and explanatory paragraphs use their existing section widths.
+
+This display-only revision passed TypeScript and Public, Research and Conference builds. Browser checks at 390, 768 and 1920 CSS pixels found no horizontal overflow. All four activity previews loaded. The earlier method and regression-test baseline above remains unchanged; physical TV/Silk acceptance is pending.
