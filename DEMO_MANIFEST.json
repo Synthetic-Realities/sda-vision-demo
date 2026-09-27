@@ -1,10 +1,10 @@
 {
-  "revision": "responsive-results-2026-09-27.1",
+  "revision": "example-withdrawal-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
-  "examples": 10,
-  "saved_model_assessments": 11,
+  "examples": 9,
+  "saved_model_assessments": 10,
   "local_checks_only": 0,
   "new_provider_calls": 0,
   "files": [
@@ -15,8 +15,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 6897,
-      "sha256": "a580101dfb30508712ed60da547fc984acf583767ae6943b8772933099c2a3c1"
+      "bytes": 6898,
+      "sha256": "82d9fe1ee66a5992b64d785d4a7b5bc62a251ca2f9295b2bb901ec5c76b0cad7"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -185,8 +185,8 @@
     },
     {
       "path": "site/showcase/CREDITS.md",
-      "bytes": 3820,
-      "sha256": "cd6dab584367e159f0961b1cd69144a7b30b554a6fe33f75591b9b2cd2b70610"
+      "bytes": 3402,
+      "sha256": "3e5806c4ac03a70a131e30572d54687852c04abc0bffe32b330871dcf3e05973"
     },
     {
       "path": "site/showcase/README.md",
@@ -477,76 +477,6 @@
       "path": "site/showcase/exports/illustration_2_vmap.gexf",
       "bytes": 6564,
       "sha256": "aa4160c1a5a87a2243c429dfdb1d5e1c4e4b2eb4d7092195aa833b971f9d92fc"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3.csv",
-      "bytes": 7048,
-      "sha256": "77334d080a2d55d6c62d774f53bc94eb0ab662692bc08d3821ca79de33746f65"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3.md",
-      "bytes": 5734,
-      "sha256": "4cdd25d2be611a39d448586e1d3adac07a7a04755e44514d52e26b1a12685b22"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3.pdf",
-      "bytes": 54255,
-      "sha256": "82a0343bbeedf24279b0e22a1eae53c01b234772c8ebca485e780eacb0c0b5f3"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3.pptx",
-      "bytes": 106899,
-      "sha256": "4e121c2f62b0861b09eabfb5d99ff6067923bc3d60540a7da898273fa2da4348"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-community-light.png",
-      "bytes": 23308,
-      "sha256": "e0745bd7d5328b7c795e8f7aa82df9e28effeb4f2192377f7200891af9697f2b"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-community.png",
-      "bytes": 23322,
-      "sha256": "f405d6f556d2155b5f6779831bbfb9c0cb9ae8f73e95ebc5058279f5c1e95176"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-provider-light.png",
-      "bytes": 23319,
-      "sha256": "56fb9d111a6455062c9262017a45f93c6b3e754bcb8273e3d8a913d6bc926d6a"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-provider.png",
-      "bytes": 23325,
-      "sha256": "eea58f82b9592ef1aac6fd45bc2700240a3798a9691a99aebde16f9271f2ade9"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-rating-light.png",
-      "bytes": 23325,
-      "sha256": "83e3535065a0b4f20fe9cb86bfba8c8c93b44532377f2b68251485cd9f5622ef"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-rating.png",
-      "bytes": 23322,
-      "sha256": "9c4066df4a7c6f1c1c7b8d7cc66514ecaf0d0c6b163e4a67409328fe90b0db77"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-verdict-light.png",
-      "bytes": 23325,
-      "sha256": "83e3535065a0b4f20fe9cb86bfba8c8c93b44532377f2b68251485cd9f5622ef"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-by-verdict.png",
-      "bytes": 23322,
-      "sha256": "9c4066df4a7c6f1c1c7b8d7cc66514ecaf0d0c6b163e4a67409328fe90b0db77"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap-csv.zip",
-      "bytes": 683,
-      "sha256": "9563b85c98fb07008d19a4c3268deb0837bf8c34564e6221444588e227306285"
-    },
-    {
-      "path": "site/showcase/exports/illustration_3_vmap.gexf",
-      "bytes": 6562,
-      "sha256": "50086470abf567699e0606d7776d6cfd628ae7f1ac865de4fa6f9d316ceeee19"
     },
     {
       "path": "site/showcase/exports/infographic.csv",
@@ -970,13 +900,13 @@
     },
     {
       "path": "site/showcase/graph.json",
-      "bytes": 289597,
-      "sha256": "c3fca64d69bd795b8dccc09720bbc9ae502aaa61652d351955595884eedac1ef"
+      "bytes": 263616,
+      "sha256": "0a37b62cbc343baae9b9a5dd3fbab9907a94f7fde096e0118ee70eb7d0695272"
     },
     {
       "path": "site/showcase/graph_summary.json",
-      "bytes": 2371,
-      "sha256": "5dcedeaa587a4bdac15efe2d5d7ed46238d3f81514d82e77f2980ee8c50ca180"
+      "bytes": 2357,
+      "sha256": "b6451f6dc77f412a42b717c4bb44210762f6997f385ca97be338f31c247818ee"
     },
     {
       "path": "site/showcase/images/animal-portrait.jpg",
@@ -999,11 +929,6 @@
       "sha256": "6693be931db5fb33a8cacfae382bf3bc79fc23b0d9f8e967015a663688d8c8f5"
     },
     {
-      "path": "site/showcase/images/illustration-3.webp",
-      "bytes": 97726,
-      "sha256": "17442d095e61a319e806d0a58993fcb5b4a89705867bda5ead74b82bec4b8add"
-    },
-    {
       "path": "site/showcase/images/journal-diagram.png",
       "bytes": 1926444,
       "sha256": "c9a680547869618d7c63648d317b1f27c03ede59d5113a7cd6818f5ce2bd654e"
@@ -1020,8 +945,8 @@
     },
     {
       "path": "site/showcase/manifest.json",
-      "bytes": 318137,
-      "sha256": "bfa82b23acf2e2518b8fddc4d7a5a3d82234e8211601eba45d01887e96f189da"
+      "bytes": 292279,
+      "sha256": "dcb11a5bbd696663cfa07f6de13b4e71734d9977ced25ef8a758ad28fce5377b"
     },
     {
       "path": "site/showcase/originals/animal-portrait.jpg",
@@ -1042,11 +967,6 @@
       "path": "site/showcase/originals/illustration-2.png",
       "bytes": 5956298,
       "sha256": "6693be931db5fb33a8cacfae382bf3bc79fc23b0d9f8e967015a663688d8c8f5"
-    },
-    {
-      "path": "site/showcase/originals/illustration-3.webp",
-      "bytes": 97726,
-      "sha256": "17442d095e61a319e806d0a58993fcb5b4a89705867bda5ead74b82bec4b8add"
     },
     {
       "path": "site/showcase/originals/infographic.pdf",
@@ -1137,21 +1057,6 @@
       "path": "site/showcase/reports/illustration_2_vmap_summary.json",
       "bytes": 999,
       "sha256": "75010ed8a371b12d3eaed5f12df73607c0fb79d870afeb8fd8330415f7915c88"
-    },
-    {
-      "path": "site/showcase/reports/illustration_3.json",
-      "bytes": 40066,
-      "sha256": "33fe2c6833cf2944565e6741371252b374edc3960528fdb9ac19fd49a4a22223"
-    },
-    {
-      "path": "site/showcase/reports/illustration_3_vmap.json",
-      "bytes": 28687,
-      "sha256": "152331715a0341d8525207b0700d0d97010f096d0eb8d37e6832b2a13a5371d3"
-    },
-    {
-      "path": "site/showcase/reports/illustration_3_vmap_summary.json",
-      "bytes": 997,
-      "sha256": "49e37a1b3d7c410c74709a752585670276fb8ce27c62d03beafe2647e357194e"
     },
     {
       "path": "site/showcase/reports/infographic.json",
@@ -1245,53 +1150,53 @@
     },
     {
       "path": "site/showcase/sda-showcase-by-community-light.png",
-      "bytes": 37889,
-      "sha256": "b984c72daacc9351237424cfe04bbe6f13429cd2f67edd69679c5ffda91594e6"
+      "bytes": 38394,
+      "sha256": "c81436378a5164b39257864a2146eab26f55475ff20e8689c436c2d03acdc8a5"
     },
     {
       "path": "site/showcase/sda-showcase-by-community.png",
-      "bytes": 37591,
-      "sha256": "424e947b6e1172c3aaf0567e0c607eeb4656dbbe75003f28f7133dba4160b27c"
+      "bytes": 38523,
+      "sha256": "9f33ce9e42e13d25207026fe73371bcba764016d98179b684a77167492ed70b4"
     },
     {
       "path": "site/showcase/sda-showcase-by-provider-light.png",
-      "bytes": 37899,
-      "sha256": "be0d821caf9f89b995c9d389da5d12318f2a5ff45052bfc756bff5afa1633448"
+      "bytes": 38411,
+      "sha256": "e3e843ee121cd93758c2fde167c6b5b44673f26ae9e73daae2995fdac7eb400b"
     },
     {
       "path": "site/showcase/sda-showcase-by-provider.png",
-      "bytes": 37590,
-      "sha256": "84dbbb56df8e523268cead815bb85be7ca5672077861017cf04af20029bd1a29"
+      "bytes": 38515,
+      "sha256": "4c943f419b7c106a8e135eaab99226b32a04784e7dfff54acae1a724f1d30d72"
     },
     {
       "path": "site/showcase/sda-showcase-by-rating-light.png",
-      "bytes": 37907,
-      "sha256": "02923dcd85a2c74beedc85c3fb74bcab994ad8cc4a7a999ad4ea4eb33723d799"
+      "bytes": 38424,
+      "sha256": "838d69547a973ee791ab5aa47b82b22686394b9166a7f25a48589ce8a3f9c7e0"
     },
     {
       "path": "site/showcase/sda-showcase-by-rating.png",
-      "bytes": 37585,
-      "sha256": "dc82bb15cc84cb4f2feb572a588b9b195b2df321410ef5cf0ac5710e2b2ba1ca"
+      "bytes": 38513,
+      "sha256": "b07e41a6f70e736cddaab0f66e28069676580086b0453d43b697ca19f652d2ee"
     },
     {
       "path": "site/showcase/sda-showcase-by-verdict-light.png",
-      "bytes": 37907,
-      "sha256": "d5eb9245d49441fefd5d4a8521f39e2f54c0c5c31a39c50bd35172393d0bc751"
+      "bytes": 38426,
+      "sha256": "cd02937103e02c66de86d7c10857fa7805a85577b7e74da505fe419239a03e01"
     },
     {
       "path": "site/showcase/sda-showcase-by-verdict.png",
-      "bytes": 37586,
-      "sha256": "2479b4fee828c652f2167ddb06594f4f4ba61994def41d103e139c9094ad8816"
+      "bytes": 38517,
+      "sha256": "2e2c86930202c07d7bedee0226381b493eff8ce15794378ef86463736756a16b"
     },
     {
       "path": "site/showcase/sda-showcase-csv.zip",
-      "bytes": 1141,
-      "sha256": "cd79e7040e542cfc3c9a17c858dba3786ad9e9d773748762da22d7158e6b7ec8"
+      "bytes": 1132,
+      "sha256": "0d8f4ab229ed573323b5f93463efaac59a3477077c7de8aea07f95fb99dddcbe"
     },
     {
       "path": "site/showcase/sda-showcase.gexf",
-      "bytes": 12486,
-      "sha256": "be71f3957b64f69124d630e647d94f9707e9ce9cf751cf9a627ac96e79195b39"
+      "bytes": 11681,
+      "sha256": "e28f2e53637aa7a2cb2ac358351441771e87eda19c49615823447e54546bfbaf"
     },
     {
       "path": "site/sitemap.xml",
@@ -1689,5 +1594,12 @@
     "sitemap": "sitemap.xml",
     "search_console_submission": false
   },
-  "facilitator_guide_version": "1.3"
+  "facilitator_guide_version": "1.3",
+  "withdrawal": {
+    "date": "2026-09-27",
+    "filename": "illustration-3.webp",
+    "reason": "Researcher withdrew distribution permission",
+    "provider_requests": 0,
+    "example_bundle_tests_passed": 20
+  }
 }

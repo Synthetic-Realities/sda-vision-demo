@@ -29,9 +29,9 @@ illustration. The illustration supports **Notice → Discuss → Check → Refle
 From Discuss, **Let's check together** opens its saved Claude, OpenAI and Gemini
 assessments. **Open recorded findings** is available when entering Check directly. The report's exact-file SHA-256 matches the displayed illustration.
 The recorded filename is `illustration-1.png`; the opening image has its own
-report and downloads and sits outside the ten-item example menu and set graph.
+report and downloads and sits outside the nine-item example menu and set graph.
 
-The **Start here** menu offers ten additional images, documents and podcast
+The **Start here** menu offers nine additional images, documents and podcast
 examples. Each has saved findings. Selecting one starts a fresh set of workshop
 responses. Community Workshop provides the four-step activity; Developer provides the research controls. The Facilitator guide tab supplies group prompts, activity previews and the PDF download while keeping the current workshop session available.
 
