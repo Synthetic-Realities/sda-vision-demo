@@ -26,8 +26,8 @@ Before the session, read through the pack and choose an approved example. With t
 
 The public demo opens in Community Workshop with an AI-generated workshop
 illustration. The illustration supports **Notice → Discuss → Check → Reflect**.
-At Check, **Open recorded findings** loads its saved Claude, OpenAI and Gemini
-assessments. The report's exact-file SHA-256 matches the displayed illustration.
+From Discuss, **Let's check together** opens its saved Claude, OpenAI and Gemini
+assessments. **Open recorded findings** is available when entering Check directly. The report's exact-file SHA-256 matches the displayed illustration.
 The recorded filename is `illustration-1.png`; the opening image has its own
 report and downloads and sits outside the ten-item example menu and set graph.
 
@@ -40,7 +40,7 @@ responses. Community Workshop provides the four-step activity; Developer provide
 | Activity | What participants do | Findings and responses |
 | --- | --- | --- |
 | Notice | Choose one or more first impressions and optionally add a note. | Choices are labelled as personal impressions. “Not sure yet” is exclusive. |
-| Discuss | Explore visual details, sound or wording; select relevant cues and add a discussion note. | Prompts follow the first impression and the kind of media. |
+| Discuss | Explore visual details, sound or wording; select relevant cues and add a discussion note. | In the saved-results demo, **Let's check together** opens the recorded findings and moves to Check. |
 | Check | Open the recorded findings and compare their coverage and evidence. | A compact overview and model assessments support discussion. |
 | Reflect | Compare first and later views, choose practical next actions and add a reflection. | End session downloads a summary; New session offers saving and reset controls. |
 
@@ -54,12 +54,16 @@ The workshop overview presents visual or transcript findings, relevant soundtrac
 observations and the accompanying claim. Provider evidence includes model readings
 and supporting file observations. Ratings are not calibrated probabilities.
 
-**Provider evidence and ratings** contains image/file history and C2PA Content
-Credentials, including credential presence, integrity, signer trust, declared
-origin and coverage. These details show each recorded status, including absent,
-unavailable or failed checks. Workshop responses and navigation operate
-independently of the credential check. Saved findings retain their analysis dates,
-models, sampling and uncertainty.
+**What the checks suggest** contains every recorded model and supporting check.
+Each reading has a collapsed **Find out why** section with its key evidence,
+including C2PA credential presence, integrity, signer trust and declarations.
+Podcast and video results include a **Sound** tab; podcast model readings appear
+under **Transcript**. Recorded absent, unavailable and failed states remain
+visible. Developer holds the full file and analysis record.
+
+**How the findings connect** is available in Check and Reflect. Notice and Discuss
+focus on participants' observations and conversation. Saved findings retain
+their analysis dates, models, sampling and uncertainty.
 
 Google Lens and Second Opinion are available beside eligible recorded findings.
 Visitors choose any material they attach in the external service. Sound-origin
@@ -83,16 +87,16 @@ session offers a download and an explicit acknowledgement before clearing them.
 
 1. Enter an opening-image impression and note, then choose **Let's discuss**.
 2. Select a discussion cue, add a note and choose **Let's check together**.
-3. Choose **Open recorded findings**. Check the three model readings and date.
+3. Confirm that findings open automatically. Expand **Find out why** beneath a model reading. If you enter Check directly, **Open recorded findings** remains available.
 4. Choose **Reflect together** and enter a later view and reflection.
 5. Open the Facilitator guide introduction, inspect the two activity previews and download the full PDF. Switch back to Community Workshop and check that responses remain. Select the podcast, check the loading status, and confirm that choosing a new item resets responses.
-6. Open Provider evidence and ratings to inspect the recorded credential status.
+6. Expand **Find out why** for C2PA to inspect the recorded credential status. For the podcast, compare the Transcript and Sound tabs.
 7. Save a workshop summary and open it in the device's intended application.
 
 The public demo loads prepared files and saved results. The static website uses
 no analysis backend or new provider calls. Live Conference rehearsal, native
 file-saving and physical-device checks have their own acceptance records.
 
-The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.
+The findings overview and Evidence box each span the workshop page width. Key evidence opens beneath each reading. The footer groups credits, repository and privacy links. A magenta loading strip marks media preparation; PDF and slide previews use large renders of their first page or slide.
 
 For image examples, Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. Audio, video, document and transcript examples show the three other next steps: compare evidence, seek relevant expertise and pause before sharing.
