@@ -24,6 +24,12 @@ The complete research application source is being prepared separately for an
 open-source software release and a versioned Zenodo archive. The software release
 and DOI will accompany that separate archive.
 
+## Developer view and project resources
+
+The Developer view compares the recorded model assessments, credential findings and supporting observations. Its header links to the public GitHub project and illustrated facilitator guide, with an expandable citation for the demo. Green status dots indicate available recorded results; each report supplies the check details.
+
+The full application is being prepared for an MIT open-source installation release. [Developer view and website discovery](docs/Developer_Demo_And_Discovery_2026-09-27.md) records the current publication status and search metadata.
+
 ## Illustrated facilitator guide
 
 For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.

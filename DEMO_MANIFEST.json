@@ -1,5 +1,5 @@
 {
-  "revision": "workshop-resources-2026-09-27.1",
+  "revision": "developer-header-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -15,8 +15,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 4406,
-      "sha256": "1b4eea2cdd2b43e99cdecc6f0cd34ef43097ff61c2704745134e47dbddd25467"
+      "bytes": 6324,
+      "sha256": "5a8356e8ed2b6b55f7c1d3a394d741bfb0f781ae6b6402bc9e065df501db131b"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -44,24 +44,24 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index-BfGHjvX3.css",
-      "bytes": 61138,
-      "sha256": "a94783926215439413a6399c05a0bc38ec05e3a735ad1248f888cbe406d4e02b"
+      "path": "site/assets/index-B9F0ssG2.css",
+      "bytes": 62286,
+      "sha256": "55cffc629ee7c4753da72b4a2578fde45ad78b2fc4de693ba32d5cde6879ebe9"
     },
     {
-      "path": "site/assets/index-Ct_7pHib.js",
-      "bytes": 339865,
-      "sha256": "b46ba5e2c57dd2b678b8a51e0ab1237089498eed3df2ceb2a5951bea311c8afc"
+      "path": "site/assets/index-Dy3eUQhO.js",
+      "bytes": 341382,
+      "sha256": "7da59cded819a0b5a24d4d78052cec298da60119d6494471524df2fe63a630f3"
     },
     {
-      "path": "site/assets/index.es-f1wBEFaS.js",
+      "path": "site/assets/index.es-Byguy6eZ.js",
       "bytes": 158948,
-      "sha256": "072c07ff7914f25aa3781be2bc98ca5db38168be2b787c176c9527b9cf4e629a"
+      "sha256": "dc31f669f2a795dd4b5ef95cd0a1a5e1d4b22d71458733fdca5f6c0110104b09"
     },
     {
-      "path": "site/assets/jspdf.es.min-tZu1SBDy.js",
+      "path": "site/assets/jspdf.es.min-BvRSMnTx.js",
       "bytes": 386224,
-      "sha256": "b301bcb7a5ef94edb26d2641de37bda5481e8e86264c9a0fd6d17800fd4b7fc5"
+      "sha256": "b2e06b5bbdcd9db75774f476566a678172b6d42e4832e094f1290a092f8c424e"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -69,9 +69,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-CzlMw56m.js",
+      "path": "site/assets/pptxgen.es-BipIiQTZ.js",
       "bytes": 372448,
-      "sha256": "d835948c68b6430d953a47de633e465da6a97559de15a477bf722bf948ffd1ad"
+      "sha256": "7ab30ccb4f62d6b221bfb0088513f3f1c1cda84685f3ea5e8e9dfdf0b36a390d"
     },
     {
       "path": "site/assets/purify.es-BPuvlvQ_.js",
@@ -80,8 +80,8 @@
     },
     {
       "path": "site/facilitator.html",
-      "bytes": 8612,
-      "sha256": "d45e58ceaf3b7e78883129d56537cb493c6cd87ce7f008202ce054b540151065"
+      "bytes": 10327,
+      "sha256": "e5890d22a66476be0b0b135fa2632992287c2f10432eac86f9d71f6052e75fe9"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -92,6 +92,11 @@
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf",
       "bytes": 5619463,
       "sha256": "b7f19f38b1ca4cfd062559943d5462180e59c5edd41d9f385ffe36dfbe2d58f7"
+    },
+    {
+      "path": "site/guides/social-preview.png",
+      "bytes": 263310,
+      "sha256": "a046617ed9e9908dc353484129c308698226bea66c800051df760fe815f20ee0"
     },
     {
       "path": "site/guides/workshop-activity-1-notice.png",
@@ -105,8 +110,8 @@
     },
     {
       "path": "site/index.html",
-      "bytes": 1081,
-      "sha256": "133fbe23a085c0c92e93ad2b11d322dbb91cf37425e156ca877587d44e1337d4"
+      "bytes": 3006,
+      "sha256": "60d97610ccee1c3dbbc0443db42f9ff256a598877faebffb719c24f4e0f681fb"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1219,6 +1224,11 @@
       "sha256": "be71f3957b64f69124d630e647d94f9707e9ce9cf751cf9a627ac96e79195b39"
     },
     {
+      "path": "site/sitemap.xml",
+      "bytes": 373,
+      "sha256": "2e5ebc8f6a1828e1186f1374f4e6c9330cd337c50a1a0a8d1bf455f247020b83"
+    },
+    {
       "path": "site/third_party/Adobe-example-assets-LICENSE.txt",
       "bytes": 1088,
       "sha256": "38f71c72afae872db4977e705b4be29285a30d9857c80dcc9dcb947f1ba5280f"
@@ -1524,5 +1534,14 @@
     "approved": "2026-09-27",
     "release_format": "PDF only",
     "introduction": "site/facilitator.html"
+  },
+  "website_metadata": {
+    "pages": [
+      "index.html",
+      "about.html",
+      "facilitator.html"
+    ],
+    "sitemap": "sitemap.xml",
+    "search_console_submission": false
   }
 }
