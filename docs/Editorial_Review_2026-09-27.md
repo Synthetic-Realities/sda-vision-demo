@@ -41,3 +41,30 @@ browser file-saving and native presentation-software rehearsals remain to follow
 Local collaboration and contribution guides are excluded from the current
 repositories and release package. The public demo contained neither guide.
 The full source remains private; this update publishes revised demo copy.
+
+## Workshop opening update — 27 September 2026
+
+Display/workshop revision: `workshop-start-2026-09-27.1`.
+
+The Community Workshop and Facilitator example picker now starts with a large,
+bold, black “Start here” heading. The opening illustration supports first
+impressions and workshop notes, with image-specific choices. Its existing
+AI-generated attribution remains visible. Choosing an example starts a fresh
+response; switching presentation keeps the current response. The new-session
+control also resets a session that started with the opening illustration.
+
+Session summaries name the opening illustration and can include its preview.
+Recorded analyses still require a selected example. The Showcase footer now reads:
+“Showcase — saved results for the included examples. Coverage and analysis dates
+are recorded with each result.”
+
+Verification: TypeScript and research/public builds passed; workshop-start render
+regressions and community/export helper checks passed. Browser checks covered
+both views, initial response entry, busy controls, new-session reset, choosing the
+podcast with a fresh response, the exact footer, absent upload controls and a
+390px viewport without horizontal overflow. The CSV action reached its download
+started status; native file receipt was not confirmed by the browser tool.
+Physical-device and native download checks remain on the morning test table.
+
+Scientific method, saved reports and original media are unchanged. No new provider
+calls were made. The full source repository remains private.

@@ -1,5 +1,5 @@
 {
-  "revision": "editorial-2026-09-27.1",
+  "revision": "workshop-start-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -44,29 +44,29 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index-CXhWLtus.js",
-      "bytes": 340743,
-      "sha256": "2ebf287238ef1941ab2d3215866f3d91071599a58676e896ee30564b97ccc8ab"
+      "path": "site/assets/index-BGmbMOMR.css",
+      "bytes": 59852,
+      "sha256": "19b21a7f3bfaae4a66f938d720d2412a3fb27e1ec5a9592bd8dd46782ee1e9f0"
     },
     {
-      "path": "site/assets/index-O-mgdbg0.css",
-      "bytes": 59810,
-      "sha256": "6e03885f9760961fecde54e0009729ded826fb576f4fe71fc83755009c60749f"
+      "path": "site/assets/index-QF8AZu_4.js",
+      "bytes": 340663,
+      "sha256": "83c07335fee808fd838eb3025508f2f7ff6e939b60d9a4b7a05e2376db79d67e"
     },
     {
-      "path": "site/assets/index.es-NKJZpEVq.js",
+      "path": "site/assets/index.es-BAtCmqi1.js",
       "bytes": 158948,
-      "sha256": "bedd44163bfb706426a3870c99477cbf6f3de235f4c9699bad58b1bcd6239054"
+      "sha256": "2e5fec1cbd7850e60f5ef8a6f0b494cbe63232948d86095bb55369f416b3fe9b"
     },
     {
-      "path": "site/assets/jspdf.es.min-vh57jRQE.js",
+      "path": "site/assets/jspdf.es.min-BH5z974Z.js",
       "bytes": 386224,
-      "sha256": "2b40553b000a6bebcdad7eb42b885a31c5acf4483e9204195c0710ed3aaaaec7"
+      "sha256": "9c486fb1f59f28a1b5431ce3d783240d324bbb05f0f06b39a017f0d1b1256847"
     },
     {
-      "path": "site/assets/pptxgen.es-lZ0uMRXn.js",
+      "path": "site/assets/pptxgen.es-CYRk9RXc.js",
       "bytes": 372448,
-      "sha256": "ed01f4bffa7e1783c55ac400fb7f2488e33037a7e659b6b68f7ff347b1524021"
+      "sha256": "37fca5ecf35bce0cd566e55df70c0f78343a3d50cb136aff1281adf4334b8b52"
     },
     {
       "path": "site/assets/purify.es-BPuvlvQ_.js",
@@ -76,7 +76,7 @@
     {
       "path": "site/index.html",
       "bytes": 1081,
-      "sha256": "6d90fb24906a65b354ef36fd7828f29d8368f227f5ccd6762cc0bc14d825de96"
+      "sha256": "53e1a6ef6e7abb3c1f21366aeb248ce5fb26088e3be42f232d8454483c394947"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1114,11 +1114,6 @@
       "sha256": "c8a7065909b1e0b6c980177e94e0964d37bc44220c909eb5e5a61973dfd113e0"
     },
     {
-      "path": "site/third_party/frontend-inventory.json",
-      "bytes": 8693,
-      "sha256": "7575481998af7b11b0c8e5c9ea2f9d41893d860608ce35952a013199ba282a2d"
-    },
-    {
       "path": "site/third_party/frontend/@babel__runtime-7.29.7/LICENSE",
       "bytes": 1106,
       "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76"
@@ -1367,6 +1362,11 @@
       "path": "site/third_party/frontend/utrie-1.0.2/LICENSE",
       "bytes": 1061,
       "sha256": "8b00952cd8d0f5cbbefb13576778e1185dc963943151353d90c4e14a5a4caf40"
+    },
+    {
+      "path": "site/third_party/frontend-inventory.json",
+      "bytes": 8693,
+      "sha256": "7575481998af7b11b0c8e5c9ea2f9d41893d860608ce35952a013199ba282a2d"
     }
   ],
   "browser_provider_calls": 0,
@@ -1381,5 +1381,15 @@
     "research_public_builds": "passed",
     "browser_copy_and_narrow_viewport": "passed",
     "recorded_results": "unchanged"
+  },
+  "workshop_start_verification": {
+    "typescript_research_public_builds": "passed",
+    "workshop_start_and_community_helpers": "passed",
+    "both_views_initial_response_and_reset": "passed",
+    "narrow_viewport_390px": "passed",
+    "uploads_present": false,
+    "new_provider_requests": 0,
+    "native_download_receipt": "not confirmed",
+    "physical_devices": "awaiting researcher testing"
   }
 }
