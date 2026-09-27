@@ -4,8 +4,6 @@
 
 The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
 
-[Open the saved-results demo](https://Synthetic-Realities.github.io/sda-vision-demo/).
-
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**
 (she/her), Smart Data Research UK (UKRI) Fellow, Manchester Metropolitan University.
 [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
