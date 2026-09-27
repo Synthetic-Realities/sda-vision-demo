@@ -4,6 +4,10 @@
 
 The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
 
+The opening illustration supports all four workshop activities and has saved
+Claude, OpenAI and Gemini findings. The menu offers ten further examples.
+[Workshop and Facilitator guide](docs/Workshop_Activities_2026-09-25.md).
+
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**
 (she/her), Smart Data Research UK (UKRI) Fellow, Manchester Metropolitan University.
 [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).

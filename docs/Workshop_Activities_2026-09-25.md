@@ -1,0 +1,75 @@
+# Community Workshop and Facilitator guide
+
+## Start here
+
+The public demo opens in Community Workshop with an AI-generated workshop
+illustration. The illustration supports **Notice → Discuss → Check → Reflect**.
+At Check, **Open recorded findings** loads its saved Claude, OpenAI and Gemini
+assessments. The report's exact-file SHA-256 matches the displayed illustration.
+The recorded filename is `illustration-1.png`; the opening image has its own
+report and downloads and sits outside the ten-item example menu and set graph.
+
+The **Start here** menu offers ten additional images, documents and podcast
+examples. Each has saved findings. Selecting one starts a fresh set of workshop
+responses. Switching between Community Workshop and Facilitator preserves the
+current item, responses and findings. The Facilitator view adds group prompts.
+
+## Four activities
+
+| Activity | What participants do | Findings and responses |
+| --- | --- | --- |
+| Notice | Choose one or more first impressions and optionally add a note. | Choices are labelled as personal impressions. “Not sure yet” is exclusive. |
+| Discuss | Explore visual details, sound or wording; select relevant cues and add a discussion note. | Prompts follow the first impression and the kind of media. |
+| Check | Open the recorded findings and compare their coverage and evidence. | A compact overview and model assessments support discussion. |
+| Reflect | Compare first and later views, choose practical next actions and add a reflection. | End session downloads a summary; New session offers saving and reset controls. |
+
+Each step can be revisited. Opening findings retains the responses already entered
+for that item. The research app and live Conference profile use their separate
+input and consent controls for new analysis of selected material.
+
+## Findings and further detail
+
+The workshop overview presents visual or text findings, relevant soundtrack
+observations and the accompanying claim. Provider evidence includes model readings
+and supporting file observations. Ratings are not calibrated probabilities.
+
+**Provider evidence and ratings** contains image/file history and C2PA Content
+Credentials, including credential presence, integrity, signer trust, declared
+origin and coverage. These details show each recorded status, including absent,
+unavailable or failed checks. Workshop responses and navigation operate
+independently of the credential check. Saved findings retain their analysis dates,
+models, sampling and uncertainty.
+
+Google Lens and Second Opinion are available beside eligible recorded findings.
+Visitors choose any material they attach in the external service. Sound-origin
+detection remains outside this workflow; podcast model findings concern the
+recorded transcript excerpt.
+
+## Session notes and downloads
+
+Workshop responses are held in the browser for the current item. They persist
+across activities and presentation views and clear on changing item, resetting,
+reloading or closing. The About/privacy information and reset dialog describe
+storage and saving. Responses are separate from automated scores and provider
+requests.
+
+PDF, PPTX and CSV workshop summaries include responses when the inclusion option
+is selected. Original recorded-report downloads preserve the saved analysis.
+End session starts a download and leaves the current responses available. New
+session offers a download and an explicit acknowledgement before clearing them.
+
+## Testing on a phone or tablet
+
+1. Enter an opening-image impression and note, then choose **Let's discuss**.
+2. Select a discussion cue, add a note and choose **Let's check together**.
+3. Choose **Open recorded findings**. Check the three model readings and date.
+4. Choose **Reflect together** and enter a later view and reflection.
+5. Repeat in Facilitator, then select the podcast and check that responses reset.
+6. Open Provider evidence and ratings to inspect the recorded credential status.
+7. Save a workshop summary and open it in the device's intended application.
+
+The public demo loads prepared files and saved results. The static website uses
+no analysis backend or new provider calls. Live Conference rehearsal, native
+file-saving and physical-device checks have their own acceptance records.
+
+The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.

@@ -42,29 +42,67 @@ Local collaboration and contribution guides are excluded from the current
 repositories and release package. The public demo contained neither guide.
 The full source remains private; this update publishes revised demo copy.
 
-## Workshop opening update — 27 September 2026
+## Repository audit scope
 
-Display/workshop revision: `workshop-start-2026-09-27.1`.
+The audit started from the researcher's committed edits: private `75ce95e` and
+public `92f5e2d`. Their revised verdict, launch, health-lens and privacy sections
+were preserved; the duplicate privacy link was removed and the remaining
+introductory copy was aligned with them.
 
-The Community Workshop and Facilitator example picker now starts with a large,
-bold, black “Start here” heading. The opening illustration supports first
-impressions and workshop notes, with image-specific choices. Its existing
-AI-generated attribution remains visible. Choosing an example starts a fresh
-response; switching presentation keeps the current response. The new-session
-control also resets a session that started with the opening illustration.
+| Surface | Review outcome |
+|---|---|
+| Private README, privacy and security | Purpose and processing first; retained recipients, consent, retention and status boundaries. Added the agreed ORCID link. |
+| Public README and About | Invites exploration; explains prepared results, browser-session notes, external services and host privacy. |
+| Workshop and external checks | Replaced repeated “needs human review” with source/context comparisons; kept status distinctions and manual attachment choices. |
+| Session downloads | Updated app-owned scope text; original provider replies, findings and notes remain intact. |
+| Release and Conference guidance | Clear actions and current configuration; corrected stale descriptions of implemented note entry and the Conference profile. |
+| Example inventory | Clarified eleven private preparation examples versus ten public examples; media bytes and credits unchanged. |
+| Saved reports, graphs and prepared exports | Reviewed as historical research records; retained verbatim. |
+| Method, acceptance, capability and compatibility records | Retained dated evidence and uncertainty; current entry-point guides link to this review. Historical capability statements are not a fresh vendor assessment. |
+| Code, configuration, prompts and tests | Reviewed wording surfaces; processing rules, model prompts, consent controls and structured statuses unchanged. Existing wording assertions updated with their underlying safety checks retained. |
+| Licences, third-party notices and rights terms | Retained exactly. The scope document's obsolete contribution-guide link was removed; its terms were preserved. |
+| Local guidance | Removed AGENTS.md and CONTRIBUTING.md from current tracked files and the package allowlist at the researcher's request; local workspace copies retained. |
 
-Session summaries name the opening illustration and can include its preview.
-Recorded analyses still require a selected example. The Showcase footer now reads:
-“Showcase — saved results for the included examples. Coverage and analysis dates
-are recorded with each result.”
+## Packaging correction
 
-Verification: TypeScript and research/public builds passed; workshop-start render
-regressions and community/export helper checks passed. Browser checks covered
-both views, initial response entry, busy controls, new-session reset, choosing the
-podcast with a fresh response, the exact footer, absent upload controls and a
-390px viewport without horizontal overflow. The CSV action reached its download
-started status; native file receipt was not confirmed by the browser tool.
-Physical-device and native download checks remain on the morning test table.
+The full check exposed an existing package-builder error: directories with no
+filename extension were being selected alongside extensionless licence files.
+The builder now skips ordinary directories, retains the notice files and
+continues to reject symlinks. A regression check covers that distinction and
+the exclusion of local guidance. This is a packaging repair, separate from
+scientific method and copy revisions.
 
-Scientific method, saved reports and original media are unchanged. No new provider
-calls were made. The full source repository remains private.
+The earlier commits in the private repository remain historical Git records;
+removing a file from the current tree does not erase its earlier versions.
+
+## Editorial references
+
+Privacy wording was checked against ICO guidance on
+[controller and processor roles](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/controllers-and-processors/controllers-and-processors/),
+[special-category data and DPIAs](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-are-the-rules-on-special-category-data/),
+and [publicly available personal data](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/individual-rights/the-right-to-be-informed/what-common-issues-might-come-up-in-practice/).
+This review changes explanatory language; institutional decisions remain in
+the approved processing record.
+
+## Workshop presentation — current behaviour
+
+Display/workshop revision: `workshop-flow-2026-09-27.1`.
+
+Community Workshop and Facilitator use a bold, black Start here heading. The
+opening illustration has an exact-file saved analysis covering Claude, OpenAI
+and Gemini readings. Its Notice, Discuss, Check and Reflect activities share the
+current response. The ten menu examples and their set graph form a separate set.
+
+Discuss offers media-specific observations. Check presents recorded findings;
+image/file history and C2PA details sit within Provider evidence and ratings.
+Response-storage information is in About/privacy guidance and the reset dialog.
+The compact footer provides credits, repository and privacy links. The [workshop guide](Workshop_Activities_2026-09-25.md)
+describes controls, response handling and downloads.
+
+Scientific method and raw saved reports retain their recorded versions. Model
+inference is outside this display revision. Physical-device and native-download
+acceptance is recorded separately from automated and browser checks.
+
+The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.
+
+Verification for this display revision: 27 focused Python checks, research/public workshop render checks, community export helpers, TypeScript and both builds passed. Browser review covered the opening four-step journey, both workshop views, preserved responses, C2PA detail, podcast sound scope and phone/desktop widths. Physical-device and native-download acceptance remains with the researcher. The Facilitator tab remains available while the illustrated guide is reviewed.
