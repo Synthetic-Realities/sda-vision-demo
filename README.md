@@ -4,7 +4,7 @@
 
 SDA stands for **Synthetic-media Discourse Analysis**.
 
-[![SDA Vision demo opening in Community Workshop](docs/images/community-workshop.png)](https://synthetic-realities.github.io/sda-vision-demo/)
+[![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://synthetic-realities.github.io/sda-vision-demo/)
 
 The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
 
