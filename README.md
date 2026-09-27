@@ -16,11 +16,12 @@ assessments. The PDF and presentation each use four sampled images; the podcast
 assessment covers a transcript excerpt. Visitors can explore Developer, Community Workshop
 and trainer views, use prepared batches and download reports. New Second Opinion
 replies remain in browser memory and can be exported separately from recorded findings.
-The site accepts no visitor file uploads and makes no new analysis-provider calls.
+The website uses prepared media and saved assessments; visitor uploads and live
+analysis are outside this demo profile.
 
 The complete research application source is being prepared separately for an
-open-source software release and a versioned Zenodo archive. This demo publication
-does not create a software release or DOI.
+open-source software release and a versioned Zenodo archive. The software release
+and DOI will accompany that separate archive.
 
 ## Credits and terms
 
@@ -44,7 +45,12 @@ branding and in the footer. Physical-device, projector, browser file-saving and
 native presentation-software rehearsals remain to be completed.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is
-manual through the Pages workflow; it publishes only `site/`. No backend, API
-credentials, private source key or restricted conference videos are included.
-For non-sensitive issues, use this repository's Issues. Please exclude research
-inputs and personal information from public reports.
+manual through the Pages workflow; it publishes only `site/`. The published files
+are the static website and reviewed example bundle. Backend
+services, API credentials, private source keys and restricted conference videos
+remain outside that bundle. For questions and feedback, use this repository's
+Issues with a non-sensitive description or synthetic example.
+
+The [27 September copy review](docs/Editorial_Review_2026-09-27.md) records the
+current wording update, checks and boundaries. It preserves the saved analyses
+and their method version.
