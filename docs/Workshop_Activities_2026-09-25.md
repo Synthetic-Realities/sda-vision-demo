@@ -1,10 +1,12 @@
 # Community Workshop and Facilitator guide
 
+SDA stands for **Synthetic-media Discourse Analysis**.
+
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
-[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.0-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf)
+[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.1-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf)
 
-[Download the facilitator guide (PDF, version 1.0)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
+[Download the facilitator guide (PDF, version 1.1)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
 
 ## Using the facilitator guide
 
@@ -31,7 +33,7 @@ report and downloads and sits outside the ten-item example menu and set graph.
 
 The **Start here** menu offers ten additional images, documents and podcast
 examples. Each has saved findings. Selecting one starts a fresh set of workshop
-responses. Community Workshop provides the four-step activity; Developer provides the research controls. The illustrated facilitator guide supplies group prompts and session guidance.
+responses. Community Workshop provides the four-step activity; Developer provides the research controls. The Facilitator guide tab supplies group prompts, activity previews and the PDF download while keeping the current workshop session available.
 
 ## Four activities
 
@@ -48,7 +50,7 @@ input and consent controls for new analysis of selected material.
 
 ## Findings and further detail
 
-The workshop overview presents visual or text findings, relevant soundtrack
+The workshop overview presents visual or transcript findings, relevant soundtrack
 observations and the accompanying claim. Provider evidence includes model readings
 and supporting file observations. Ratings are not calibrated probabilities.
 
@@ -83,7 +85,7 @@ session offers a download and an explicit acknowledgement before clearing them.
 2. Select a discussion cue, add a note and choose **Let's check together**.
 3. Choose **Open recorded findings**. Check the three model readings and date.
 4. Choose **Reflect together** and enter a later view and reflection.
-5. Open the Facilitator guide introduction, inspect the two activity previews and download the full PDF. Return to the demo, select the podcast and check that responses reset.
+5. Open the Facilitator guide introduction, inspect the two activity previews and download the full PDF. Switch back to Community Workshop and check that responses remain. Select the podcast, check the loading status, and confirm that choosing a new item resets responses.
 6. Open Provider evidence and ratings to inspect the recorded credential status.
 7. Save a workshop summary and open it in the device's intended application.
 
@@ -93,4 +95,4 @@ file-saving and physical-device checks have their own acceptance records.
 
 The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.
 
-Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. The other next steps encourage comparing evidence, seeking relevant expertise and pausing before sharing.
+For image examples, Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. Audio, video, document and transcript examples show the three other next steps: compare evidence, seek relevant expertise and pause before sharing.

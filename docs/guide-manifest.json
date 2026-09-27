@@ -1,0 +1,62 @@
+{
+  "version": "1.1",
+  "pack_revision": "integrated-guide-2026-09-27.1",
+  "status": "Prepared for Zenodo; deposit pending",
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1342,
+      "sha256": "7c52c27f79367566500db1953bff7359747230dc5c09d121cf5ea7df12a8bfe6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3830,
+      "sha256": "a37f86a25c188fed252f328413d2ccaab52859d62cff6072316d1e61d3cff203"
+    },
+    {
+      "path": "Release_Pack_Audit_2026-09-27.md",
+      "bytes": 3793,
+      "sha256": "7a0499abeed1fe4fb8370d38c184c078700e843b35a98c32a22323df7fde42a1"
+    },
+    {
+      "path": "SDA_Vision_Facilitator_Guide_v1.1-cover.png",
+      "bytes": 366921,
+      "sha256": "5bf603d9cd64af74e0aa5fc9d1101f6a1202c9617fa9b6c968fa6b7d7544a582"
+    },
+    {
+      "path": "SDA_Vision_Facilitator_Guide_v1.1.pdf",
+      "bytes": 5349891,
+      "sha256": "8cdaa86e4f5b4ecbc1d3d6cc2f2e98884af92f643569155802b8888d2516f4c1"
+    },
+    {
+      "path": "community-workshop.png",
+      "bytes": 172331,
+      "sha256": "d59b6ee646f87877ba5c8cdc60439db3ebc5648d901cb63cd5606d18df30527e"
+    },
+    {
+      "path": "developer-media-and-batch.png",
+      "bytes": 281325,
+      "sha256": "04836103ec9af1730f54d29866c327342e12c6cda1ffc788e44896f3db2c7cf2"
+    },
+    {
+      "path": "facilitator-tab.png",
+      "bytes": 85194,
+      "sha256": "1ddab34d17c49d6f78f0cc1489f9cc2e8fb15d68582401c5f7977be3c59c94cb"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 1030,
+      "sha256": "dce2bbd7d75486b7d77caaee3dd4e7aa2d2b787ecc5108ade25218504d7005cc"
+    },
+    {
+      "path": "workshop-activity-1-notice.png",
+      "bytes": 257168,
+      "sha256": "f198e3fafff836bd3091eaf692052cb591601768cd1c8a5e4b4842680af0a453"
+    },
+    {
+      "path": "workshop-activity-2-discuss.png",
+      "bytes": 249501,
+      "sha256": "95fbbf44a1ff19d5ef1a11b8da528c50471a7860c0e414b689a838a5407bc77a"
+    }
+  ]
+}

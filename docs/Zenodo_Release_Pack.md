@@ -1,14 +1,16 @@
 # Facilitator guide: Zenodo release pack
 
+SDA stands for **Synthetic-media Discourse Analysis**.
+
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
-[![First page of the facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.0-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf)
+[![First page of the facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.1-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf)
 
-[Download the illustrated facilitator guide (PDF, version 1.0)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf).
+[Download the illustrated facilitator guide (PDF, version 1.1)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf).
 
-The six-page guide brings together Notice, Discuss, Check and Reflect screenshots, colourful group questions and practical facilitation guidance. The app provides Community Workshop and Developer views. Its **Facilitator guide** link opens an introduction, activity previews and the full-pack download.
+The six-page guide brings together Notice, Discuss, Check and Reflect screenshots, colourful group questions and practical facilitation guidance. The app provides **Community Workshop**, **Developer** and **Facilitator guide** in one centred menu. The guide tab contains an introduction, activity previews and the full-pack download. Switching tabs retains the current workshop item and responses.
 
-The researcher approved version 1.0 and inclusion in the GitHub and Zenodo release packs on 27 September 2026. The guide is published through GitHub Pages. The Zenodo preparation bundle contains the exact PDF, this cover, attribution, MIT licence and file checksums. The guide's version is separate from the forthcoming software release.
+Version 1.0 was approved for the GitHub and Zenodo release packs on 27 September 2026. Version 1.1 carries current screenshots and media-specific guidance under the researcher’s requested pack update. The guide is published through GitHub Pages. The Zenodo preparation bundle contains the exact PDF, this cover, attribution, MIT licence and file checksums. The guide's version is separate from the forthcoming software release.
 
 ## Who it is for and how to use it
 
@@ -29,7 +31,7 @@ Before the session, read through the pack and choose an approved example. With t
 | Field | Value |
 | --- | --- |
 | Title | SDA Vision: Facilitator field guide |
-| Version | 1.0 |
+| Version | 1.1 |
 | Date | 2026-09-27 |
 | Creator | Dr Sam Martin |
 | Affiliation | Manchester Metropolitan University (MMU) |

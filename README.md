@@ -1,5 +1,7 @@
 # SDA Vision — interactive demo
 
+SDA stands for **Synthetic-media Discourse Analysis**.
+
 [![SDA Vision demo opening in Community Workshop](docs/images/community-workshop.png)](https://synthetic-realities.github.io/sda-vision-demo/)
 
 The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
@@ -44,7 +46,7 @@ Before the session, read through the pack and choose an approved example. With t
 
 **Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
-[Download the full facilitator pack (PDF, version 1.0)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf).
+[Download the full facilitator pack (PDF, version 1.1)](docs/guides/SDA_Vision_Facilitator_Guide_v1.1.pdf).
 
 ## Credits and terms
 
@@ -74,3 +76,5 @@ Issues with a non-sensitive description or synthetic example.
 The [27 September copy review](docs/Editorial_Review_2026-09-27.md) records the
 current wording update, checks and boundaries. It preserves the saved analyses
 and their method version.
+
+[Current interface and release-pack review](docs/Release_Pack_Audit_2026-09-27.md) covers the integrated facilitator guide, media previews, batch checklist and refreshed screenshots.
