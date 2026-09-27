@@ -1,5 +1,5 @@
 {
-  "revision": "community-flow-2026-09-27.1",
+  "revision": "branding-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -15,8 +15,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 6678,
-      "sha256": "4eb99d00a3731f5739a60a696ff49c9b26104ff397a82573888df59fed1028e5"
+      "bytes": 6897,
+      "sha256": "a580101dfb30508712ed60da547fc984acf583767ae6943b8772933099c2a3c1"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -44,9 +44,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-CcRhqDGw.js",
+      "path": "site/assets/index.es-C209sbD8.js",
       "bytes": 158947,
-      "sha256": "d7cabf9fdd78afd7245cdf09d18b2c257419afa2d0d2e70fb52285ffc5ada4e7"
+      "sha256": "071b327603a3c6060735edaad195df50f4a1a9e8ae4cf58beacc5ce133a87f66"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -54,19 +54,19 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-ezsKX5pW.js",
+      "path": "site/assets/jspdf.es.min-BPbYcRuJ.js",
       "bytes": 386221,
-      "sha256": "2dbfffc46ef9daf847bd7562305aa343b27e4431d7b1f59fbefbbf01c2e0f754"
+      "sha256": "99a4aa429836c3dff29ebe519a774cb2a08d0e8a1fbc3c991563f754e832800c"
     },
     {
-      "path": "site/assets/main-CN75-8Sy.js",
-      "bytes": 351280,
-      "sha256": "ae4df4df36db0fe2746d180c9908048dd377fb0896042d3e94c9bdd74ae6855d"
+      "path": "site/assets/main-DKfBnHfM.js",
+      "bytes": 354280,
+      "sha256": "c6c86ae0f74197e5f9888db4002d81719a2d0075111cbabd88a546c21c880027"
     },
     {
-      "path": "site/assets/main-z2PtBTDq.css",
-      "bytes": 68928,
-      "sha256": "581889e55b3b924444aafe0f5d14bdcd4738db7647eb154f3b226a4310a01db9"
+      "path": "site/assets/main-JspbbTx8.css",
+      "bytes": 70907,
+      "sha256": "03db566c65852556409c053eede4bf59ae8cc375f0d971727157dec4be511471"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -74,9 +74,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-BNgC8ruP.js",
+      "path": "site/assets/pptxgen.es-DrmVrb61.js",
       "bytes": 372447,
-      "sha256": "a583ab3938c82f42b82f8fa753214b57ece32a448b4cbd75c75d7dc417591b4b"
+      "sha256": "b50d9d4ea305363684e1397e81bbeda2e4f46c102dfb5a890364f5963803a985"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -89,9 +89,24 @@
       "sha256": "d77e7392a1a1d242a3ce50561471013eb6d1355a7706dbb856810ab27d036d64"
     },
     {
+      "path": "site/assets/sda-vision-logo-D-d2aKHS.png",
+      "bytes": 541068,
+      "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
+    },
+    {
+      "path": "site/branding/sda-vision-favicon.png",
+      "bytes": 303632,
+      "sha256": "00da5898583c16855d4ec7a7a133662f23301aad9e551b16c3db4bb7610bf937"
+    },
+    {
+      "path": "site/branding/sda-vision-logo.png",
+      "bytes": 541068,
+      "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
+    },
+    {
       "path": "site/facilitator.html",
-      "bytes": 7532,
-      "sha256": "ef8cdb9dd55e54793961af0eb873aeb1bddadd6bbf99dfa663447a8a207966e2"
+      "bytes": 7750,
+      "sha256": "b2ac4d3066417ebf5ffc8521faaddfd7334a826eb62ec3175e6be9bfdc9b9ef1"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -114,24 +129,34 @@
       "sha256": "8cdaa86e4f5b4ecbc1d3d6cc2f2e98884af92f643569155802b8888d2516f4c1"
     },
     {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.2-cover.png",
+      "bytes": 843984,
+      "sha256": "39bec162b49cf320f85dc354d1c3ad074a7cff23dc5e079c007ddfbf97812fbb"
+    },
+    {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.2.pdf",
+      "bytes": 5159090,
+      "sha256": "3b64d865b3b55514730bd4aafc748b140637d2c49c38756f529d5b5d88c9ac1e"
+    },
+    {
       "path": "site/guides/social-preview.png",
-      "bytes": 88141,
-      "sha256": "0277be81b28466ed5df57bdd174aee1425be3028c84bba157eeb598822aa02bd"
+      "bytes": 74571,
+      "sha256": "4e788ce35e97f465871befe6c0ad586cdee443004ebfe178fe5bee9e44550c1e"
     },
     {
       "path": "site/guides/workshop-activity-1-notice.png",
-      "bytes": 257168,
-      "sha256": "f198e3fafff836bd3091eaf692052cb591601768cd1c8a5e4b4842680af0a453"
+      "bytes": 537141,
+      "sha256": "df0e0be1b5493d93abd4cbbabc581978447cf27e71d13bc1ebd4231bda72f841"
     },
     {
       "path": "site/guides/workshop-activity-2-discuss.png",
-      "bytes": 249501,
-      "sha256": "95fbbf44a1ff19d5ef1a11b8da528c50471a7860c0e414b689a838a5407bc77a"
+      "bytes": 520178,
+      "sha256": "493806c8157a6be208daeec81341d22d57920adfb7255751cb1c0ab39126c5db"
     },
     {
       "path": "site/index.html",
-      "bytes": 3151,
-      "sha256": "ea82dcadba2d7601078350d26dad0af8e585326520c439c3feba55c412424116"
+      "bytes": 3242,
+      "sha256": "5f753331e4a9322a6a6c652959c6576cb4b76b7f61c19faf5ff31c5dea030972"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1249,6 +1274,81 @@
       "sha256": "2e5ebc8f6a1828e1186f1374f4e6c9330cd337c50a1a0a8d1bf455f247020b83"
     },
     {
+      "path": "site/slides/presentation/manifest.json",
+      "bytes": 2377,
+      "sha256": "bbe4bdefa2167e1111e238fd38dea1954b5d26e127f4b353dc735d5aeccf0489"
+    },
+    {
+      "path": "site/slides/presentation/slide-01.jpg",
+      "bytes": 895453,
+      "sha256": "11bb3b45bee96d8aea0840ae84597ccbd56f3aa60613058d1aed7e02a2b14fc9"
+    },
+    {
+      "path": "site/slides/presentation/slide-02.jpg",
+      "bytes": 721488,
+      "sha256": "6fa0a8fd4cffd163aab7b2d64dd541733fef6c9c7a446dc889b10fb6872a0cde"
+    },
+    {
+      "path": "site/slides/presentation/slide-03.jpg",
+      "bytes": 556435,
+      "sha256": "0de00d78f96ac6edf30c384bc8d02350714fe5238ddb58b8c0b50fb0cb1f5a2a"
+    },
+    {
+      "path": "site/slides/presentation/slide-04.jpg",
+      "bytes": 666616,
+      "sha256": "5258d236ea33e67a87d1be36f861a4458fbbe45e4aeb2cc793dfbd09c216db4b"
+    },
+    {
+      "path": "site/slides/presentation/slide-05.jpg",
+      "bytes": 525827,
+      "sha256": "b0eaf3c3c9314817a5d61d7d894730a8e1207eefc56c8afda627537d205fd906"
+    },
+    {
+      "path": "site/slides/presentation/slide-06.jpg",
+      "bytes": 567799,
+      "sha256": "8c5b90fe9d3515425ef7f689add07d3db113a7a5bfff861950c08dc958112860"
+    },
+    {
+      "path": "site/slides/presentation/slide-07.jpg",
+      "bytes": 810574,
+      "sha256": "7f1e1eebafaccb5ea715e80c2182516663424be8b2857c59632935d5b6e8aa06"
+    },
+    {
+      "path": "site/slides/presentation/slide-08.jpg",
+      "bytes": 600097,
+      "sha256": "8c287652ec90ffd5eb4679c1713773af3828d28357c731f7a94f4de059313e6a"
+    },
+    {
+      "path": "site/slides/presentation/slide-09.jpg",
+      "bytes": 821528,
+      "sha256": "f57efd914d3c2de55186f083a5f33b73520857d161e0978942b90959bfa65e66"
+    },
+    {
+      "path": "site/slides/presentation/slide-10.jpg",
+      "bytes": 689783,
+      "sha256": "d585991ec07bd5ae23b05c282b284b0de481b318f190f24c9996b971f0b6b7c4"
+    },
+    {
+      "path": "site/slides/presentation/slide-11.jpg",
+      "bytes": 607395,
+      "sha256": "c5e838c71b33393c3a04a4ed53445b4e0884d130bc71e94b07be135d373fbd5b"
+    },
+    {
+      "path": "site/slides/presentation/slide-12.jpg",
+      "bytes": 543815,
+      "sha256": "7ea5bcaf106449a078810243306efd465d01ebeee28b840aa18fbe6722b016b2"
+    },
+    {
+      "path": "site/slides/presentation/slide-13.jpg",
+      "bytes": 804181,
+      "sha256": "26661b67bf8fb15a2065167df0b79b53f77b50dc04720fde27b134bca5e90089"
+    },
+    {
+      "path": "site/slides/presentation/slide-14.jpg",
+      "bytes": 801574,
+      "sha256": "03a7f898013e69671bc08c07f4e2c7e3099897bae35f36d1bc83eaa9192e27e2"
+    },
+    {
       "path": "site/third_party/Adobe-example-assets-LICENSE.txt",
       "bytes": 1088,
       "sha256": "38f71c72afae872db4977e705b4be29285a30d9857c80dcc9dcb947f1ba5280f"
@@ -1564,5 +1664,5 @@
     "sitemap": "sitemap.xml",
     "search_console_submission": false
   },
-  "facilitator_guide_version": "1.1"
+  "facilitator_guide_version": "1.2"
 }

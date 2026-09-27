@@ -1,6 +1,6 @@
 # Workshop, Developer and facilitator release-pack review
 
-Display revision: `community-flow-2026-09-27.1` · 27 September 2026.
+Display revision: `branding-2026-09-27.1` · 27 September 2026.
 
 ## Current experience
 
@@ -28,7 +28,7 @@ The current Community Workshop screenshot appears in both repository READMEs and
 
 ![Developer media and batch controls](images/developer-media-and-batch.png)
 
-[Facilitator guide PDF, version 1.1](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf) contains workshop screenshots and media-specific guidance. Its printed examples predate the compact inline-results display; the current [workshop instructions](Workshop_Activities_2026-09-25.md) describe the live flow. Version 1.0 remains an earlier approved edition. The editable PowerPoint remains for the researcher's conference and webinar use and is excluded from the release packs.
+[Facilitator guide PDF, version 1.2](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf) contains workshop screenshots and media-specific guidance. Its screenshots illustrate the compact inline-results display. Versions 1.0 and 1.1 remain preserved earlier editions. The editable PowerPoint remains for the researcher's conference and webinar use and is excluded from the release packs.
 
 ## Verification and scope
 
@@ -37,3 +37,5 @@ TypeScript, public/research builds, community presentation checks and workshop r
 Saved reports, original media, provider prompts, scoring and consent requirements retain their prior implementation or bytes. No new provider inference is part of this revision. Original recorded-report downloads remain historical records; the workshop's current summaries use media-specific display wording.
 
 The GitHub demo publishes the static website. The source repository remains private. The versioned Zenodo preparation folder contains the guide, previews, attribution, licence, metadata and checksums; deposit and DOI assignment remain pending. Physical-device playback, file-saving, projector and conference rehearsals remain researcher acceptance checks.
+
+The supplied SDA Vision logo appears in tab headers, current session exports, the guide and repository introductions. The site links the supplied PNG favicon. The prepared presentation offers 14 high-resolution static slides, with touch and keyboard controls and an enlarged view. Each slide loads when selected. Browser checks cover first/last-slide controls, selection, keyboard navigation, dismissal and a 390-pixel phone layout. Original PPTX animations, if any, are outside this static viewer.

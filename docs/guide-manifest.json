@@ -1,8 +1,18 @@
 {
-  "version": "1.1",
-  "pack_revision": "integrated-guide-2026-09-27.1",
+  "version": "1.2",
+  "pack_revision": "branding-2026-09-27.1",
   "status": "Prepared for Zenodo; deposit pending",
   "files": [
+    {
+      "path": "Branding_And_Slideshow_2026-09-27.md",
+      "bytes": 1741,
+      "sha256": "455670d872ac1349092b0c656ee9ec2de5fcd4f0b3239667a17b91b7a975123f"
+    },
+    {
+      "path": "Community_Workshop_Review_2026-09-27.md",
+      "bytes": 1709,
+      "sha256": "e91184a192f1adf22f8cb789597475fbbafbcf40baefbb7cd2a4eff01ee64411"
+    },
     {
       "path": "LICENSE",
       "bytes": 1342,
@@ -10,53 +20,73 @@
     },
     {
       "path": "README.md",
-      "bytes": 3830,
-      "sha256": "a37f86a25c188fed252f328413d2ccaab52859d62cff6072316d1e61d3cff203"
+      "bytes": 4067,
+      "sha256": "426e16666fd8c3644361d16ffb8a800f6356da994dc52f704ac682267d09ae59"
     },
     {
       "path": "Release_Pack_Audit_2026-09-27.md",
-      "bytes": 3793,
-      "sha256": "7a0499abeed1fe4fb8370d38c184c078700e843b35a98c32a22323df7fde42a1"
+      "bytes": 4874,
+      "sha256": "5ff17e7d19d102bb6f9801102919723d8e5780cc730dac00c48faf3f6e8c4537"
     },
     {
-      "path": "SDA_Vision_Facilitator_Guide_v1.1-cover.png",
-      "bytes": 366921,
-      "sha256": "5bf603d9cd64af74e0aa5fc9d1101f6a1202c9617fa9b6c968fa6b7d7544a582"
+      "path": "SDA_Vision_Facilitator_Guide_v1.2-cover.png",
+      "bytes": 843984,
+      "sha256": "39bec162b49cf320f85dc354d1c3ad074a7cff23dc5e079c007ddfbf97812fbb"
     },
     {
-      "path": "SDA_Vision_Facilitator_Guide_v1.1.pdf",
-      "bytes": 5349891,
-      "sha256": "8cdaa86e4f5b4ecbc1d3d6cc2f2e98884af92f643569155802b8888d2516f4c1"
+      "path": "SDA_Vision_Facilitator_Guide_v1.2.pdf",
+      "bytes": 5159090,
+      "sha256": "3b64d865b3b55514730bd4aafc748b140637d2c49c38756f529d5b5d88c9ac1e"
+    },
+    {
+      "path": "Workshop_Activities_2026-09-25.md",
+      "bytes": 7877,
+      "sha256": "2b61d5147702ba28d68024147e8389a2c9239a99572f47776196ba60eebafc7a"
     },
     {
       "path": "community-workshop.png",
-      "bytes": 172331,
-      "sha256": "d59b6ee646f87877ba5c8cdc60439db3ebc5648d901cb63cd5606d18df30527e"
+      "bytes": 171503,
+      "sha256": "591465321b9fc35364ff9fa4bce1e3e6f51dda732bb402c08a54d1fe0c74eb56"
     },
     {
       "path": "developer-media-and-batch.png",
-      "bytes": 281325,
-      "sha256": "04836103ec9af1730f54d29866c327342e12c6cda1ffc788e44896f3db2c7cf2"
+      "bytes": 262847,
+      "sha256": "693a77b1fd87567cc9e2c993ff5e9b166470e1cbe0369334fac0610cb800b780"
     },
     {
       "path": "facilitator-tab.png",
-      "bytes": 85194,
-      "sha256": "1ddab34d17c49d6f78f0cc1489f9cc2e8fb15d68582401c5f7977be3c59c94cb"
+      "bytes": 319490,
+      "sha256": "61bfa68fa992ba08a31df4f96563f0adc64e382da6ce8c5c15dd5e0f728827e6"
     },
     {
       "path": "metadata.json",
-      "bytes": 1030,
-      "sha256": "dce2bbd7d75486b7d77caaee3dd4e7aa2d2b787ecc5108ade25218504d7005cc"
+      "bytes": 923,
+      "sha256": "d9fd8791d95edbdc8934e1a3ce9da314315161a6e18eb6155d875c4c6706d3c5"
+    },
+    {
+      "path": "presentation-slideshow.png",
+      "bytes": 108877,
+      "sha256": "bfb9375ecbde3bff5701dc75dca0fdebf270af7a6eefe8f8fbdd26027454d263"
+    },
+    {
+      "path": "sda-vision-favicon.png",
+      "bytes": 303632,
+      "sha256": "00da5898583c16855d4ec7a7a133662f23301aad9e551b16c3db4bb7610bf937"
+    },
+    {
+      "path": "sda-vision-logo.png",
+      "bytes": 541068,
+      "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
     },
     {
       "path": "workshop-activity-1-notice.png",
-      "bytes": 257168,
-      "sha256": "f198e3fafff836bd3091eaf692052cb591601768cd1c8a5e4b4842680af0a453"
+      "bytes": 537141,
+      "sha256": "df0e0be1b5493d93abd4cbbabc581978447cf27e71d13bc1ebd4231bda72f841"
     },
     {
       "path": "workshop-activity-2-discuss.png",
-      "bytes": 249501,
-      "sha256": "95fbbf44a1ff19d5ef1a11b8da528c50471a7860c0e414b689a838a5407bc77a"
+      "bytes": 520178,
+      "sha256": "493806c8157a6be208daeec81341d22d57920adfb7255751cb1c0ab39126c5db"
     }
   ]
 }

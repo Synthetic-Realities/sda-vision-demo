@@ -1,4 +1,6 @@
-# SDA Vision — interactive demo
+<p><img src="docs/branding/sda-vision-logo.png" alt="SDA Vision" width="420"></p>
+
+# Interactive demo
 
 SDA stands for **Synthetic-media Discourse Analysis**.
 
@@ -46,7 +48,7 @@ Before the session, read through the pack and choose an approved example. With t
 
 **Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
-[Download the full facilitator pack (PDF, version 1.1)](docs/guides/SDA_Vision_Facilitator_Guide_v1.1.pdf).
+[Download the full facilitator pack (PDF, version 1.2)](docs/guides/SDA_Vision_Facilitator_Guide_v1.2.pdf).
 
 ## Credits and terms
 

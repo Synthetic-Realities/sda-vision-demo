@@ -4,9 +4,9 @@ SDA stands for **Synthetic-media Discourse Analysis**.
 
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
-[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.1-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf)
+[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.2-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf)
 
-[Download the facilitator guide (PDF, version 1.1)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
+[Download the facilitator guide (PDF, version 1.2)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
 
 ## Using the facilitator guide
 
@@ -100,3 +100,5 @@ file-saving and physical-device checks have their own acceptance records.
 The findings overview and Evidence box each span the workshop page width. Key evidence opens beneath each reading. The footer groups credits, repository and privacy links. A magenta loading strip marks media preparation; PDF and slide previews use large renders of their first page or slide.
 
 For image examples, Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. Audio, video, document and transcript examples show the three other next steps: compare evidence, seek relevant expertise and pause before sharing.
+
+The prepared **presentation.pptx** offers 14 slides inside Community Workshop. Use **Previous**, **Next**, the slide selector or the enlarged viewer. The saved findings describe four sampled slides; browsing the presentation does not add analysis.

@@ -16,6 +16,8 @@ Before the session, read through the pack and choose an approved example. With t
 
 **Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
-[Download the full facilitator pack (PDF, version 1.1, six pages)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf).
+[Download the full facilitator pack (PDF, version 1.2, six pages)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf).
 
 Use it alongside [Community Workshop](https://synthetic-realities.github.io/sda-vision-demo/). The public demo uses prepared examples and recorded findings.
+
+The prepared **presentation.pptx** offers 14 slides inside Community Workshop. Use **Previous**, **Next**, the slide selector or the enlarged viewer. The saved findings describe four sampled slides; browsing the presentation does not add analysis.
