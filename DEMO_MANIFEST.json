@@ -1,5 +1,5 @@
 {
-  "revision": "branding-2026-09-27.1",
+  "revision": "partners-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -44,9 +44,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-C209sbD8.js",
+      "path": "site/assets/index.es-BrAT0IzK.js",
       "bytes": 158947,
-      "sha256": "071b327603a3c6060735edaad195df50f4a1a9e8ae4cf58beacc5ce133a87f66"
+      "sha256": "e413c18beef79a30b51a722000522c130184be89bdf19f4a156f3a81c127598d"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -54,19 +54,19 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-BPbYcRuJ.js",
+      "path": "site/assets/jspdf.es.min-2z8pxYEb.js",
       "bytes": 386221,
-      "sha256": "99a4aa429836c3dff29ebe519a774cb2a08d0e8a1fbc3c991563f754e832800c"
+      "sha256": "b7835ea556daf1578c15ecfb0901bdca6bd01a83bbd3747551e3ecf47fd81d75"
     },
     {
-      "path": "site/assets/main-DKfBnHfM.js",
-      "bytes": 354280,
-      "sha256": "c6c86ae0f74197e5f9888db4002d81719a2d0075111cbabd88a546c21c880027"
+      "path": "site/assets/main-CDeuoZIn.css",
+      "bytes": 73528,
+      "sha256": "52fc39e0c52b03bc3b9edbc7a9ca960693bd3452502f923e42418904bb42f4f1"
     },
     {
-      "path": "site/assets/main-JspbbTx8.css",
-      "bytes": 70907,
-      "sha256": "03db566c65852556409c053eede4bf59ae8cc375f0d971727157dec4be511471"
+      "path": "site/assets/main-DarcYJIj.js",
+      "bytes": 357892,
+      "sha256": "e77e86bcabbdbb7abff984ced1bc16a29046328fbd3ba4b82a18a75225b480c1"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -74,9 +74,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-DrmVrb61.js",
+      "path": "site/assets/pptxgen.es-TzrPs0jw.js",
       "bytes": 372447,
-      "sha256": "b50d9d4ea305363684e1397e81bbeda2e4f46c102dfb5a890364f5963803a985"
+      "sha256": "1622538250ca020eb8649f14d53ef4477172be2c6f66e8767da6d273ebab0b1f"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -94,6 +94,11 @@
       "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
     },
     {
+      "path": "site/branding/mmu-logo.png",
+      "bytes": 39828,
+      "sha256": "0f6b5b8df140c5472adec7cd0c1cd789f5fb50b218cd4d561640e1d99fb7f70c"
+    },
+    {
       "path": "site/branding/sda-vision-favicon.png",
       "bytes": 303632,
       "sha256": "00da5898583c16855d4ec7a7a133662f23301aad9e551b16c3db4bb7610bf937"
@@ -104,9 +109,19 @@
       "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
     },
     {
+      "path": "site/branding/sdruk-logo.png",
+      "bytes": 95904,
+      "sha256": "62b706f3f304cde0c6dabee1664fc817da31d2f2e52ac9edd872ddcc660dc190"
+    },
+    {
+      "path": "site/branding/ukri-logo.png",
+      "bytes": 77516,
+      "sha256": "98a2c182f09d1acb3d318907b3866f7e2272e37b8e0b58c984cb01d0431bd8ea"
+    },
+    {
       "path": "site/facilitator.html",
-      "bytes": 7750,
-      "sha256": "b2ac4d3066417ebf5ffc8521faaddfd7334a826eb62ec3175e6be9bfdc9b9ef1"
+      "bytes": 7711,
+      "sha256": "e6093762d13c6f1936a143e16436c6df2a27a6b2b6bbf8c76b048aea0c5f9305"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -139,24 +154,34 @@
       "sha256": "3b64d865b3b55514730bd4aafc748b140637d2c49c38756f529d5b5d88c9ac1e"
     },
     {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.3-cover.png",
+      "bytes": 673155,
+      "sha256": "9ec48fa6f0f8cba34b4b7b2f596b8a24f1f742cddcd2245b78ce2475cf305276"
+    },
+    {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.3.pdf",
+      "bytes": 5571596,
+      "sha256": "038ecc29c8142200f9f6595cc262f738a1a9301b1b1be8c8f6880aaa3c8398aa"
+    },
+    {
       "path": "site/guides/social-preview.png",
-      "bytes": 74571,
-      "sha256": "4e788ce35e97f465871befe6c0ad586cdee443004ebfe178fe5bee9e44550c1e"
+      "bytes": 32283,
+      "sha256": "c673a46d9df34a28589b1cc4d1396b010b2ec35cd46a337eadaba122e9cfb76f"
     },
     {
       "path": "site/guides/workshop-activity-1-notice.png",
-      "bytes": 537141,
-      "sha256": "df0e0be1b5493d93abd4cbbabc581978447cf27e71d13bc1ebd4231bda72f841"
+      "bytes": 508017,
+      "sha256": "f7e960a36c604838f64220eae29e870939a5f901a397f875945a6d3399a37207"
     },
     {
       "path": "site/guides/workshop-activity-2-discuss.png",
-      "bytes": 520178,
-      "sha256": "493806c8157a6be208daeec81341d22d57920adfb7255751cb1c0ab39126c5db"
+      "bytes": 504098,
+      "sha256": "bc9c549c9d49b8de9b425b10ebe928575c875154fb2b9006246351c3b13620e2"
     },
     {
       "path": "site/index.html",
       "bytes": 3242,
-      "sha256": "5f753331e4a9322a6a6c652959c6576cb4b76b7f61c19faf5ff31c5dea030972"
+      "sha256": "0c3c53e1297f03199bc87b3db2511444fda583d622f13db57c8ab68a58a42fa1"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1664,5 +1689,5 @@
     "sitemap": "sitemap.xml",
     "search_console_submission": false
   },
-  "facilitator_guide_version": "1.2"
+  "facilitator_guide_version": "1.3"
 }

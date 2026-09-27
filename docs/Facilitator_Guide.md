@@ -8,7 +8,7 @@ For **community facilitators, trainers, educators and researchers** leading work
 
 Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
-[Explore the illustrated guide page](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html).
+[Explore the illustrated guide page](https://sdavision.io/#facilitator).
 
 | Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
 | --- | --- |
@@ -16,8 +16,10 @@ Before the session, read through the pack and choose an approved example. With t
 
 **Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
-[Download the full facilitator pack (PDF, version 1.2, six pages)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf).
+[Download the full facilitator pack (PDF, version 1.3, six pages)](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf).
 
 Use it alongside [Community Workshop](https://synthetic-realities.github.io/sda-vision-demo/). The public demo uses prepared examples and recorded findings.
 
 The prepared **presentation.pptx** offers 14 slides inside Community Workshop. Use **Previous**, **Next**, the slide selector or the enlarged viewer. The saved findings describe four sampled slides; browsing the presentation does not add analysis.
+
+The shared menu carries the partner logos in MMU → Smart Data Research UK → UKRI order. Community and Facilitator headings sit alongside the SDA Vision logo. Google Lens has a **Download original file** link alongside it in Reflect and the Evidence box. Reflect offers source-image search for plain images; other media retain their relevant reflection choices. Guide version 1.3 carries the same logos and current workshop screenshots.

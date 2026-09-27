@@ -1,6 +1,6 @@
 # Workshop, Developer and facilitator release-pack review
 
-Display revision: `branding-2026-09-27.1` · 27 September 2026.
+Display revision: `partners-2026-09-27.1` · 27 September 2026.
 
 ## Current experience
 
@@ -28,7 +28,7 @@ The current Community Workshop screenshot appears in both repository READMEs and
 
 ![Developer media and batch controls](images/developer-media-and-batch.png)
 
-[Facilitator guide PDF, version 1.2](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf) contains workshop screenshots and media-specific guidance. Its screenshots illustrate the compact inline-results display. Versions 1.0 and 1.1 remain preserved earlier editions. The editable PowerPoint remains for the researcher's conference and webinar use and is excluded from the release packs.
+[Facilitator guide PDF, version 1.3](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf) contains workshop screenshots and media-specific guidance. Its screenshots illustrate the compact inline-results display. Versions 1.0, 1.1 and 1.2 remain preserved earlier editions. The editable PowerPoint remains for the researcher's conference and webinar use and is excluded from the release packs.
 
 ## Verification and scope
 
@@ -39,3 +39,5 @@ Saved reports, original media, provider prompts, scoring and consent requirement
 The GitHub demo publishes the static website. The source repository remains private. The versioned Zenodo preparation folder contains the guide, previews, attribution, licence, metadata and checksums; deposit and DOI assignment remain pending. Physical-device playback, file-saving, projector and conference rehearsals remain researcher acceptance checks.
 
 The supplied SDA Vision logo appears in tab headers, current session exports, the guide and repository introductions. The site links the supplied PNG favicon. The prepared presentation offers 14 high-resolution static slides, with touch and keyboard controls and an enlarged view. Each slide loads when selected. Browser checks cover first/last-slide controls, selection, keyboard navigation, dismissal and a 390-pixel phone layout. Original PPTX animations, if any, are outside this static viewer.
+
+The shared menu carries the partner logos in MMU → Smart Data Research UK → UKRI order. Community and Facilitator headings sit alongside the SDA Vision logo. Google Lens has a **Download original file** link alongside it in Reflect and the Evidence box. Reflect offers source-image search for plain images; other media retain their relevant reflection choices. Guide version 1.3 carries the same logos and current workshop screenshots.

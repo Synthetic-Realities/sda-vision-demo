@@ -4,9 +4,9 @@ SDA stands for **Synthetic-media Discourse Analysis**.
 
 An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
-[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.2-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf)
+[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.3-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf)
 
-[Download the facilitator guide (PDF, version 1.2)](guides/SDA_Vision_Facilitator_Guide_v1.2.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
+[Download the facilitator guide (PDF, version 1.3)](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
 
 ## Using the facilitator guide
 
@@ -14,7 +14,7 @@ For **community facilitators, trainers, educators and researchers** leading work
 
 Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
-[Open the guide introduction and previews](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html).
+[Open the guide introduction and previews](https://sdavision.io/#facilitator).
 
 | Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
 | --- | --- |
@@ -102,3 +102,5 @@ The findings overview and Evidence box each span the workshop page width. Key ev
 For image examples, Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. Audio, video, document and transcript examples show the three other next steps: compare evidence, seek relevant expertise and pause before sharing.
 
 The prepared **presentation.pptx** offers 14 slides inside Community Workshop. Use **Previous**, **Next**, the slide selector or the enlarged viewer. The saved findings describe four sampled slides; browsing the presentation does not add analysis.
+
+The shared menu carries the partner logos in MMU → Smart Data Research UK → UKRI order. Community and Facilitator headings sit alongside the SDA Vision logo. Google Lens has a **Download original file** link alongside it in Reflect and the Evidence box. Reflect offers source-image search for plain images; other media retain their relevant reflection choices. Guide version 1.3 carries the same logos and current workshop screenshots.

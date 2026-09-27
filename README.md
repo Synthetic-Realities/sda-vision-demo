@@ -40,7 +40,7 @@ For **community facilitators, trainers, educators and researchers** leading work
 
 Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
-[Explore the guide and how to use it](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html) · [Repository guide](docs/Facilitator_Guide.md).
+[Explore the guide and how to use it](https://sdavision.io/#facilitator) · [Repository guide](docs/Facilitator_Guide.md).
 
 | Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
 | --- | --- |
@@ -48,7 +48,7 @@ Before the session, read through the pack and choose an approved example. With t
 
 **Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
-[Download the full facilitator pack (PDF, version 1.2)](docs/guides/SDA_Vision_Facilitator_Guide_v1.2.pdf).
+[Download the full facilitator pack (PDF, version 1.3)](docs/guides/SDA_Vision_Facilitator_Guide_v1.3.pdf).
 
 ## Credits and terms
 
@@ -80,3 +80,11 @@ current wording update, checks and boundaries. It preserves the saved analyses
 and their method version.
 
 [Current interface and release-pack review](docs/Release_Pack_Audit_2026-09-27.md) covers the integrated facilitator guide, media previews, batch checklist and refreshed screenshots.
+
+## Affiliation and funding
+
+<p><img src="docs/branding/mmu-logo.png" alt="Manchester Metropolitan University" width="160" /> &nbsp; <img src="docs/branding/sdruk-logo.png" alt="Smart Data Research UK" width="115" /> &nbsp; <img src="docs/branding/ukri-logo.png" alt="UK Research and Innovation" width="190" /></p>
+
+Smart Data Research UK (UKRI) Fellowship, Grant number UKRI4010, hosted at Manchester Metropolitan University. Partner logos identify the affiliation and funding; their rights remain with their owners.
+
+Developer’s **Preview slides** opens the prepared presentation in a larger viewer. For the forthcoming installed software, see [PowerPoint preview setup](docs/PowerPoint_Preview_Setup.md), including the optional LibreOffice dependency.

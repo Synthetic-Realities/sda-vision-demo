@@ -1,12 +1,17 @@
 {
-  "version": "1.2",
-  "pack_revision": "branding-2026-09-27.1",
+  "version": "1.3",
+  "pack_revision": "partners-2026-09-27.1",
   "status": "Prepared for Zenodo; deposit pending",
   "files": [
     {
+      "path": "ARTWORK_CREDITS.md",
+      "bytes": 527,
+      "sha256": "05fcc773aeb43358ee3e7fd7537954f0e556568819dc3fcc5e511a491e84cf71"
+    },
+    {
       "path": "Branding_And_Slideshow_2026-09-27.md",
       "bytes": 1741,
-      "sha256": "455670d872ac1349092b0c656ee9ec2de5fcd4f0b3239667a17b91b7a975123f"
+      "sha256": "620632aa9ef15702a9dcd603950a648904b516b6676f10e990d04fb4d9c65c85"
     },
     {
       "path": "Community_Workshop_Review_2026-09-27.md",
@@ -19,54 +24,69 @@
       "sha256": "7c52c27f79367566500db1953bff7359747230dc5c09d121cf5ea7df12a8bfe6"
     },
     {
+      "path": "Partners_And_Local_Demo_2026-09-27.md",
+      "bytes": 3348,
+      "sha256": "16453888af857849aa24bf69dbb966364eb67037c3753bac9c3f2a2a404d24f0"
+    },
+    {
+      "path": "PowerPoint_Preview_Setup.md",
+      "bytes": 3151,
+      "sha256": "b7fcdcc6beca056f102491f9f96f6542ff25f6d8c3ab5f161b8fb53c1cceb0c4"
+    },
+    {
       "path": "README.md",
-      "bytes": 4067,
-      "sha256": "426e16666fd8c3644361d16ffb8a800f6356da994dc52f704ac682267d09ae59"
+      "bytes": 4720,
+      "sha256": "86eec0373501dc9c74f2d2d38f4c41be4a77be4ea992c187f853024ad652b180"
     },
     {
       "path": "Release_Pack_Audit_2026-09-27.md",
-      "bytes": 4874,
-      "sha256": "5ff17e7d19d102bb6f9801102919723d8e5780cc730dac00c48faf3f6e8c4537"
+      "bytes": 5320,
+      "sha256": "c85b3b4731b351d90e3ac7e52fe17301e0e9a62a6011ea5efdf15e11a3315c57"
     },
     {
-      "path": "SDA_Vision_Facilitator_Guide_v1.2-cover.png",
-      "bytes": 843984,
-      "sha256": "39bec162b49cf320f85dc354d1c3ad074a7cff23dc5e079c007ddfbf97812fbb"
+      "path": "SDA_Vision_Facilitator_Guide_v1.3-cover.png",
+      "bytes": 673155,
+      "sha256": "9ec48fa6f0f8cba34b4b7b2f596b8a24f1f742cddcd2245b78ce2475cf305276"
     },
     {
-      "path": "SDA_Vision_Facilitator_Guide_v1.2.pdf",
-      "bytes": 5159090,
-      "sha256": "3b64d865b3b55514730bd4aafc748b140637d2c49c38756f529d5b5d88c9ac1e"
+      "path": "SDA_Vision_Facilitator_Guide_v1.3.pdf",
+      "bytes": 5571596,
+      "sha256": "038ecc29c8142200f9f6595cc262f738a1a9301b1b1be8c8f6880aaa3c8398aa"
     },
     {
       "path": "Workshop_Activities_2026-09-25.md",
-      "bytes": 7877,
-      "sha256": "2b61d5147702ba28d68024147e8389a2c9239a99572f47776196ba60eebafc7a"
+      "bytes": 8281,
+      "sha256": "af7e11572231b6ccfd6ccd2d8e92129e4cbc0fd85683e1666a4fd3f88970735c"
     },
     {
       "path": "community-workshop.png",
-      "bytes": 171503,
-      "sha256": "591465321b9fc35364ff9fa4bce1e3e6f51dda732bb402c08a54d1fe0c74eb56"
+      "bytes": 166303,
+      "sha256": "ba2adf03748af5014379d697a927b25f9a7639d136493f91fa25cc8dabf2b712"
     },
     {
       "path": "developer-media-and-batch.png",
-      "bytes": 262847,
-      "sha256": "693a77b1fd87567cc9e2c993ff5e9b166470e1cbe0369334fac0610cb800b780"
+      "bytes": 787818,
+      "sha256": "e167aff23ad125186c7ef679740b72f6e7f9e55e7db8e4e41bdf528085feb89d"
     },
     {
       "path": "facilitator-tab.png",
-      "bytes": 319490,
-      "sha256": "61bfa68fa992ba08a31df4f96563f0adc64e382da6ce8c5c15dd5e0f728827e6"
+      "bytes": 358594,
+      "sha256": "143574b3c91670e56c4d8a3da0cbb7986cdf33e9106a91be376bf2629e33c800"
     },
     {
       "path": "metadata.json",
       "bytes": 923,
-      "sha256": "d9fd8791d95edbdc8934e1a3ce9da314315161a6e18eb6155d875c4c6706d3c5"
+      "sha256": "84c91cb276235114ebf668965122ef82d40a33d51f5bb8c8db11ff3684ce294c"
+    },
+    {
+      "path": "mmu-logo.png",
+      "bytes": 39828,
+      "sha256": "0f6b5b8df140c5472adec7cd0c1cd789f5fb50b218cd4d561640e1d99fb7f70c"
     },
     {
       "path": "presentation-slideshow.png",
-      "bytes": 108877,
-      "sha256": "bfb9375ecbde3bff5701dc75dca0fdebf270af7a6eefe8f8fbdd26027454d263"
+      "bytes": 168992,
+      "sha256": "8a420b755ea5b6265a17af772009f5fc01fdbef4cafc50ff5316849d2932b741"
     },
     {
       "path": "sda-vision-favicon.png",
@@ -79,14 +99,24 @@
       "sha256": "a574b18a6806ce7a6d2e6a14d6a7c758f2c7499e573f2cc6b87ac282ae9600f1"
     },
     {
+      "path": "sdruk-logo.png",
+      "bytes": 95904,
+      "sha256": "62b706f3f304cde0c6dabee1664fc817da31d2f2e52ac9edd872ddcc660dc190"
+    },
+    {
+      "path": "ukri-logo.png",
+      "bytes": 77516,
+      "sha256": "98a2c182f09d1acb3d318907b3866f7e2272e37b8e0b58c984cb01d0431bd8ea"
+    },
+    {
       "path": "workshop-activity-1-notice.png",
-      "bytes": 537141,
-      "sha256": "df0e0be1b5493d93abd4cbbabc581978447cf27e71d13bc1ebd4231bda72f841"
+      "bytes": 508017,
+      "sha256": "f7e960a36c604838f64220eae29e870939a5f901a397f875945a6d3399a37207"
     },
     {
       "path": "workshop-activity-2-discuss.png",
-      "bytes": 520178,
-      "sha256": "493806c8157a6be208daeec81341d22d57920adfb7255751cb1c0ab39126c5db"
+      "bytes": 504098,
+      "sha256": "bc9c549c9d49b8de9b425b10ebe928575c875154fb2b9006246351c3b13620e2"
     }
   ]
 }
