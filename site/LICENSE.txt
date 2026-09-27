@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2026 Samantha Martin and Manchester Metropolitan University
+Copyright (c) 2026 Dr Sam Martin and Manchester Metropolitan University (MMU)
+
+An academic research project of Synthetic Realities, led by Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). ORCID: https://orcid.org/0000-0002-4466-8374.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

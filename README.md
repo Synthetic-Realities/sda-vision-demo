@@ -8,17 +8,14 @@ The opening illustration supports all four workshop activities and has saved
 Claude, OpenAI and Gemini findings. The menu offers ten further examples.
 [Workshop and Facilitator guide](docs/Workshop_Activities_2026-09-25.md).
 
-An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**
-(she/her), Smart Data Research UK (UKRI) Fellow, Manchester Metropolitan University.
-[ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
+An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
 This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
 
 This repository contains the prepared website, ten approved examples and their
-saved findings. All ten now have recorded Claude, OpenAI and Gemini
+saved findings. All ten have recorded Claude, OpenAI and Gemini
 assessments. The PDF and presentation each use four sampled images; the podcast
-assessment covers a transcript excerpt. Visitors can explore Developer, Community Workshop
-and trainer views, use prepared batches and download reports. Newly collected Second Opinion
+assessment covers a transcript excerpt. Visitors can explore Developer and Community Workshop views, use prepared batches and download reports. Newly collected Second Opinion
 replies remain in browser memory and can be exported separately from recorded findings.
 The website uses prepared media and saved assessments; visitor uploads and live
 analysis are outside this demo profile.
@@ -26,6 +23,14 @@ analysis are outside this demo profile.
 The complete research application source is being prepared separately for an
 open-source software release and a versioned Zenodo archive. The software release
 and DOI will accompany that separate archive.
+
+## Illustrated facilitator guide
+
+[![Facilitator guide, version 1.0: first page](docs/images/SDA_Vision_Facilitator_Guide_v1.0-cover.png)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf)
+
+[Download the six-page facilitator guide (PDF, version 1.0)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf). Screenshots of Notice, Discuss, Check and Reflect accompany colourful group questions and practical session guidance. The app offers Community Workshop and Developer views; facilitator guidance is available as a PDF download.
+
+[Guide metadata for the Zenodo release pack](docs/Zenodo_Release_Pack.md).
 
 ## Credits and terms
 
@@ -42,10 +47,7 @@ The prepared site comes from the tested September 2026 candidate: 312 offline
 Python checks, fresh installation, frontend builds and export checks passed.
 Original media and earlier recorded results are preserved. The model refresh
 completed 52 preparation API requests across the original eleven examples. The
-current ten-example selection retains 30 completed model rows. This layout
-update passed 39 focused checks, TypeScript and both frontend builds, plus
-desktop and phone-width browser checks. The demo notices sit beneath the
-branding and in the footer. Physical-device, projector, browser file-saving and
+current ten-example selection retains 30 completed model rows. The facilitator-guide release has 27 passing focused checks, TypeScript and both frontend builds, with desktop and 390-pixel browser checks. The demo notice sits beneath the branding; the footer groups credits, repository and privacy links. Physical-device, projector, browser file-saving and
 native presentation-software rehearsals remain to be completed.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is

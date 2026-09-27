@@ -1,5 +1,11 @@
 # Community Workshop and Facilitator guide
 
+An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
+
+[![First page of the illustrated facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.0-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf)
+
+[Download the facilitator guide (PDF, version 1.0)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
+
 ## Start here
 
 The public demo opens in Community Workshop with an AI-generated workshop
@@ -11,8 +17,7 @@ report and downloads and sits outside the ten-item example menu and set graph.
 
 The **Start here** menu offers ten additional images, documents and podcast
 examples. Each has saved findings. Selecting one starts a fresh set of workshop
-responses. Switching between Community Workshop and Facilitator preserves the
-current item, responses and findings. The Facilitator view adds group prompts.
+responses. Community Workshop provides the four-step activity; Developer provides the research controls. The illustrated facilitator guide supplies group prompts and session guidance.
 
 ## Four activities
 
@@ -64,7 +69,7 @@ session offers a download and an explicit acknowledgement before clearing them.
 2. Select a discussion cue, add a note and choose **Let's check together**.
 3. Choose **Open recorded findings**. Check the three model readings and date.
 4. Choose **Reflect together** and enter a later view and reflection.
-5. Repeat in Facilitator, then select the podcast and check that responses reset.
+5. Open the Facilitator guide PDF, then select the podcast and check that responses reset.
 6. Open Provider evidence and ratings to inspect the recorded credential status.
 7. Save a workshop summary and open it in the device's intended application.
 

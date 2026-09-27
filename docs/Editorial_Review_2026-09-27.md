@@ -84,7 +84,7 @@ and [publicly available personal data](https://ico.org.uk/for-organisations/uk-g
 This review changes explanatory language; institutional decisions remain in
 the approved processing record.
 
-## Workshop presentation — current behaviour
+## Workshop presentation - 27 September browser checkpoint
 
 Display/workshop revision: `workshop-flow-2026-09-27.1`.
 
@@ -105,4 +105,16 @@ acceptance is recorded separately from automated and browser checks.
 
 The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.
 
-Verification for this display revision: 27 focused Python checks, research/public workshop render checks, community export helpers, TypeScript and both builds passed. Browser review covered the opening four-step journey, both workshop views, preserved responses, C2PA detail, podcast sound scope and phone/desktop widths. Physical-device and native-download acceptance remains with the researcher. The Facilitator tab remains available while the illustrated guide is reviewed.
+Verification for this display revision: 27 focused Python checks, research/public workshop render checks, community export helpers, TypeScript and both builds passed. Browser review covered the opening four-step journey, both workshop views, preserved responses, C2PA detail, podcast sound scope and phone/desktop widths. Physical-device and native-download acceptance remains with the researcher. This checkpoint preceded publication of the illustrated facilitator guide.
+
+## Current presentation and attribution
+
+Display revision: `facilitator-guide-2026-09-27.1`.
+
+The app offers Community Workshop and Developer views. The Facilitator guide (PDF) link opens the approved six-page version 1.0, with screenshots, group questions and practical session guidance. The workshop guide and README display the cover and link to the PDF. The project attribution includes Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU) and ORCID 0000-0002-4466-8374.
+
+The MIT permission and warranty terms retain their exact wording. The project copyright notice and attribution reflect the confirmed name, university and grant. Third-party notices, original media, historical reports and saved model replies retain their existing content.
+
+The guide and its metadata are included in the Zenodo preparation pack. A Zenodo guide DOI has not been recorded.
+
+Validation: 27 focused Python checks passed, alongside the workshop navigation/render checks in research and public profiles, community export helpers, TypeScript and both frontend builds. Browser checks covered the opening example through Notice, Discuss, saved Check findings and Reflect, with preserved first impressions and a 390-pixel layout. The PDF has six visually reviewed pages, matching copies and valid links. Saved analysis and media bytes are preserved. Physical-device and projector rehearsal remain separate acceptance checks.

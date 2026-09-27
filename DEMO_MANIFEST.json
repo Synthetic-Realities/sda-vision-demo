@@ -1,5 +1,5 @@
 {
-  "revision": "workshop-flow-2026-09-27.1",
+  "revision": "facilitator-guide-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -10,13 +10,13 @@
   "files": [
     {
       "path": "site/LICENSE.txt",
-      "bytes": 1111,
-      "sha256": "927a98a6487a5a5b50ff76f6dd4c8ca625ca13f59dc68161e3a3974a80ee8241"
+      "bytes": 1342,
+      "sha256": "7c52c27f79367566500db1953bff7359747230dc5c09d121cf5ea7df12a8bfe6"
     },
     {
       "path": "site/about.html",
-      "bytes": 3803,
-      "sha256": "2ea4cb289ca15d0bde6583015aa623489f9607cc0713f6c91004afa1c0da6023"
+      "bytes": 4463,
+      "sha256": "c6402686e7baef200d827f0539fbd54616e9af164e68480ff4591c074dbc4605"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -44,29 +44,29 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index-28fVLlYh.js",
-      "bytes": 338627,
-      "sha256": "aa071d7ff8f4f748acb366d028c8b6ef7220162537be5aea1fa9be80496c738d"
+      "path": "site/assets/index-DTDaTpOZ.js",
+      "bytes": 338495,
+      "sha256": "801001414ca374ad3e5563a99cce083bda2eca7490068ae8c4ac260bfaf94529"
     },
     {
-      "path": "site/assets/index-Bld7PTxo.css",
-      "bytes": 60058,
-      "sha256": "0b9263310125173e0ff5699ca6c2220fdec019f61b5ed59c0f160bda0a19fd63"
+      "path": "site/assets/index-iv-9atwf.css",
+      "bytes": 60365,
+      "sha256": "e25fc07d080a3681b1fff7f8102c3a47d14cf92b99079a10cc7186e56e748ad3"
     },
     {
-      "path": "site/assets/index.es-njHQ6gJo.js",
+      "path": "site/assets/index.es-CM3QFx4W.js",
       "bytes": 158948,
-      "sha256": "9d85eabbfb0b0169d37220fcb589f87badfb8698efa95904261c00f019fd50b6"
+      "sha256": "11555919ceb55c45d5e3116dba2bcb2e2d9785326fa4ec248530cc179c8e6519"
     },
     {
-      "path": "site/assets/jspdf.es.min-C9-CJAGq.js",
+      "path": "site/assets/jspdf.es.min-J7PfDXIE.js",
       "bytes": 386224,
-      "sha256": "7f0a31e32d3af991170992e177887f5461e0f226457e40e887aac155bb3809f6"
+      "sha256": "ccc62de2e4b7f022e55691dfcec8da944669689b519cf51fbb2e8c2eb80d402c"
     },
     {
-      "path": "site/assets/pptxgen.es-24r9R-_u.js",
+      "path": "site/assets/pptxgen.es-BO1s4pp1.js",
       "bytes": 372448,
-      "sha256": "c15b170d82ee36f9b51a284885840cabdd7d4ea58a53a88a0300b35a2c3d3f6f"
+      "sha256": "0517c95f1db64f5b7a9b24a4ca5f40bd55ffb537beb03cc0cbbbd3bf4a7f91bf"
     },
     {
       "path": "site/assets/purify.es-BPuvlvQ_.js",
@@ -74,14 +74,24 @@
       "sha256": "d77e7392a1a1d242a3ce50561471013eb6d1355a7706dbb856810ab27d036d64"
     },
     {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
+      "bytes": 640966,
+      "sha256": "ffac42847a7bc7170d21f07ce9277d5222fd81c2337491e17e6908b5586273d4"
+    },
+    {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf",
+      "bytes": 5619463,
+      "sha256": "b7f19f38b1ca4cfd062559943d5462180e59c5edd41d9f385ffe36dfbe2d58f7"
+    },
+    {
       "path": "site/index.html",
       "bytes": 1081,
-      "sha256": "c1d775e89551f439315129259345a0c3abfa6e4f4ea317f7c251bc8cd2cd8987"
+      "sha256": "7dd3a64271e397072ed2716a7d0dbfdd22762b9a7cc810ec41e40341a59e7974"
     },
     {
       "path": "site/showcase/CREDITS.md",
-      "bytes": 2842,
-      "sha256": "d0841e5d40e72fa44b5688122c47f28ea3861b97607338da379d8e18e16f316d"
+      "bytes": 3572,
+      "sha256": "688e7dad860c8742095ed1c25fe2108064ff8b68fdb1bed38eb3e21bae4a93d1"
     },
     {
       "path": "site/showcase/README.md",
@@ -1487,5 +1497,11 @@
     "native_download_receipt": "not confirmed",
     "physical_devices": "awaiting researcher testing"
   },
-  "opening_illustrations": 1
+  "opening_illustrations": 1,
+  "facilitator_guide": {
+    "version": "1.0",
+    "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf",
+    "approved": "2026-09-27",
+    "release_format": "PDF only"
+  }
 }
