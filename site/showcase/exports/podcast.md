@@ -33,6 +33,21 @@
 - Original-file credentials are recorded separately. Credential coverage of this audio track: unresolved.
 - Audio-level measurements cover the sampled windows. The remaining audio has not been inspected by this check.
 
+## Optional audio excerpt description
+
+- Google Gemini / gemini-3.8-flash; status: ok; content: speech.
+- Checked: 2026-09-27T19:20:45.393134+00:00; consent to Google recorded: True.
+- Track 0; excerpt 0s + 20.0s; prompt: soundtrack-content-v1.
+- Original SHA-256: 58663a6a9e4b634bdb703ead0aaa7cd6dce7fbf97e70c3c1cc61b3311b94c0b4; excerpt SHA-256: f9713796490ddc9624cfc92412738eaca7192d9cbde08dd259237e29e2aa2128.
+- A female voice speaks in an interview or conversational tone.
+- A male voice responds briefly in agreement.
+- The conversation sounds like a podcast or radio broadcast discussion.
+- Audio is clean with minimal to no background noise.
+- Transcript excerpt: Imagine holding, uh, like a simple piece of cloth in your hand. Let's say it's 2019, and it's just a standard surgical mask. Right, just a boring everyday medical supply, something you'd really only see at the dentist's office. Exactly.
+- This assessment describes the selected audio excerpt. Origin and credentials are considered separately.
+- Analysed excerpt: mono, 16 kHz PCM. Credential checks use the original file.
+- Audio findings are shown alongside the visual assessment and remain separate from its score.
+
 ## Assessment coverage
 
 - Visual verdicts for videos cover the sampled still frames. Standalone-audio content assessments cover the transcript. Soundtrack-origin detection and continuous-motion analysis are outside these assessments.

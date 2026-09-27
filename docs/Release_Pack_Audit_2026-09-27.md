@@ -1,43 +1,35 @@
-# Workshop, Developer and facilitator release-pack review
+# Interface and release-pack record — 27 September 2026
 
-Display revision: `partners-2026-09-27.1` · 27 September 2026.
+Display revision: `workshop-review-2026-09-27.2`. Facilitator field guide: version 1.4. Scientific aggregation, provider prompts and signer-trust policy retain their existing versions.
 
-## Current experience
+## Workshop and findings
 
-SDA stands for **Synthetic-media Discourse Analysis**. The full name appears at the website and pack introduction points.
+The opening Community table scene is labelled as a practice example. Its dropdown, image caption and alternative text use neutral wording; the project's creation note appears at Check. Navigation runs Community Workshop, Facilitator guide, Developer. Notice notes carry into Discuss and Reflect. Reflection feedback follows the controls so it does not move the next answer during selection.
 
-Community Workshop, Developer and Facilitator guide share one centred navigation menu. The guide tab introduces its audience and use, previews Activities 1 and 2, and offers the six-page PDF. Switching tabs retains the selected workshop item and responses. The dedicated facilitator URL opens the same framework.
+Community findings retain the combined verdict and individual model readings, with expandable evidence and a collapsed **About this file** summary below the table. Developer places **What the file records** immediately above session downloads. The podcast headline describes the assessed transcript excerpt (12,000 of 25,985 characters, about 46%); its sound description remains separate. Combined method-confidence wording is omitted from the interface and new readable session summaries. Original recorded reports retain their research fields.
 
-The Developer introduction uses a compact label, a stronger lead sentence and quieter supporting copy. Its public project link describes the forthcoming open-source software release; the project licence remains MIT. The full application source is private during preparation.
+The public header reads: **Public demo — saved results** · Prepared examples only. Second Opinion replies stay in this browser session. Download session notes before changing examples or closing the page. This notice spans the available width and wraps on narrow screens.
 
-A magenta loading status accompanies media selection and batch preparation in both analysis views. A failed media fetch shows a retry message. Audio offers **Listen to the recording**, video offers **Watch the video**, and Developer's **View larger** opens an enlarged preview with a Close control and Escape-key dismissal. Playable media retains user-operated controls.
+## Local presenter app and public website
 
-The batch checklist supports choosing several examples before adding them together. Up to ten examples can be queued, with up to five selected for one run. New additions are selected up to the available five-item limit. Already queued examples are marked; failed additions remain chosen for retry. Public batches open saved reports.
+The upload-enabled local app at `http://127.0.0.1:8100/` uses the **Research** delivery profile. It shows **Research app — live analysis**, file uploads, research controls and live-analysis actions. The public-demo notice and saved-example restriction are absent. Existing provider consent, account and retention settings apply. The built frontend was backed up before replacement; backend code and `.env` were not changed during deployment preparation.
 
-Podcast findings describe the recording's transcript. The prepared podcast's model scope is the first 12,000 characters of a 25,985-character transcript. AI-origin detection from the sound itself is outside this workflow. Media-specific scope, model counts and uncertainty accompany the findings.
+The public website opens saved results for ten menu examples and one practice illustration. The source repository stays private. The separately named **Conference** profile is a prepared-example deployment option; it is not the upload-enabled local app.
 
-Reflect offers Google Lens for plain image examples. Audio, video, PDF, presentation and transcript examples offer comparison with other evidence, relevant expertise and pausing before sharing.
+## Media and documentation
 
-In the saved workshop, **Let's check together** opens the selected findings. **What the checks suggest** brings every recorded provider together with expandable **Find out why** evidence. Podcast and video records include a Sound tab. The relationship graph is available in Check and Reflect; the full file and analysis record is in Developer. PDF and slide previews use 3200-pixel-wide presentation renders, within the original artwork's detail limits. [Workshop display verification](Community_Workshop_Review_2026-09-27.md).
+Animated video uses the researcher's original bytes and has saved readings from four sampled still frames. The podcast includes a separate authorised 20-second Gemini sound description. [Recording scope and recovery notes](Recorded_Example_Scope_2026-09-27.md) distinguish these observations from continuous-motion or sound-origin detection.
 
-## Screenshots and facilitator PDF
+The six-page guide version 1.4 has previews of all four activities, current screenshots and funder logos. Complete Community and Developer screenshots accompany both repositories. [Guide and preview pages](Facilitator_Guide.md) and [Zenodo preparation](Zenodo_Release_Pack.md) describe the pack. The editable conference PowerPoint is local only. The guide deposit and software DOI/version remain pending.
 
-The current Community Workshop screenshot appears in both repository READMEs and the site's social-sharing image. The screenshots below document the integrated guide and Developer layout.
+## Verification
 
-![Facilitator guide inside the app](images/facilitator-tab.png)
+- 332 offline Python tests passed across the full run and the corrected package-asset recheck. The initial run had one failure because the v1.4 PDF had not yet been copied into the installed build; all six package tests passed after that copy.
+- Seven component regression suites passed: Notice, workshop flow, Community presentations, responsive results, workshop review, Community language/exports, and Animated video.
+- TypeScript and Public, Research and Conference frontend builds passed.
+- Browser checks at 390 and 1920 CSS pixels showed no document-wide horizontal overflow; all five podcast provider rows and all four sound-check rows were present and rendered.
+- The running local app displayed upload controls and live-analysis actions with no public-demo banner. Its presentation opened all 14 slides in the enlarged Developer preview and inline Community slideshow.
+- Public preview showed the full practice illustration, complete response controls, ten menu examples, guide v1.4 and all four guide activity previews.
+- Publication preparation used saved reports only and made zero model requests. Physical TV/Silk, projector and conference-hardware acceptance remains with the researcher.
 
-![Developer media and batch controls](images/developer-media-and-batch.png)
-
-[Facilitator guide PDF, version 1.3](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf) contains workshop screenshots and media-specific guidance. Its screenshots illustrate the compact inline-results display. Versions 1.0, 1.1 and 1.2 remain preserved earlier editions. The editable PowerPoint remains for the researcher's conference and webinar use and is excluded from the release packs.
-
-## Verification and scope
-
-TypeScript, public/research builds, community presentation checks and workshop regression checks cover the updated UI. Browser checks cover loading success and failure, retry, opening a chosen saved batch, guide navigation, enlarged media, keyboard dismissal, centred navigation and phone-width layouts. The six PDF pages have been rendered and visually reviewed.
-
-Saved reports, original media, provider prompts, scoring and consent requirements retain their prior implementation or bytes. No new provider inference is part of this revision. Original recorded-report downloads remain historical records; the workshop's current summaries use media-specific display wording.
-
-The GitHub demo publishes the static website. The source repository remains private. The versioned Zenodo preparation folder contains the guide, previews, attribution, licence, metadata and checksums; deposit and DOI assignment remain pending. Physical-device playback, file-saving, projector and conference rehearsals remain researcher acceptance checks.
-
-The supplied SDA Vision logo appears in tab headers, current session exports, the guide and repository introductions. The site links the supplied PNG favicon. The prepared presentation offers 14 high-resolution static slides, with touch and keyboard controls and an enlarged view. Each slide loads when selected. Browser checks cover first/last-slide controls, selection, keyboard navigation, dismissal and a 390-pixel phone layout. Original PPTX animations, if any, are outside this static viewer.
-
-The shared menu carries the partner logos in MMU → Smart Data Research UK → UKRI order. Community and Facilitator headings sit alongside the SDA Vision logo. Google Lens has a **Download original file** link alongside it in Reflect and the Evidence box. Reflect offers source-image search for plain images; other media retain their relevant reflection choices. Guide version 1.3 carries the same logos and current workshop screenshots.
+`DEMO_MANIFEST.json` in the public repository identifies the exact deployed file set. Zenodo preparation is separate from depositing or publishing a record.

@@ -4,22 +4,22 @@
 
 SDA stands for **Synthetic-media Discourse Analysis**.
 
-[![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://synthetic-realities.github.io/sda-vision-demo/)
+[![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://sdavision.io/)
 
-The demo opens in **Community Workshop**. [Explore the live demo](https://synthetic-realities.github.io/sda-vision-demo/).
+The demo opens in **Community Workshop**. [Explore the live demo](https://sdavision.io/).
 
 The opening illustration supports all four workshop activities and has saved
 Claude, OpenAI and Gemini findings. The menu offers ten further examples.
 [Workshop and Facilitator guide](docs/Workshop_Activities_2026-09-25.md).
 
-An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
+An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
 This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
 
-This repository contains the prepared website, ten approved examples and their
-saved findings. All ten have recorded Claude, OpenAI and Gemini
-assessments. The PDF and presentation each use four sampled images; the podcast
-assessment covers a transcript excerpt. Visitors can explore Developer and Community Workshop views, use prepared batches and download reports. Newly collected Second Opinion
+This repository contains the prepared website, ten menu examples, an opening practice illustration and their
+saved findings. All eleven have recorded Claude, OpenAI and Gemini
+assessments. The PDF and presentation each use four sampled images; the Animated video uses four sampled still frames. The podcast
+assessment covers the first 12,000 of 25,985 transcript characters (about 46%), with a separate saved Gemini description of its first 20 seconds of sound. Visitors can explore Developer and Community Workshop views, use prepared batches and download reports. Newly collected Second Opinion
 replies remain in browser memory and can be exported separately from recorded findings.
 The website uses prepared media and saved assessments; visitor uploads and live
 analysis are outside this demo profile.
@@ -38,17 +38,21 @@ The full application is being prepared for an MIT open-source installation relea
 
 For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
 
-Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
+Before the session, read through the pack and choose an example you have permission to share. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
 [Explore the guide and how to use it](https://sdavision.io/#facilitator) · [Repository guide](docs/Facilitator_Guide.md).
 
-| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
+| Notice | Discuss |
 | --- | --- |
-| [![Notice: first impressions and group questions](docs/images/workshop-activity-1-notice.png)](docs/images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](docs/images/workshop-activity-2-discuss.png)](docs/images/workshop-activity-2-discuss.png) |
+| [![Notice activity](docs/images/workshop-activity-1-notice-v1.4.png)](docs/images/workshop-activity-1-notice-v1.4.png) | [![Discuss activity](docs/images/workshop-activity-2-discuss-v1.4.png)](docs/images/workshop-activity-2-discuss-v1.4.png) |
 
-**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
+| Check | Reflect |
+| --- | --- |
+| [![Check activity](docs/images/workshop-activity-3-check-v1.4.png)](docs/images/workshop-activity-3-check-v1.4.png) | [![Reflect activity](docs/images/workshop-activity-4-reflect-v1.4.png)](docs/images/workshop-activity-4-reflect-v1.4.png) |
 
-[Download the full facilitator pack (PDF, version 1.3)](docs/guides/SDA_Vision_Facilitator_Guide_v1.3.pdf).
+Start with the **Community table scene (practice example)**. Invite first impressions before opening its creation note at Check. Choose other media that you have permission to share. The guide explains all four activities, expandable model evidence and the separate scope of transcript and sound findings.
+
+[Download the full facilitator pack (PDF, version 1.4)](docs/guides/SDA_Vision_Facilitator_Guide_v1.4.pdf).
 
 ## Credits and terms
 
@@ -57,16 +61,13 @@ third-party dependencies retain their separate terms:
 
 - [Example credits and media terms](site/showcase/CREDITS.md)
 - [Dependency and font notices](site/third_party/README.md)
-- [Website scope and privacy](https://Synthetic-Realities.github.io/sda-vision-demo/about.html)
+- [Website scope and privacy](https://sdavision.io/about.html)
 
 ## Verification and updates
 
-The prepared site comes from the tested September 2026 candidate: 312 offline
-Python checks, fresh installation, frontend builds and export checks passed.
-Original media and earlier recorded results are preserved. The model refresh
-completed 52 preparation API requests across the original eleven examples. The
-current ten-example selection retains 30 completed model rows. The facilitator-guide release has 27 passing focused checks, TypeScript and both frontend builds, with desktop and 390-pixel browser checks. The demo notice sits beneath the branding; the footer groups credits, repository and privacy links. Physical-device, projector, browser file-saving and
-native presentation-software rehearsals remain to be completed.
+The September 2026 interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the six-page facilitator guide version 1.4. Current checks and recording scope are documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
+
+The Animated video's four still frames have twelve saved model replies. The podcast includes one authorised Gemini description of its first 20 seconds of sound. These saved observations retain their own dates and scope. The publication build makes no model requests. Physical TV/Silk and conference-hardware testing remain with the researcher.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is
 manual through the Pages workflow; it publishes only `site/`. The published files

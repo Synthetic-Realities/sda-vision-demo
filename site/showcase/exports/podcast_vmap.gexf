@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2026-09-26">
+  <meta lastmodifieddate="2026-09-27">
     <creator>NetworkX 3.6.1</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
@@ -36,8 +36,8 @@
           <attvalue for="5" value="" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
-          <attvalue for="9" value="0.7" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.8" />
         </attvalues>
       </node>
       <node id="sig_claude" label="Claude Analysis">
@@ -51,7 +51,7 @@
           <attvalue for="10" value="analysis" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="0" />
+          <attvalue for="8" value="1" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -66,7 +66,7 @@
           <attvalue for="10" value="analysis" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="0" />
+          <attvalue for="8" value="1" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -81,7 +81,7 @@
           <attvalue for="10" value="analysis" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="0" />
+          <attvalue for="8" value="1" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -96,7 +96,7 @@
           <attvalue for="10" value="provenance" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
+          <attvalue for="8" value="0" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -115,7 +115,26 @@
           <attvalue for="4" value="observation" />
           <attvalue for="6" value="" />
           <attvalue for="7" value="0" />
-          <attvalue for="8" value="1" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="obs_audio_assessment" label="Gemini audio content">
+        <attvalues>
+          <attvalue for="10" value="audio_content" />
+          <attvalue for="5" value="gemini_audio" />
+          <attvalue for="11" value="ok" />
+          <attvalue for="12" value="speech" />
+          <attvalue for="13" value="gemini-3.8-flash; track 0, 0s + 20.0s; excerpt content description. AI-origin detection from sound is outside this workflow." />
+          <attvalue for="14" value="58663a6a9e4b634bdb703ead0aaa7cd6dce7fbf97e70c3c1cc61b3311b94c0b4" />
+          <attvalue for="0" value="not_applicable" />
+          <attvalue for="1" value="-1" />
+          <attvalue for="2" value="" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="observation" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
           <attvalue for="9" value="0.0" />
         </attvalues>
       </node>
@@ -151,19 +170,25 @@
           <attvalue for="16" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_openai" id="5" weight="0.88">
+      <edge source="item" target="obs_audio_assessment" id="5" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="observation" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="sig_claude" target="sig_openai" id="6" weight="0.88">
         <attvalues>
           <attvalue for="15" value="agree" />
           <attvalue for="16" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_claude" target="sig_gemini" id="6" weight="0.83">
+      <edge source="sig_claude" target="sig_gemini" id="7" weight="0.83">
         <attvalues>
           <attvalue for="15" value="agree" />
           <attvalue for="16" value="-1" />
         </attvalues>
       </edge>
-      <edge source="sig_openai" target="sig_gemini" id="7" weight="0.95">
+      <edge source="sig_openai" target="sig_gemini" id="8" weight="0.95">
         <attvalues>
           <attvalue for="15" value="agree" />
           <attvalue for="16" value="-1" />

@@ -6,6 +6,7 @@ Required attribution for the selected originals is recorded below. The researche
 
 | File | Credit |
 | --- | --- |
+| `animated-video.mov` | Animated video, supplied by Dr Sam Martin, 2026. The researcher confirms ownership and permission for inclusion and original-file downloads. |
 | `presentation.pptx` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `illustration-2.png` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `illustration-1.png` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |

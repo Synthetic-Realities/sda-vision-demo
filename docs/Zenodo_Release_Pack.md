@@ -1,46 +1,5 @@
-# Facilitator guide: Zenodo release pack
+# Zenodo preparation packs
 
-SDA stands for **Synthetic-media Discourse Analysis**.
+The six-page Facilitator field guide is version 1.4. [Read the guide and view all four activity previews](Facilitator_Guide.md). [Deposit metadata and preparation record](../release/zenodo/README.md) accompanies its PDF, cover, previews, attribution and checksums.
 
-An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
-
-[![First page of the facilitator guide](images/SDA_Vision_Facilitator_Guide_v1.1-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf)
-
-[Download the illustrated facilitator guide (PDF, version 1.1)](guides/SDA_Vision_Facilitator_Guide_v1.1.pdf).
-
-The six-page guide brings together Notice, Discuss, Check and Reflect screenshots, colourful group questions and practical facilitation guidance. The app provides **Community Workshop**, **Developer** and **Facilitator guide** in one centred menu. The guide tab contains an introduction, activity previews and the full-pack download. Switching tabs retains the current workshop item and responses.
-
-Version 1.0 was approved for the GitHub and Zenodo release packs on 27 September 2026. Version 1.1 carries current screenshots and media-specific guidance under the researcher’s requested pack update. The guide is published through GitHub Pages. The Zenodo preparation bundle contains the exact PDF, this cover, attribution, MIT licence and file checksums. The guide's version is separate from the forthcoming software release.
-
-## Who it is for and how to use it
-
-For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
-
-Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
-
-[Explore the guide page](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html).
-
-| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
-| --- | --- |
-| [![Notice: first impressions and group questions](images/workshop-activity-1-notice.png)](images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](images/workshop-activity-2-discuss.png)](images/workshop-activity-2-discuss.png) |
-
-**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
-
-## Metadata for the guide
-
-| Field | Value |
-| --- | --- |
-| Title | SDA Vision: Facilitator field guide |
-| Version | 1.1 |
-| Date | 2026-09-27 |
-| Creator | Dr Sam Martin |
-| Affiliation | Manchester Metropolitan University (MMU) |
-| Role | Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.) |
-| ORCID | https://orcid.org/0000-0002-4466-8374 |
-| Funding | This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010. |
-| Licence | MIT; [project licence and attribution](../LICENSE) |
-| Description | Illustrated facilitator guidance for the SDA Vision Community Workshop, with four activities, group questions and practical session guidance. The public demo uses prepared examples and saved assessments. |
-| Related website | https://synthetic-realities.github.io/sda-vision-demo/ |
-| DOI | Assigned by Zenodo at deposit; no guide DOI is recorded yet. |
-
-The separately versioned software and existing podcast record retain their own metadata and identifiers. This package prepares the guide for deposit; it does not represent a completed Zenodo publication.
+The editable conference PowerPoint remains local and is excluded from release packs. The source-software archive is a separate private candidate pending its version, DOI and publication decision. Preparing these packs does not publish a Zenodo deposit.

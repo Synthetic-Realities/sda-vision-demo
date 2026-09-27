@@ -1,25 +1,43 @@
-# SDA Vision: Facilitator guide
+# SDA Vision: Facilitator field guide — version 1.4
 
-SDA stands for **Synthetic-media Discourse Analysis**.
+SDA means **Synthetic-media Discourse Analysis**.
 
-An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
+An academic research project of **Synthetic Realities**, led by **Dr Sam Martin**, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010), Manchester Metropolitan University (MMU). [ORCID: 0000-0002-4466-8374](https://orcid.org/0000-0002-4466-8374).
 
-For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+[![Guide cover](images/SDA_Vision_Facilitator_Guide_v1.4-cover.png)](guides/SDA_Vision_Facilitator_Guide_v1.4.pdf)
 
-Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
+[Download the six-page facilitator guide (PDF)](guides/SDA_Vision_Facilitator_Guide_v1.4.pdf).
 
-[Explore the illustrated guide page](https://sdavision.io/#facilitator).
+For community facilitators, trainers, educators and researchers leading workshops, conference sessions and online discussions. Use the guide alongside SDA Vision’s **Community Workshop**, adapting the questions to your group. The four activities invite first impressions, comparison of ideas, exploration of recorded findings and practical next steps.
 
-| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
-| --- | --- |
-| [![Notice: first impressions and group questions](images/workshop-activity-1-notice.png)](images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](images/workshop-activity-2-discuss.png)](images/workshop-activity-2-discuss.png) |
+Start with the clearly labelled practice illustration or choose an example for which you have permission. Participants can record a first impression before seeing the project’s creation note at Check. The model table offers expandable evidence, while **About this file** summarises any embedded creation labels. Podcasts separate the assessed transcript excerpt from observations about sound.
 
-**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
+The guide includes the four activity pages below. Read the preparation notes before a session; at the end, invite reflection and download session notes before using **New session**. Responses and pasted Second Opinion notes remain separate from the recorded model findings.
 
-[Download the full facilitator pack (PDF, version 1.3, six pages)](guides/SDA_Vision_Facilitator_Guide_v1.3.pdf).
+## Workshop Activity 1 — Notice
 
-Use it alongside [Community Workshop](https://synthetic-realities.github.io/sda-vision-demo/). The public demo uses prepared examples and recorded findings.
+[![Notice activity and facilitator questions](images/workshop-activity-1-notice-v1.4.png)](images/workshop-activity-1-notice-v1.4.png)
 
-The prepared **presentation.pptx** offers 14 slides inside Community Workshop. Use **Previous**, **Next**, the slide selector or the enlarged viewer. The saved findings describe four sampled slides; browsing the presentation does not add analysis.
+## Workshop Activity 2 — Discuss
 
-The shared menu carries the partner logos in MMU → Smart Data Research UK → UKRI order. Community and Facilitator headings sit alongside the SDA Vision logo. Google Lens has a **Download original file** link alongside it in Reflect and the Evidence box. Reflect offers source-image search for plain images; other media retain their relevant reflection choices. Guide version 1.3 carries the same logos and current workshop screenshots.
+[![Discuss activity and facilitator questions](images/workshop-activity-2-discuss-v1.4.png)](images/workshop-activity-2-discuss-v1.4.png)
+
+## Workshop Activity 3 — Check
+
+[![Check activity and facilitator questions](images/workshop-activity-3-check-v1.4.png)](images/workshop-activity-3-check-v1.4.png)
+
+## Workshop Activity 4 — Reflect
+
+[![Reflect activity and facilitator questions](images/workshop-activity-4-reflect-v1.4.png)](images/workshop-activity-4-reflect-v1.4.png)
+
+## Version and publication
+
+Version 1.4, prepared 27 September 2026, accompanies the current interface. The PDF is distributed with the GitHub demo and source repository. Its Zenodo deposit is pending; a guide DOI has not been assigned. The editable conference PowerPoint is separate and is excluded from this pack.
+
+The original media and analysis records have separate credits and scope. The withdrawn Illustration 2 is excluded from the current example catalogue; it does not appear in this guide. The practice illustration remains available.
+
+## Affiliation and funding
+
+<p><img src="branding/mmu-logo.png" alt="Manchester Metropolitan University" width="160" /> <img src="branding/sdruk-logo.png" alt="Smart Data Research UK" width="115" /> <img src="branding/ukri-logo.png" alt="UK Research and Innovation" width="190" /></p>
+
+Smart Data Research UK (UKRI) Fellowship, Grant number UKRI4010, hosted at Manchester Metropolitan University. Logo rights remain with their owners. See [licence](../LICENSE) and [artwork credits](branding/README.md).

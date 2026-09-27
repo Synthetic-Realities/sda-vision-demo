@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-09-27">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="15" title="kind" type="string" />
+      <attribute id="16" title="hamming" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="verdict" type="string" />
+      <attribute id="1" title="rating" type="long" />
+      <attribute id="2" title="confidence" type="string" />
+      <attribute id="3" title="provenance" type="string" />
+      <attribute id="4" title="source" type="string" />
+      <attribute id="5" title="provider" type="string" />
+      <attribute id="6" title="second_opinions" type="string" />
+      <attribute id="7" title="cluster" type="long" />
+      <attribute id="8" title="community" type="long" />
+      <attribute id="9" title="betweenness" type="double" />
+      <attribute id="10" title="signal_kind" type="string" />
+      <attribute id="11" title="status" type="string" />
+      <attribute id="12" title="finding" type="string" />
+      <attribute id="13" title="detail" type="string" />
+      <attribute id="14" title="input_sha256" type="string" />
+    </attributes>
+    <nodes>
+      <node id="item" label="animated-video.mov">
+        <attvalues>
+          <attvalue for="0" value="synthetic_likely" />
+          <attvalue for="1" value="84" />
+          <attvalue for="2" value="medium" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="item" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.8" />
+        </attvalues>
+      </node>
+      <node id="sig_claude" label="Claude Vision">
+        <attvalues>
+          <attvalue for="0" value="synthetic_likely" />
+          <attvalue for="1" value="90" />
+          <attvalue for="2" value="medium" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="signal" />
+          <attvalue for="5" value="claude" />
+          <attvalue for="10" value="vision" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sig_openai" label="OpenAI Vision">
+        <attvalues>
+          <attvalue for="0" value="synthetic_likely" />
+          <attvalue for="1" value="88" />
+          <attvalue for="2" value="medium" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="signal" />
+          <attvalue for="5" value="openai" />
+          <attvalue for="10" value="vision" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sig_gemini" label="Gemini Vision">
+        <attvalues>
+          <attvalue for="0" value="synthetic_likely" />
+          <attvalue for="1" value="68" />
+          <attvalue for="2" value="medium" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="signal" />
+          <attvalue for="5" value="gemini" />
+          <attvalue for="10" value="vision" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sig_c2pa" label="C2PA Content Credentials">
+        <attvalues>
+          <attvalue for="0" value="inconclusive" />
+          <attvalue for="1" value="-1" />
+          <attvalue for="2" value="" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="signal" />
+          <attvalue for="5" value="c2pa" />
+          <attvalue for="10" value="provenance" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="sig_local" label="Local forensic cues">
+        <attvalues>
+          <attvalue for="0" value="partially_synthetic" />
+          <attvalue for="1" value="47" />
+          <attvalue for="2" value="low" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="signal" />
+          <attvalue for="5" value="local" />
+          <attvalue for="10" value="forensic" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="obs_audio_inspection" label="Local soundtrack">
+        <attvalues>
+          <attvalue for="10" value="audio_local" />
+          <attvalue for="5" value="local_audio" />
+          <attvalue for="11" value="present" />
+          <attvalue for="12" value="1 track(s) found" />
+          <attvalue for="13" value="Track details and audio levels in the sampled windows. AI-origin detection from sound is outside this workflow." />
+          <attvalue for="14" value="af5b2c84950d66ce32b4d7f603314a7fc70a9353d397ca71aa78d35e2327ce23" />
+          <attvalue for="0" value="not_applicable" />
+          <attvalue for="1" value="-1" />
+          <attvalue for="2" value="" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="observation" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0.0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="item" target="sig_claude" id="0" weight="0.35">
+        <attvalues>
+          <attvalue for="15" value="signal" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="item" target="sig_openai" id="1" weight="0.35">
+        <attvalues>
+          <attvalue for="15" value="signal" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="item" target="sig_gemini" id="2" weight="0.35">
+        <attvalues>
+          <attvalue for="15" value="signal" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="item" target="sig_c2pa" id="3" weight="0.35">
+        <attvalues>
+          <attvalue for="15" value="signal" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="item" target="sig_local" id="4" weight="0.35">
+        <attvalues>
+          <attvalue for="15" value="signal" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="item" target="obs_audio_inspection" id="5" weight="0.25">
+        <attvalues>
+          <attvalue for="15" value="observation" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="sig_claude" target="sig_openai" id="6" weight="0.98">
+        <attvalues>
+          <attvalue for="15" value="agree" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="sig_claude" target="sig_gemini" id="7" weight="0.78">
+        <attvalues>
+          <attvalue for="15" value="agree" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+      <edge source="sig_openai" target="sig_gemini" id="8" weight="0.8">
+        <attvalues>
+          <attvalue for="15" value="agree" />
+          <attvalue for="16" value="-1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
