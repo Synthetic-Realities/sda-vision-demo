@@ -14,7 +14,7 @@ This repository contains the prepared website, ten approved examples and their
 saved findings. All ten now have recorded Claude, OpenAI and Gemini
 assessments. The PDF and presentation each use four sampled images; the podcast
 assessment covers a transcript excerpt. Visitors can explore Developer, Community Workshop
-and trainer views, use prepared batches and download reports. New Second Opinion
+and trainer views, use prepared batches and download reports. Newly collected Second Opinion
 replies remain in browser memory and can be exported separately from recorded findings.
 The website uses prepared media and saved assessments; visitor uploads and live
 analysis are outside this demo profile.
