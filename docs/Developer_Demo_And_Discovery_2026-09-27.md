@@ -21,3 +21,7 @@ References: [Google's title and description guidance](https://developers.google.
 TypeScript, public/research production builds and existing workshop checks cover this display revision. Desktop, phone-width and large-text checks cover the header, citation and resource links. Prepared reports and media retain their bytes; provider prompts, scoring and consent controls retain their implementation. No new analysis-provider requests are part of this update. Physical-device review remains researcher acceptance.
 
 The current Developer introduction uses a smaller editorial hierarchy. Audio/video prompts, the View larger control and the batch checklist are described in the [current interface review](Release_Pack_Audit_2026-09-27.md).
+
+After selecting an example in the public Developer view, **Open saved results** is available both beside the media and beneath the empty provider table. Both controls open the same saved report and share the loading state. Before selection, the results area points to the example choices in the media panel.
+
+**Open saved batch** returns desktop visitors to the page top and brings the batch-results heading into view on stacked phone/tablet layouts. Keyboard focus follows the results heading; scrolling respects reduced-motion preferences. This happens once per batch request, so arriving results do not interrupt reading.

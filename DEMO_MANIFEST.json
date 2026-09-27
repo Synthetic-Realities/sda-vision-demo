@@ -1,5 +1,5 @@
 {
-  "revision": "integrated-guide-2026-09-27.1",
+  "revision": "developer-results-action-2026-09-27.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://Synthetic-Realities.github.io/sda-vision-demo/",
   "publication_authorised": "Researcher selected separate public demo; full application source remains private.",
@@ -15,8 +15,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 6546,
-      "sha256": "3e981eae5d2b739e386f0114cadf7e28e418310e54dd13ecc6582fdb140a628c"
+      "bytes": 6554,
+      "sha256": "b1068527284d029ab10129330744c1681bcadc6a714e20ca041bf64693973eee"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -44,24 +44,24 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-BnvSnShd.js",
+      "path": "site/assets/index.es-CJmjusmV.js",
       "bytes": 158947,
-      "sha256": "bc84813eadd7e05d7d545fcb07ef4bbcd8cb04024ed2b47d90234a2965da54fd"
+      "sha256": "80d6fe4c0e87266a0e0edf2aa67a2edbe4bd8a8f6e31d314f47dd0b16c97792f"
     },
     {
-      "path": "site/assets/jspdf.es.min-CITWS0Ax.js",
+      "path": "site/assets/jspdf.es.min-CmVYNrUc.js",
       "bytes": 386221,
-      "sha256": "2a41621d326917aad82c5e8cf3f1874ec7b28b5837eeaced693577343c03cc70"
+      "sha256": "5f38d985b3afb25d6f4b3a7941f49c23f42d170a04a7a8d70d44ca1f48ef71c2"
     },
     {
-      "path": "site/assets/main-DIvXtuQD.js",
-      "bytes": 350991,
-      "sha256": "5f9c2655581c20862cf378bb7cf195972056fd2d443de19e92e336c0c695870b"
+      "path": "site/assets/main-BdaWSglC.js",
+      "bytes": 351934,
+      "sha256": "47eea49aab92081bbcf18ddf02514cc52aac0e273cd0146e844f34ab6796983c"
     },
     {
-      "path": "site/assets/main-DXFBctD2.css",
-      "bytes": 68498,
-      "sha256": "b250043a1ff3a4af66b0733dc10cc68c2b5e750e6fdc024a672c350cbcc46820"
+      "path": "site/assets/main-CQtbVVmG.css",
+      "bytes": 68573,
+      "sha256": "7e8fe34bfa4e893de39c5e0e3b521e2c6a17d68c5bea1df060a0a0f0fccf3b10"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -69,9 +69,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-BlKXL1It.js",
+      "path": "site/assets/pptxgen.es-BhEtnsxr.js",
       "bytes": 372447,
-      "sha256": "d134b634b7ceb6066f4b32da69c5491176ecde606c28d80cd92d1273a40615c2"
+      "sha256": "f660e2d394ff1f49a59c8bb04889657511b6de2b6425297e24166216b81d5e80"
     },
     {
       "path": "site/assets/purify.es-BPuvlvQ_.js",
@@ -81,7 +81,7 @@
     {
       "path": "site/facilitator.html",
       "bytes": 7532,
-      "sha256": "0868ed96d4c80dd969aa5b0110bd28dc337948d8fb3f6798832ee4a07d0c3803"
+      "sha256": "6b044eabcc0c9494c41afc37e964247b6a8ffcb974f719270c52c67c1304d896"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -121,7 +121,7 @@
     {
       "path": "site/index.html",
       "bytes": 3151,
-      "sha256": "5f89e2b614e6e6b1640a1191c84554e9a412b02e50b780b9e3d4db1434b2ce43"
+      "sha256": "0d3ca2347f69038c0aec5172dcc137760383d22ab1e5726ebc1b9bcf37b384ce"
     },
     {
       "path": "site/showcase/CREDITS.md",
