@@ -26,11 +26,19 @@ and DOI will accompany that separate archive.
 
 ## Illustrated facilitator guide
 
-[![Facilitator guide, version 1.0: first page](docs/images/SDA_Vision_Facilitator_Guide_v1.0-cover.png)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf)
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
 
-[Download the six-page facilitator guide (PDF, version 1.0)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf). Screenshots of Notice, Discuss, Check and Reflect accompany colourful group questions and practical session guidance. The app offers Community Workshop and Developer views; facilitator guidance is available as a PDF download.
+Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
-[Guide metadata for the Zenodo release pack](docs/Zenodo_Release_Pack.md).
+[Explore the guide and how to use it](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html) · [Repository guide](docs/Facilitator_Guide.md).
+
+| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
+| --- | --- |
+| [![Notice: first impressions and group questions](docs/images/workshop-activity-1-notice.png)](docs/images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](docs/images/workshop-activity-2-discuss.png)](docs/images/workshop-activity-2-discuss.png) |
+
+**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
+
+[Download the full facilitator pack (PDF, version 1.0)](docs/guides/SDA_Vision_Facilitator_Guide_v1.0.pdf).
 
 ## Credits and terms
 

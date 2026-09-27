@@ -6,9 +6,23 @@ An academic research project of **Synthetic Realities**, led by **Dr Sam Martin*
 
 [Download the illustrated facilitator guide (PDF, version 1.0)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf).
 
-The six-page guide brings together Notice, Discuss, Check and Reflect screenshots, colourful group questions and practical facilitation guidance. The app provides Community Workshop and Developer views. Its **Facilitator guide (PDF)** link opens this resource.
+The six-page guide brings together Notice, Discuss, Check and Reflect screenshots, colourful group questions and practical facilitation guidance. The app provides Community Workshop and Developer views. Its **Facilitator guide** link opens an introduction, activity previews and the full-pack download.
 
 The researcher approved version 1.0 and inclusion in the GitHub and Zenodo release packs on 27 September 2026. The guide is published through GitHub Pages. The Zenodo preparation bundle contains the exact PDF, this cover, attribution, MIT licence and file checksums. The guide's version is separate from the forthcoming software release.
+
+## Who it is for and how to use it
+
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+
+Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
+
+[Explore the guide page](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html).
+
+| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
+| --- | --- |
+| [![Notice: first impressions and group questions](images/workshop-activity-1-notice.png)](images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](images/workshop-activity-2-discuss.png)](images/workshop-activity-2-discuss.png) |
+
+**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
 
 ## Metadata for the guide
 

@@ -111,10 +111,22 @@ Verification for this display revision: 27 focused Python checks, research/publi
 
 Display revision: `facilitator-guide-2026-09-27.1`.
 
-The app offers Community Workshop and Developer views. The Facilitator guide (PDF) link opens the approved six-page version 1.0, with screenshots, group questions and practical session guidance. The workshop guide and README display the cover and link to the PDF. The project attribution includes Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU) and ORCID 0000-0002-4466-8374.
+The app offers Community Workshop and Developer views. The Facilitator guide link opens an introduction with activity previews and a download of the approved six-page version 1.0, with screenshots, group questions and practical session guidance. The workshop guide and README display the cover and link to the PDF. The project attribution includes Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU) and ORCID 0000-0002-4466-8374.
 
 The MIT permission and warranty terms retain their exact wording. The project copyright notice and attribution reflect the confirmed name, university and grant. Third-party notices, original media, historical reports and saved model replies retain their existing content.
 
 The guide and its metadata are included in the Zenodo preparation pack. A Zenodo guide DOI has not been recorded.
 
 Validation: 27 focused Python checks passed, alongside the workshop navigation/render checks in research and public profiles, community export helpers, TypeScript and both frontend builds. Browser checks covered the opening example through Notice, Discuss, saved Check findings and Reflect, with preserved first impressions and a 390-pixel layout. The PDF has six visually reviewed pages, matching copies and valid links. Saved analysis and media bytes are preserved. Physical-device and projector rehearsal remain separate acceptance checks.
+
+## Podcast preview presentation
+
+Display revision: `workshop-resources-2026-09-27.1`.
+
+The podcast uses Dr Sam Martin’s supplied diagram as preview artwork in Community Workshop and Developer views. Its citation remains visible. A separate headphones/player box occupies the clear area below the artwork, with native play, pause and seeking controls. The artwork remains visible when recorded findings open and is matched to the approved audio’s SHA-256. The audio download, saved report thumbnails, provider replies and scientific method retain their existing content.
+
+Verification: artwork matching and mismatched-file fallback, recorded-findings persistence, workshop flow, TypeScript and research/public builds passed. Browser review covered both views and 390-pixel and desktop layouts, with no horizontal overflow or upload controls in the public demo. Physical-device playback remains part of researcher acceptance.
+
+Reflect offers four practical next steps: find the original source, compare other evidence, ask someone with relevant expertise and pause before sharing. **Open Google Lens** sits beside the source-search choice and opens Google’s image-search page in a new tab. The researcher chooses any image to share on Google’s page; following the link is independent of recording a checkbox response. Date and context remain covered in the other relevant activities.
+
+The **Facilitator guide** link opens a dedicated introduction for community facilitators, trainers, educators and researchers. It explains preparation, group use and closing a session, shows exact page previews of Workshop Activities 1 (Notice) and 2 (Discuss), and offers the complete approved version 1.0 PDF. GitHub documentation and the Zenodo preparation bundle carry the same introduction and previews. The six-page PDF and local-only editable PPTX retain their approved content.

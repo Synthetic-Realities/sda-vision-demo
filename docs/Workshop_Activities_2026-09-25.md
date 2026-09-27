@@ -6,6 +6,20 @@ An academic research project of **Synthetic Realities**, led by **Dr Sam Martin*
 
 [Download the facilitator guide (PDF, version 1.0)](guides/SDA_Vision_Facilitator_Guide_v1.0.pdf). The guide brings together screenshots, questions for the group and practical facilitation guidance. Use it alongside the Community Workshop tab.
 
+## Using the facilitator guide
+
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+
+Before the session, read through the pack and choose an approved example. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
+
+[Open the guide introduction and previews](https://synthetic-realities.github.io/sda-vision-demo/facilitator.html).
+
+| Workshop Activity 1 — Notice | Workshop Activity 2 — Discuss |
+| --- | --- |
+| [![Notice: first impressions and group questions](images/workshop-activity-1-notice.png)](images/workshop-activity-1-notice.png) | [![Discuss: cues, explanations and group questions](images/workshop-activity-2-discuss.png)](images/workshop-activity-2-discuss.png) |
+
+**Notice** makes room for looking, listening and first impressions. **Discuss** invites people to explain the details behind their view. The full pack also includes Check, Reflect and session guidance.
+
 ## Start here
 
 The public demo opens in Community Workshop with an AI-generated workshop
@@ -69,7 +83,7 @@ session offers a download and an explicit acknowledgement before clearing them.
 2. Select a discussion cue, add a note and choose **Let's check together**.
 3. Choose **Open recorded findings**. Check the three model readings and date.
 4. Choose **Reflect together** and enter a later view and reflection.
-5. Open the Facilitator guide PDF, then select the podcast and check that responses reset.
+5. Open the Facilitator guide introduction, inspect the two activity previews and download the full PDF. Return to the demo, select the podcast and check that responses reset.
 6. Open Provider evidence and ratings to inspect the recorded credential status.
 7. Save a workshop summary and open it in the device's intended application.
 
@@ -78,3 +92,5 @@ no analysis backend or new provider calls. Live Conference rehearsal, native
 file-saving and physical-device checks have their own acceptance records.
 
 The findings overview and Evidence box each span the workshop page width. Provider evidence and ratings brings together model readings, supporting and additional findings, and the expandable file-history record. The footer groups credits, repository and privacy links.
+
+Reflect’s **Find the original source** choice includes an **Open Google Lens** link, which opens a new tab. Use Google’s camera icon to select an image to share. The other next steps encourage comparing evidence, seeking relevant expertise and pausing before sharing.

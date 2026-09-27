@@ -6,9 +6,9 @@ Required attribution for the selected originals is recorded below. The researche
 
 | File | Credit |
 | --- | --- |
-| Opening workshop illustration (`illustration-1.png`) | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `presentation.pptx` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `illustration-2.png` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
+| `illustration-1.png` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `earth-image.jpg` | Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center. Source reference: [The Blue Marble From Apollo 17](https://svs.gsfc.nasa.gov/30613/). Photograph: 7 December 1972; source-page release: 20 July 2015. |
 | `infographic.pdf` | Dr Sam Martin, Smart Data Research UK (UKRI) Fellow (Grant number UKRI4010.), Manchester Metropolitan University (MMU), 2026 |
 | `illustration-3.webp` | CagleCartoons.com / The Columbus Dispatch; original artist signature retained. Use authorised by the researcher. |
@@ -23,3 +23,5 @@ Copies retain their original bytes and metadata. The private facilitator source 
 The three newly supplied article/poster-style images are educational material for examining media claims. Their headlines and diagrams are discussion material, not clinical guidance or evidence that a study exists. The original image content is preserved.
 
 Third-party permissions are recorded as researcher-confirmed. CagleCartoons/The Columbus Dispatch retains copyright in illustration-3.webp; the visible artist signature and credit are intact. Inclusion and a download button do not grant a new licence for onward republication. Project-created examples retain Dr Sam Martin’s credit; ask the maintainer before onward reuse where no separate licence is stated. The NASA source and Adobe sample have the separate terms identified above. The podcast is not represented here as an already-published Zenodo record.
+
+The podcast preview uses the researcher-supplied diagram, with its visible Martin and Vanderslott (2022), *Vaccine* 40(51), pp. 7488–7499 citation retained. It accompanies the audio as presentation artwork; the original audio and recorded findings retain their existing bytes.
