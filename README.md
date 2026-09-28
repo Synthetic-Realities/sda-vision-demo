@@ -2,6 +2,10 @@
 
 # Interactive demo
 
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008102.svg)](https://doi.org/10.5281/zenodo.23008102) · [![Facilitator guide DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008188.svg)](https://doi.org/10.5281/zenodo.23008188)
+
+Software and guide badges link to their latest published Zenodo versions.
+
 SDA stands for **Synthetic-media Discourse Analysis**. SDA Vision supports research and group discussion about **AI-generated and traditional media**.
 
 [![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://sdavision.io/)
@@ -24,15 +28,13 @@ replies remain in browser memory and can be exported separately from recorded fi
 The website uses prepared media and saved assessments; visitor uploads and live
 analysis are outside this demo profile.
 
-The complete research application source is being prepared separately for an
-open-source software release and a versioned Zenodo archive. The software release
-and DOI will accompany that separate archive.
+The [complete open-source application and installation guide](https://github.com/Synthetic-Realities/sda-vision-source#start-here) are available in a separate software repository under MIT. [Software 0.1.0](https://zenodo.org/records/23008103) and [facilitator guide 1.4](https://zenodo.org/records/23008189) are published on Zenodo.
 
 ## Developer view and project resources
 
 The Developer view compares the recorded model assessments, credential findings and supporting observations. Its header links to the public GitHub project and illustrated facilitator guide, with an expandable citation for the demo. Green status dots indicate available recorded results; each report supplies the check details. The Batch queue is collapsed until selected, with file and selection counts visible. Each analysis includes a Harvard-style software citation for Dr Sam Martin, MMU and the Smart Data Research UK funding acknowledgement, grant UKRI4010. [Batch and citation details](docs/Batch_And_Citation_2026-09-28.md).
 
-The full application is being prepared for an MIT open-source installation release. [Developer view and website discovery](docs/Developer_Demo_And_Discovery_2026-09-27.md) records the current publication status and search metadata.
+[Install the full application](https://github.com/Synthetic-Realities/sda-vision-source#start-here) to work locally with your own media and configured provider accounts. [Developer view and website discovery](docs/Developer_Demo_And_Discovery_2026-09-27.md) records the current publication status and search metadata.
 
 ## Illustrated facilitator guide
 
@@ -88,4 +90,4 @@ and their method version.
 
 Smart Data Research UK (UKRI) Fellowship, Grant number UKRI4010, hosted at Manchester Metropolitan University. Partner logos identify the affiliation and funding; their rights remain with their owners.
 
-Developer’s **Preview slides** opens the prepared presentation in a larger viewer. For the forthcoming installed software, see [PowerPoint preview setup](docs/PowerPoint_Preview_Setup.md), including the optional LibreOffice dependency.
+Developer’s **Preview slides** opens the prepared presentation in a larger viewer. For the installed software, see [PowerPoint preview setup](docs/PowerPoint_Preview_Setup.md), including the optional LibreOffice dependency.

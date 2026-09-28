@@ -6,7 +6,7 @@ Display revision: `developer-header-2026-09-27.1` · 27 September 2026.
 
 The Developer header places display controls and the five recorded-check badges alongside the SDA Vision wordmark. Green dots identify available saved records; each report shows the actual coverage and status of its checks. The description and session note each use the full page width, with wrapping for smaller screens and larger text.
 
-The project link opens the public demo repository. The full application source remains private while its MIT installation release is prepared. The facilitator guide introduces the teaching resource, previews the first two activities and offers the complete PDF. Citation opens a collapsed reference for the public research demo, with the researcher's ORCID and Fellowship acknowledgement. A versioned software citation and DOI accompany the eventual software release.
+The project link opens the [public software repository and installation guide](https://github.com/Synthetic-Realities/sda-vision-source#start-here). The MIT software release is published; the original development history remains private. The facilitator guide introduces the teaching resource, previews the first two activities and offers the complete PDF. Citation opens a collapsed reference for the public research demo, with the researcher's ORCID and Fellowship acknowledgement. Software version 0.1.0 has [DOI 10.5281/zenodo.23008103](https://doi.org/10.5281/zenodo.23008103).
 
 ## Search and sharing
 

@@ -1,8 +1,8 @@
 {
-  "revision": "citation-label-2026-09-28.1",
+  "revision": "publication-2026-09-28.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://sdavision.io/",
-  "publication_authorised": "Researcher approved reviewed interface and media update; full source remains private.",
+  "publication_authorised": "Researcher approved both Zenodo publications, clean public software repository and website publication links; original development history remains private.",
   "examples": 10,
   "opening_illustrations": 1,
   "total_saved_records": 11,
@@ -23,7 +23,8 @@
     "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.4.pdf",
     "release_format": "PDF only",
     "introduction": "https://sdavision.io/#facilitator",
-    "Zenodo_deposit": "pending"
+    "Zenodo_deposit": "https://zenodo.org/records/23008189",
+    "concept_doi": "10.5281/zenodo.23008188"
   },
   "withdrawal": {
     "filename": "illustration-3.webp",
@@ -126,6 +127,22 @@
       "representative_pdf_visual_check": "passed",
       "original_reports_and_media": "unchanged",
       "provider_calls": 0
+    },
+    "public_source_links": {
+      "typescript": "passed",
+      "frontend_builds": [
+        "public",
+        "research"
+      ],
+      "source_baseline": "approved ZIP SHA-256 d9ea464e5cd386830307dd99928abfbe55b83321185c60394094ce7ebba27cc0",
+      "source_archive_unchanged": true,
+      "new_provider_calls": 0
+    },
+    "publication_revision": {
+      "typescript": "passed",
+      "public_build": "passed",
+      "research_build": "passed",
+      "provider_calls": 0
     }
   },
   "files": [
@@ -141,8 +158,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 8736,
-      "sha256": "26800ef439e027d182653fc342ef2fc379fa9f8692e76c0d9d7eb2e424dd6885"
+      "bytes": 9400,
+      "sha256": "e3ad024447de8fc97a041d11847df20f2a18f734fe589d847ef298cfe59e48ba"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -170,9 +187,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-DQojjMtk.js",
+      "path": "site/assets/index.es-DmDp3V2b.js",
       "bytes": 158947,
-      "sha256": "249a46ef81032aeb4cc575c2540ec42db02a2c36fbeaf7f9602967ead50457a0"
+      "sha256": "ddc100bcf337352308b2e817cfb4bd5f942af26dd3dff06402e3107b4841892b"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -180,14 +197,14 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-Cl9p0jTP.js",
-      "bytes": 386188,
-      "sha256": "a3d0a3995818a11c3c5273a233bb0d713c9066252e50ca19d7c09daa9e8d4c32"
+      "path": "site/assets/jspdf.es.min-CjTKDd-_.js",
+      "bytes": 386221,
+      "sha256": "64297a62bba6416d76297a500178f4b9897ac341acdb36659436a6a953ea79e3"
     },
     {
-      "path": "site/assets/main-B4VJxrXG.js",
-      "bytes": 371137,
-      "sha256": "c969ec2ec2033d302c1ac77841a6a84dbf1cffe1862708eca2742ab7a861c87d"
+      "path": "site/assets/main-2POl_PWF.js",
+      "bytes": 371498,
+      "sha256": "085c59cda069ba426788a7e341a1b471ad534ee8d8f823fa5c0b43cd15c19311"
     },
     {
       "path": "site/assets/main-CkisXHJz.css",
@@ -200,9 +217,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-BGTRu5I8.js",
-      "bytes": 372399,
-      "sha256": "53c4d253aab4c65f9a4c363b1a26b83a15f6ff3b036cef49009ec6681556c895"
+      "path": "site/assets/pptxgen.es-DOgPTsa-.js",
+      "bytes": 372447,
+      "sha256": "46c00d7beea72dbd5975d64638217ab026c3e8d46d9466ba1a34419bd91d9c8f"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -246,8 +263,8 @@
     },
     {
       "path": "site/facilitator.html",
-      "bytes": 9339,
-      "sha256": "7e92cc7153033b839c0ec018ab0ae3d711481b0ac06ee2588aa21251670839dc"
+      "bytes": 9341,
+      "sha256": "948fe5f2062fb73a7925ea248da9e277552253356d4521ec1febb66d1ea5098a"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -346,8 +363,8 @@
     },
     {
       "path": "site/index.html",
-      "bytes": 3156,
-      "sha256": "358b96edc0cdab8ddf8e3fd40c1fb03d29cd1a2d423b21c36778f2afcbf37096"
+      "bytes": 3158,
+      "sha256": "d85a2c0e530ea9210b2cf74e0d48683216c42aee3019087d0a6dde2011341f05"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1809,5 +1826,8 @@
       "bytes": 8693,
       "sha256": "7575481998af7b11b0c8e5c9ea2f9d41893d860608ce35952a013199ba282a2d"
     }
-  ]
+  ],
+  "software_repository": "https://github.com/Synthetic-Realities/sda-vision-source",
+  "software_doi": "10.5281/zenodo.23008103",
+  "software_concept_doi": "10.5281/zenodo.23008102"
 }
