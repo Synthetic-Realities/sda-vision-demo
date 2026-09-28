@@ -142,7 +142,9 @@
       "typescript": "passed",
       "public_build": "passed",
       "research_build": "passed",
-      "provider_calls": 0
+      "provider_calls": 0,
+      "live_browser": "Developer installation link and About publication links verified",
+      "concept_doi_resolution": "Both verified through zenodo.org/doi; external doi.org activation pending"
     }
   },
   "files": [
@@ -158,8 +160,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 9400,
-      "sha256": "e3ad024447de8fc97a041d11847df20f2a18f734fe589d847ef298cfe59e48ba"
+      "bytes": 9414,
+      "sha256": "b776f2c289e8a48ccd00a38ac2437efa56d8e536f3ef3ab39e98d229346aad8e"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",

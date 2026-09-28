@@ -2,7 +2,7 @@
 
 # Interactive demo
 
-[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008102.svg)](https://doi.org/10.5281/zenodo.23008102) · [![Facilitator guide DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008188.svg)](https://doi.org/10.5281/zenodo.23008188)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008102.svg)](https://zenodo.org/doi/10.5281/zenodo.23008102) · [![Facilitator guide DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23008188.svg)](https://zenodo.org/doi/10.5281/zenodo.23008188)
 
 Software and guide badges link to their latest published Zenodo versions.
 
