@@ -30,7 +30,7 @@ and DOI will accompany that separate archive.
 
 ## Developer view and project resources
 
-The Developer view compares the recorded model assessments, credential findings and supporting observations. Its header links to the public GitHub project and illustrated facilitator guide, with an expandable citation for the demo. Green status dots indicate available recorded results; each report supplies the check details.
+The Developer view compares the recorded model assessments, credential findings and supporting observations. Its header links to the public GitHub project and illustrated facilitator guide, with an expandable citation for the demo. Green status dots indicate available recorded results; each report supplies the check details. The Batch queue is collapsed until selected, with file and selection counts visible. Each analysis includes a Harvard-style software citation for Dr Sam Martin, MMU and the Smart Data Research UK funding acknowledgement, grant UKRI4010. [Batch and citation details](docs/Batch_And_Citation_2026-09-28.md).
 
 The full application is being prepared for an MIT open-source installation release. [Developer view and website discovery](docs/Developer_Demo_And_Discovery_2026-09-27.md) records the current publication status and search metadata.
 
@@ -67,7 +67,7 @@ third-party dependencies retain their separate terms:
 
 The September 2026 interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the six-page facilitator guide version 1.4. Current checks and recording scope are documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
 
-The Animated video's four still frames have twelve saved model replies. The podcast includes one authorised Gemini description of its first 20 seconds of sound. These saved observations retain their own dates and scope. The publication build makes no model requests. Physical TV/Silk and conference-hardware testing remain with the researcher.
+The Animated video's four still frames have twelve saved model replies. The podcast includes one authorised Gemini description of its first 20 seconds of sound. These saved observations retain their own dates and scope. The publication build makes no model requests. The researcher completed phone and Amazon Silk checks on 28 September; the latest batch and citation display revision has additional browser checks recorded in the batch and citation details.
 
 `DEMO_MANIFEST.json` records exact SHA-256 hashes of deployed files. Deployment is
 manual through the Pages workflow; it publishes only `site/`. The published files

@@ -15,6 +15,13 @@
 
 **Research assessment. Review alongside source information and context. When credentials are missing, origin remains unresolved by this check. Use these findings to inform a documented human review.**
 
+## Cite this analysis
+
+Software (Harvard): Martin, S. (2026) SDA Vision: Synthetic-media Discourse Analysis (version 0.1.0) [Computer software]. Manchester Metropolitan University. Available at: https://sdavision.io/
+Software creator: Dr Sam Martin, Smart Data Research UK (UKRI) Fellow, Manchester Metropolitan University (MMU). ORCID: https://orcid.org/0000-0002-4466-8374.
+Funding acknowledgement: This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
+Analysis record: File: presentation.pptx; media type: pptx; recorded at: 2026-09-26T22:31:28+00:00; models: claude-opus-5-5, gemini-3.8-flash, gpt-6-astra.
+
 ## How the file was read
 
 - 14 slides; sampled 4 of 14 embedded slide image(s).

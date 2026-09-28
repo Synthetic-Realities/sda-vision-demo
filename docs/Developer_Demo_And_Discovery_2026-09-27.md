@@ -25,3 +25,5 @@ The current Developer introduction uses a smaller editorial hierarchy. Audio/vid
 After selecting an example in the public Developer view, **Open saved results** is available both beside the media and beneath the empty provider table. Both controls open the same saved report and share the loading state. Before selection, the results area points to the example choices in the media panel.
 
 **Open saved batch** returns desktop visitors to the page top and brings the batch-results heading into view on stacked phone/tablet layouts. Keyboard focus follows the results heading; scrolling respects reduced-motion preferences. This happens once per batch request, so arriving results do not interrupt reading.
+
+The Developer Batch queue is collapsed on arrival. Analysis citations credit the software creator in Harvard style with the funding acknowledgement and grant UKRI4010; see [current batch and citation guidance](Batch_And_Citation_2026-09-28.md).
