@@ -17,7 +17,7 @@
 
 ## Cite this analysis
 
-Software (Harvard): Martin, S. (2026) SDA Vision: Synthetic-media Discourse Analysis (version 0.1.0) [Computer software]. Manchester Metropolitan University. Available at: https://sdavision.io/
+Software citation: Martin, S. (2026) SDA Vision: Synthetic-media Discourse Analysis (version 0.1.0) [Computer software]. Manchester Metropolitan University. Available at: https://sdavision.io/
 Software creator: Dr Sam Martin, Smart Data Research UK (UKRI) Fellow, Manchester Metropolitan University (MMU). ORCID: https://orcid.org/0000-0002-4466-8374.
 Funding acknowledgement: This work was supported by Smart Data Research UK, a UKRI investment; Grant number UKRI4010.
 Analysis record: File: social-media-image.png; media type: image; recorded at: 2026-09-26T22:31:29+00:00; models: claude-opus-5-5, gemini-3.8-flash, gpt-6-astra.
