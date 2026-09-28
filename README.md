@@ -2,7 +2,7 @@
 
 # Interactive demo
 
-SDA stands for **Synthetic-media Discourse Analysis**.
+SDA stands for **Synthetic-media Discourse Analysis**. SDA Vision supports research and group discussion about **AI-generated and traditional media**.
 
 [![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://sdavision.io/)
 
@@ -36,7 +36,7 @@ The full application is being prepared for an MIT open-source installation relea
 
 ## Illustrated facilitator guide
 
-For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions about AI-generated and traditional media. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
 
 Before the session, read through the pack and choose an example you have permission to share. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 

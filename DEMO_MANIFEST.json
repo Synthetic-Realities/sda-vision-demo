@@ -1,5 +1,5 @@
 {
-  "revision": "facilitator-text-2026-09-27.1",
+  "revision": "media-scope-2026-09-28.1",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://sdavision.io/",
   "publication_authorised": "Researcher approved reviewed interface and media update; full source remains private.",
@@ -65,6 +65,24 @@
       "horizontal_overflow": false,
       "physical_TV_Silk": "awaiting researcher check",
       "new_provider_requests": 0
+    },
+    "media_scope_copy": {
+      "revision": "media-scope-2026-09-28.1",
+      "typescript": "passed",
+      "frontend_builds": [
+        "public",
+        "research",
+        "conference"
+      ],
+      "component_suites": [
+        "community_language_review",
+        "workshop_start",
+        "responsive_results"
+      ],
+      "pdf_pages_visually_checked": 6,
+      "saved_results": "byte-identical to baseline",
+      "new_provider_calls": 0,
+      "complete_fresh_install": "not repeated for this copy revision"
     }
   },
   "files": [
@@ -80,8 +98,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 7705,
-      "sha256": "4665a80cab2ae3de3c6691da8f41079ddb648c391ca7e2c6a0ec5f26da0e9558"
+      "bytes": 8641,
+      "sha256": "f6a1a3bb9a83889e9f12bdccd472d25687b590151a7ace344dc8a3b1c680218b"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -109,9 +127,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-Ci-6zS2v.js",
+      "path": "site/assets/index.es-Ci_N0iqO.js",
       "bytes": 158947,
-      "sha256": "fd07107b7c943d88f044443d0e4181368c10dadb36fd258f8ce8f8799c4c83a0"
+      "sha256": "f6e6851e8e5d48c4819b710edae573c34b88b800ffbf685dd6a2ef4225cb375a"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -119,9 +137,14 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-Bg2GpMot.js",
+      "path": "site/assets/jspdf.es.min-CepI9yqc.js",
       "bytes": 386221,
-      "sha256": "f2504b868e0a7d44797cd94217de4d3dc9d3b801bed8ac54471a8a36cabd4c10"
+      "sha256": "750516fec1b264ee48595b5b52518a0329faf58a614afa498824e6ebf1e5093c"
+    },
+    {
+      "path": "site/assets/main-BEGoG3Nw.js",
+      "bytes": 370721,
+      "sha256": "2aecd5409c48ae1c3ceef1143adb2389bbcbc1134886a49a114690f5f87a703d"
     },
     {
       "path": "site/assets/main-DRdKLg58.css",
@@ -129,19 +152,14 @@
       "sha256": "db7088d5642c5072cc6c41c42e1c412cf0d622a969ecf2ba34c5f1a11552dcee"
     },
     {
-      "path": "site/assets/main-cdHq14DM.js",
-      "bytes": 370505,
-      "sha256": "028ea4629268cbfb027a48bd2901f9ec57fddddb35571e738ac865fe00dbfdc1"
-    },
-    {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
       "bytes": 1839543,
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-CkkY1u-K.js",
+      "path": "site/assets/pptxgen.es-t60AwE9J.js",
       "bytes": 372447,
-      "sha256": "46db8171552b4a0ae1a855c212376c1df53878076996d337246f0d104fd4a83c"
+      "sha256": "d85a8754bdd53686f76c1161f35d696821fba0c42f60eaca9751df23b7cf175a"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -185,8 +203,8 @@
     },
     {
       "path": "site/facilitator.html",
-      "bytes": 9267,
-      "sha256": "2c345cddcddb991fc045ca3dd30f32d173a0a78e966177b774f909009a151698"
+      "bytes": 9341,
+      "sha256": "05bdc7890f65f95570049d12c3e721c56fcfc03d6c57aeba04e292107e3a0f19"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -230,13 +248,13 @@
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.4-cover.png",
-      "bytes": 849868,
-      "sha256": "109d9da18cd0680bd5553afc8f6523ddb90e99e9b2fd4b0ab2b8cae191c67306"
+      "bytes": 1252209,
+      "sha256": "946b0865f4944fcfd708d9ecc324f6a041aca9ce9eaf236f4677d78beed49752"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.4.pdf",
-      "bytes": 5219654,
-      "sha256": "571289f1b1f693e12f03085cdacaf675f4c8652719f4ad6190da2f7cde04ca41"
+      "bytes": 5219690,
+      "sha256": "19e83ee1785ed8578c0de0c10e426f8a36ef5e0f2d9d26442c548b2064c42455"
     },
     {
       "path": "site/guides/social-preview.png",
@@ -245,8 +263,8 @@
     },
     {
       "path": "site/guides/workshop-activity-1-notice-v1.4.png",
-      "bytes": 627718,
-      "sha256": "de35e04415c11ca774a671f0e28d7a24ba21ce698fb4ba2994d1c03e58522529"
+      "bytes": 898813,
+      "sha256": "3c08a47ed6772afe5cec90b6d3d2a26d30407316d38d0fd01fb36c2b35f29e9c"
     },
     {
       "path": "site/guides/workshop-activity-1-notice.png",
@@ -255,8 +273,8 @@
     },
     {
       "path": "site/guides/workshop-activity-2-discuss-v1.4.png",
-      "bytes": 562612,
-      "sha256": "eb0ef85dc2f244a343dcf300f325af2efd0ba704c76f334ce9ae46cd61ad54aa"
+      "bytes": 804903,
+      "sha256": "b473db80b2427ba94006ae7158afd5e957688d8b87bdd7c3bcfacd32b3c987a5"
     },
     {
       "path": "site/guides/workshop-activity-2-discuss.png",
@@ -265,8 +283,8 @@
     },
     {
       "path": "site/guides/workshop-activity-3-check-v1.4.png",
-      "bytes": 256477,
-      "sha256": "1e7660d66bb8a39774e153f23623fe5e17ed01d80531690800d046d56f539a87"
+      "bytes": 359023,
+      "sha256": "46b8063e29d1c9d131427b70055b5581893bbe0f5b363288c3a6072062c272b7"
     },
     {
       "path": "site/guides/workshop-activity-3-check.png",
@@ -275,8 +293,8 @@
     },
     {
       "path": "site/guides/workshop-activity-4-reflect-v1.4.png",
-      "bytes": 365941,
-      "sha256": "cd721ea66e78dba0288a38a8f181a08c0abfd867bced89d8161f562edd010eb3"
+      "bytes": 507622,
+      "sha256": "e1d2cfadc607e16f2f1500a0c1822ef8f37d2a48db388f095c5c74ed2a227903"
     },
     {
       "path": "site/guides/workshop-activity-4-reflect.png",
@@ -285,8 +303,8 @@
     },
     {
       "path": "site/index.html",
-      "bytes": 3242,
-      "sha256": "90ddac67ec6b5b6be5079a8412ce124b86911107e6078f938663125897387bc2"
+      "bytes": 3158,
+      "sha256": "c232808d379c17af9c778da2cbdf57c914257b3ac56e0e5c20ba77cafcd21e07"
     },
     {
       "path": "site/showcase/CREDITS.md",
