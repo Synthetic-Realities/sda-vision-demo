@@ -28,9 +28,11 @@ replies remain in browser memory and can be exported separately from recorded fi
 The website uses prepared media and saved assessments; visitor uploads and live
 analysis are outside this demo profile.
 
-The [complete open-source application and installation guide](https://github.com/Synthetic-Realities/sda-vision-source#start-here) are available in a separate software repository under MIT. [Software 0.1.0](https://zenodo.org/records/23008103) and [facilitator guide 1.4](https://zenodo.org/records/23008189) are published on Zenodo.
+The [complete open-source application and installation guide](https://github.com/Synthetic-Realities/sda-vision-source#start-here) are available in a separate software repository under MIT. [Software 0.1.1](https://zenodo.org/records/23039037) and [facilitator guide 1.4](https://zenodo.org/records/23008189) are published on Zenodo.
 
 Google Lens is available for image files. PDFs, slides, podcasts and videos retain their original-file downloads, with image-search controls reserved for images. [Image-search scope](docs/Image_Search_Scope_2026-09-29.md).
+
+Reflect keeps its findings and Evidence box inside **Revisit the recorded findings**, collapsed until opened. Session notes and New session remain visible. [Software 0.1.1 release details](release/RELEASE_0.1.1.md).
 
 ## Developer view and project resources
 

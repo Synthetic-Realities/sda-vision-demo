@@ -1,5 +1,5 @@
 {
-  "revision": "reflect-review-2026-09-29.1",
+  "revision": "software-0.1.1-2026-09-29",
   "repository": "Synthetic-Realities/sda-vision-demo",
   "site": "https://sdavision.io/",
   "publication_authorised": "Researcher approved both Zenodo publications, clean public software repository and website publication links; original development history remains private.",
@@ -184,6 +184,21 @@
       "session_actions": "visible",
       "new_provider_calls": 0,
       "physical_devices": "not repeated for this revision"
+    },
+    "software_0_1_1": {
+      "python_tests_passed": 341,
+      "typescript": "passed",
+      "frontend_builds": [
+        "public",
+        "research",
+        "conference",
+        "workshop",
+        "installation"
+      ],
+      "browser_scenarios_passed": 60,
+      "fresh_install": "passed on native Apple Silicon Python 3.12.14",
+      "fresh_rebuild_browser_scenarios_passed": 12,
+      "paid_provider_calls": 0
     }
   },
   "files": [
@@ -199,8 +214,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 9414,
-      "sha256": "b776f2c289e8a48ccd00a38ac2437efa56d8e536f3ef3ab39e98d229346aad8e"
+      "bytes": 9415,
+      "sha256": "dd0186ed08824a5a81c0f443a66cd6d0625dab888e1afd1f8941da61a4bba4f9"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -228,9 +243,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-wK9hf89R.js",
+      "path": "site/assets/index.es-C93yx751.js",
       "bytes": 158947,
-      "sha256": "f00a411535867cc1d47eb62acf8a7b5c61bf1e03cf9fb32f2379314dc47d064b"
+      "sha256": "ddaf9d873f51aad5f730a8ff39a0a194bb16821de9eebb81952c428502cdf653"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -238,9 +253,9 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-BLkoUlYk.js",
+      "path": "site/assets/jspdf.es.min-DanpdUM3.js",
       "bytes": 386221,
-      "sha256": "a72ce05aeeb35f0c508d81e9971e5558f983cdce038ed9f8c05ddf8f93b930c4"
+      "sha256": "3d2e2f9a28dd70421797a91bc96e4875d9e65483efb9642bb829079b1fe917aa"
     },
     {
       "path": "site/assets/main-BGU2JuLX.css",
@@ -248,9 +263,9 @@
       "sha256": "a03bc9f3bd26902a8eb2de5824487c20cb5f8427196d2ac18f8ccefeb3526c81"
     },
     {
-      "path": "site/assets/main-CW5JiYrp.js",
-      "bytes": 371429,
-      "sha256": "74aa075d6cb8ca181681a0bf45389a32d19f2f8b12f41d9e617988d2e601e7f3"
+      "path": "site/assets/main-Djen2Ki4.js",
+      "bytes": 371439,
+      "sha256": "5553679d95d592221eb1680e195d1b7ac030d870cf76e558c40659bf7383ffcd"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -258,9 +273,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-B-DTkAS0.js",
+      "path": "site/assets/pptxgen.es-DrBGpGSB.js",
       "bytes": 372447,
-      "sha256": "3cb433cf9375dc794d9b22aafa599032a26881718910c72772f428b3d6a2f896"
+      "sha256": "eaf91be39e91faff9d063c6adcc03d26851c6d9d0f857c56efaf1041077cb471"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -305,7 +320,7 @@
     {
       "path": "site/facilitator.html",
       "bytes": 9341,
-      "sha256": "3654a101ed82f1c30b9daa72a4e0035ce66a5fef2fa4d5f3782edc7e142ece54"
+      "sha256": "c99d285092f2f50fa5e3369a612b93b133c73f5b09b4faa24ab7a7f90dc7f8ca"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -405,7 +420,7 @@
     {
       "path": "site/index.html",
       "bytes": 3158,
-      "sha256": "ee323bd8dc6bd90300aace450bda802c005156e937e49b959fb1092fa0e1822b"
+      "sha256": "77d63a777fbf4748d36f7be5c23bb17d7a2c81b49130a2b0fff62c5677952c45"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1869,6 +1884,7 @@
     }
   ],
   "software_repository": "https://github.com/Synthetic-Realities/sda-vision-source",
-  "software_doi": "10.5281/zenodo.23008103",
-  "software_concept_doi": "10.5281/zenodo.23008102"
+  "software_doi": "10.5281/zenodo.23039037",
+  "software_concept_doi": "10.5281/zenodo.23008102",
+  "software_version": "0.1.1"
 }
