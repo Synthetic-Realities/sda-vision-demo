@@ -30,6 +30,8 @@ analysis are outside this demo profile.
 
 The [complete open-source application and installation guide](https://github.com/Synthetic-Realities/sda-vision-source#start-here) are available in a separate software repository under MIT. [Software 0.1.0](https://zenodo.org/records/23008103) and [facilitator guide 1.4](https://zenodo.org/records/23008189) are published on Zenodo.
 
+Google Lens is available for image files. PDFs, slides, podcasts and videos retain their original-file downloads, with image-search controls reserved for images. [Image-search scope](docs/Image_Search_Scope_2026-09-29.md).
+
 ## Developer view and project resources
 
 The Developer view compares the recorded model assessments, credential findings and supporting observations. Its header links to the public GitHub project and illustrated facilitator guide, with an expandable citation for the demo. Green status dots indicate available recorded results; each report supplies the check details. The Batch queue is collapsed until selected, with file and selection counts visible. Each analysis includes a Harvard-style software citation for Dr Sam Martin, MMU and the Smart Data Research UK funding acknowledgement, grant UKRI4010. [Batch and citation details](docs/Batch_And_Citation_2026-09-28.md).
