@@ -271,9 +271,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-Df3BY_cQ.js",
+      "path": "site/assets/index.es-tpVGIYzo.js",
       "bytes": 158947,
-      "sha256": "80d004f492d1f38c9eda1144f36fd5cf6d297118c8bce100896516444c58531e"
+      "sha256": "f3a996290d46bc3c6e0608122d258a574f04556a1a553c6a832da94d1c33292a"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -281,19 +281,19 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-B096jVE-.js",
+      "path": "site/assets/jspdf.es.min-OO_tewrs.js",
       "bytes": 386221,
-      "sha256": "d4d75c84937c75e89adefe83c785ca287279ccac158721535caec22348850b85"
+      "sha256": "398a1c349df3eae7d8deb56cba612031d62986157fca64611fa8a7084666457c"
     },
     {
-      "path": "site/assets/main-D6_mrsMQ.js",
-      "bytes": 377871,
-      "sha256": "b6b60b00f68adef74243e0b7f35c2bc7b1be9975e060df00e47eae2103652959"
+      "path": "site/assets/main-Cd1EjE1W.js",
+      "bytes": 377981,
+      "sha256": "35336d9bf2a5a7caecb3826a59003b62a252c43dfae58955411f693f6595123f"
     },
     {
-      "path": "site/assets/main-DRxDLyf5.css",
-      "bytes": 78750,
-      "sha256": "fdb7d733b6b803b522da37fcc778a058bba3c432d51f862433ef63ad3aa3dce2"
+      "path": "site/assets/main-drcLYyIh.css",
+      "bytes": 79086,
+      "sha256": "3514603d0d46f4c0a6082bb5bd9f7f0c035bd6060028eeab2ead90e28224c4ae"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -301,9 +301,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-CMGUm2zA.js",
+      "path": "site/assets/pptxgen.es-BctxKWaN.js",
       "bytes": 372447,
-      "sha256": "37ac475a585db549c7c0da82da61ce19a1161d1f5a4358d2dd16df68d2217dfe"
+      "sha256": "0004e576b8b16a6e30256688a34dfd0162351131adeb29ca5e8e041a44c8cb52"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -347,8 +347,8 @@
     },
     {
       "path": "site/facilitator.html",
-      "bytes": 10561,
-      "sha256": "c138313ba961f30f04b90418d6fc332656d4c67e6787d747789336cfea1e45f8"
+      "bytes": 10691,
+      "sha256": "a306e36ac056647d688f4d6722c77dd9163a1ff6f7bd63ea0b6b53c047c08c2e"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -483,7 +483,7 @@
     {
       "path": "site/index.html",
       "bytes": 3158,
-      "sha256": "ee7645b48bbff0644263672cbe4d79fd907d6dc611b9491983324be8859950a3"
+      "sha256": "6858b036266a41f0b62fc53af7c59cd4fdf6e58a44e9317ce41c90355dadd4f9"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1691,6 +1691,11 @@
       "sha256": "c8a7065909b1e0b6c980177e94e0964d37bc44220c909eb5e5a61973dfd113e0"
     },
     {
+      "path": "site/third_party/frontend-inventory.json",
+      "bytes": 8693,
+      "sha256": "7575481998af7b11b0c8e5c9ea2f9d41893d860608ce35952a013199ba282a2d"
+    },
+    {
       "path": "site/third_party/frontend/@babel__runtime-7.29.7/LICENSE",
       "bytes": 1106,
       "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76"
@@ -1939,11 +1944,6 @@
       "path": "site/third_party/frontend/utrie-1.0.2/LICENSE",
       "bytes": 1061,
       "sha256": "8b00952cd8d0f5cbbefb13576778e1185dc963943151353d90c4e14a5a4caf40"
-    },
-    {
-      "path": "site/third_party/frontend-inventory.json",
-      "bytes": 8693,
-      "sha256": "7575481998af7b11b0c8e5c9ea2f9d41893d860608ce35952a013199ba282a2d"
     }
   ],
   "software_repository": "https://github.com/Synthetic-Realities/sda-vision-source",
@@ -1953,5 +1953,6 @@
   "ui_revision": "podcast-exploration-2026-10-06.2",
   "facilitator_guide_version": "1.5",
   "software_source_version": "0.1.2",
-  "podcast_workshop_verdict": "Mix of human and AI; source-informed workshop conclusion, separate from saved model ratings"
+  "podcast_workshop_verdict": "Mix of human and AI; source-informed workshop conclusion, separate from saved model ratings",
+  "layout_revision": "workshop-layout-2026-10-06.1"
 }
