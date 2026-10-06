@@ -42,7 +42,7 @@ The Developer view compares the recorded model assessments, credential findings 
 
 ## Illustrated facilitator guide
 
-For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions about AI-generated and traditional media. The six-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions about AI-generated and traditional media. The seven-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
 
 Before the session, read through the pack and choose an example you have permission to share. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
@@ -50,15 +50,15 @@ Before the session, read through the pack and choose an example you have permiss
 
 | Notice | Discuss |
 | --- | --- |
-| [![Notice activity](docs/images/workshop-activity-1-notice-v1.4.png)](docs/images/workshop-activity-1-notice-v1.4.png) | [![Discuss activity](docs/images/workshop-activity-2-discuss-v1.4.png)](docs/images/workshop-activity-2-discuss-v1.4.png) |
+| [![Notice activity](docs/images/workshop-activity-1-notice-v1.5.png)](docs/images/workshop-activity-1-notice-v1.5.png) | [![Discuss activity](docs/images/workshop-activity-2-discuss-v1.5.png)](docs/images/workshop-activity-2-discuss-v1.5.png) |
 
 | Check | Reflect |
 | --- | --- |
-| [![Check activity](docs/images/workshop-activity-3-check-v1.4.png)](docs/images/workshop-activity-3-check-v1.4.png) | [![Reflect activity](docs/images/workshop-activity-4-reflect-v1.4.png)](docs/images/workshop-activity-4-reflect-v1.4.png) |
+| [![Check activity](docs/images/workshop-activity-3-check-v1.5.png)](docs/images/workshop-activity-3-check-v1.5.png) | [![Reflect activity](docs/images/workshop-activity-4-reflect-v1.5.png)](docs/images/workshop-activity-4-reflect-v1.5.png) |
 
 Start with the **Community table scene (practice example)**. Invite first impressions before opening its creation note at Check. Choose other media that you have permission to share. The guide explains all four activities, expandable model evidence and the separate scope of transcript and sound findings.
 
-[Download the full facilitator pack (PDF, version 1.4)](docs/guides/SDA_Vision_Facilitator_Guide_v1.4.pdf).
+[Download the full facilitator pack (PDF, version 1.5)](docs/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf).
 
 ## Credits and terms
 
@@ -71,7 +71,7 @@ third-party dependencies retain their separate terms:
 
 ## Verification and updates
 
-The September 2026 interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the six-page facilitator guide version 1.4. Current checks and recording scope are documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
+The interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the seven-page facilitator guide version 1.5. Current checks and recording scope are documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
 
 The Animated video's four still frames have twelve saved model replies. The podcast includes one authorised Gemini description of its first 20 seconds of sound. These saved observations retain their own dates and scope. The publication build makes no model requests. The researcher completed phone and Amazon Silk checks on 28 September; the latest batch and citation display revision has additional browser checks recorded in the batch and citation details.
 
@@ -95,3 +95,9 @@ and their method version.
 Smart Data Research UK (UKRI) Fellowship, Grant number UKRI4010, hosted at Manchester Metropolitan University. Partner logos identify the affiliation and funding; their rights remain with their owners.
 
 Developer’s **Preview slides** opens the prepared presentation in a larger viewer. For the installed software, see [PowerPoint preview setup](docs/PowerPoint_Preview_Setup.md), including the optional LibreOffice dependency.
+
+## Podcast source exploration
+
+[Follow the source](docs/Podcast_Source_Activity.md) adds podcast-specific prompts and a source reveal to the workshop. The [facilitator guide, version 1.5](docs/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf), includes the activity. Session downloads carry the displayed cover or document preview, with the recorded analysis preserved separately.
+
+[Software 0.1.2 and facilitator guide 1.5 distribution notes](release/RELEASE_0.1.2.md).
