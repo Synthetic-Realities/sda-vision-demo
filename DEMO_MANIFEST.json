@@ -242,8 +242,8 @@
     },
     {
       "path": "site/about.html",
-      "bytes": 9415,
-      "sha256": "dd0186ed08824a5a81c0f443a66cd6d0625dab888e1afd1f8941da61a4bba4f9"
+      "bytes": 9946,
+      "sha256": "035f438776fc850185ebdaa55dcdbf02148e76d6584a1ecf804c9accbf180465"
     },
     {
       "path": "site/assets/NotoSans-Regular-Dpf_lrdO.ttf",
@@ -271,9 +271,9 @@
       "sha256": "7b07a9ca175c614e8e7de447198d35b0d161dd50db2c63b5f7fd6ea0e1e876f2"
     },
     {
-      "path": "site/assets/index.es-BzNF2o24.js",
+      "path": "site/assets/index.es-Df3BY_cQ.js",
       "bytes": 158947,
-      "sha256": "fcf8da89a6bc335ac37bce0bc043b6a9be6894f6e5d0aa57a3d4f4f6eef07c42"
+      "sha256": "80d004f492d1f38c9eda1144f36fd5cf6d297118c8bce100896516444c58531e"
     },
     {
       "path": "site/assets/infographic-preview-BnI6beWM.png",
@@ -281,19 +281,19 @@
       "sha256": "d06c42c3dbe400be9d827dd42ad89b4b2d20df29b99ac8b906e611c459c23e5a"
     },
     {
-      "path": "site/assets/jspdf.es.min-l137s1Xm.js",
+      "path": "site/assets/jspdf.es.min-B096jVE-.js",
       "bytes": 386221,
-      "sha256": "a952c0a7d5b9b3bc45d4ce15ab6e585de8626803140abb61404d2ddfad5350d0"
+      "sha256": "d4d75c84937c75e89adefe83c785ca287279ccac158721535caec22348850b85"
     },
     {
-      "path": "site/assets/main-cfu4GHJu.css",
-      "bytes": 78376,
-      "sha256": "5bb1bb8dbc1ed53c909b1067edc822f91495e3d7359fe51151c8bcf99dafd49f"
+      "path": "site/assets/main-D6_mrsMQ.js",
+      "bytes": 377871,
+      "sha256": "b6b60b00f68adef74243e0b7f35c2bc7b1be9975e060df00e47eae2103652959"
     },
     {
-      "path": "site/assets/main-wBrAdxIa.js",
-      "bytes": 371439,
-      "sha256": "c2884afe6f6a3c4e8e8b07b3541432baf32d91b0c6c7db9ddd1de2ccb0f61c85"
+      "path": "site/assets/main-DRxDLyf5.css",
+      "bytes": 78750,
+      "sha256": "fdb7d733b6b803b522da37fcc778a058bba3c432d51f862433ef63ad3aa3dce2"
     },
     {
       "path": "site/assets/podcast-cover-Dk3QfbkM.png",
@@ -301,9 +301,9 @@
       "sha256": "ec571f0ebb710c9f2fc2f8f79644793f97317b98323cb1d93cce34e608d79bdc"
     },
     {
-      "path": "site/assets/pptxgen.es-wEAQhUDi.js",
+      "path": "site/assets/pptxgen.es-CMGUm2zA.js",
       "bytes": 372447,
-      "sha256": "08f04440746f04b8699d40372b578179d46a9bd31ab6aebcbfd08cb970e21e94"
+      "sha256": "37ac475a585db549c7c0da82da61ce19a1161d1f5a4358d2dd16df68d2217dfe"
     },
     {
       "path": "site/assets/presentation-preview-D7TtxRTR.png",
@@ -347,8 +347,8 @@
     },
     {
       "path": "site/facilitator.html",
-      "bytes": 9341,
-      "sha256": "cd359fb4fdf6197d6caef8267db32bc7774085c79d819e9af48997b8efc70dee"
+      "bytes": 10561,
+      "sha256": "c138313ba961f30f04b90418d6fc332656d4c67e6787d747789336cfea1e45f8"
     },
     {
       "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.0-cover.png",
@@ -401,6 +401,16 @@
       "sha256": "19e83ee1785ed8578c0de0c10e426f8a36ef5e0f2d9d26442c548b2064c42455"
     },
     {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.5-cover.png",
+      "bytes": 853522,
+      "sha256": "aeca0218fd2bccf7e76aca91f550286a352664c23ead2dc42ad79271f5c07b71"
+    },
+    {
+      "path": "site/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf",
+      "bytes": 7076787,
+      "sha256": "34198f90d96cbd4cf47a0e8ba5709758802af76a16dfb1d05441f6f0a6070b5b"
+    },
+    {
       "path": "site/guides/social-preview.png",
       "bytes": 207061,
       "sha256": "86fc10ac4f8e59233896d66b1319fc14bc100d37f1939026b549f6c79dee1580"
@@ -409,6 +419,11 @@
       "path": "site/guides/workshop-activity-1-notice-v1.4.png",
       "bytes": 898813,
       "sha256": "3c08a47ed6772afe5cec90b6d3d2a26d30407316d38d0fd01fb36c2b35f29e9c"
+    },
+    {
+      "path": "site/guides/workshop-activity-1-notice-v1.5.png",
+      "bytes": 627368,
+      "sha256": "d1e8af5c8ce8b40eb632e661519a4a5af34396ca6d186080be1d8d8359d7d6f6"
     },
     {
       "path": "site/guides/workshop-activity-1-notice.png",
@@ -421,6 +436,11 @@
       "sha256": "b473db80b2427ba94006ae7158afd5e957688d8b87bdd7c3bcfacd32b3c987a5"
     },
     {
+      "path": "site/guides/workshop-activity-2-discuss-v1.5.png",
+      "bytes": 562263,
+      "sha256": "8c0cc23c7d3d582dedf67b63214eba61eade971a809f589debe3ab99aa5a0c79"
+    },
+    {
       "path": "site/guides/workshop-activity-2-discuss.png",
       "bytes": 504098,
       "sha256": "bc9c549c9d49b8de9b425b10ebe928575c875154fb2b9006246351c3b13620e2"
@@ -429,6 +449,11 @@
       "path": "site/guides/workshop-activity-3-check-v1.4.png",
       "bytes": 359023,
       "sha256": "46b8063e29d1c9d131427b70055b5581893bbe0f5b363288c3a6072062c272b7"
+    },
+    {
+      "path": "site/guides/workshop-activity-3-check-v1.5.png",
+      "bytes": 256267,
+      "sha256": "9b8a173440d3cd218f5db4b79203a86b94fa505b2f71012c5ccc0b21a2092882"
     },
     {
       "path": "site/guides/workshop-activity-3-check.png",
@@ -441,14 +466,24 @@
       "sha256": "e1d2cfadc607e16f2f1500a0c1822ef8f37d2a48db388f095c5c74ed2a227903"
     },
     {
+      "path": "site/guides/workshop-activity-4-reflect-v1.5.png",
+      "bytes": 365457,
+      "sha256": "64c16494f53faa3717517c58664dff4d7f327587ecbde94b5aa75f3a496f116e"
+    },
+    {
       "path": "site/guides/workshop-activity-4-reflect.png",
       "bytes": 306953,
       "sha256": "bcd096351d47c2be126a5036faaec5e4c0e04c5454fa5f1a909a3853438628c0"
     },
     {
+      "path": "site/guides/workshop-podcast-source-v1.5.png",
+      "bytes": 1025861,
+      "sha256": "22acbd760874690c99ddc7896c30f2a0f42439ab0bf1a52f7a2fa8fee7bf93ae"
+    },
+    {
       "path": "site/index.html",
       "bytes": 3158,
-      "sha256": "b33791764e8355e3ca17f6548a3c960f09846fbb9b8d2b587191d801c3954e77"
+      "sha256": "ee7645b48bbff0644263672cbe4d79fd907d6dc611b9491983324be8859950a3"
     },
     {
       "path": "site/showcase/CREDITS.md",
@@ -1915,7 +1950,8 @@
   "software_doi": "10.5281/zenodo.23039037",
   "software_concept_doi": "10.5281/zenodo.23008102",
   "software_version": "0.1.1",
-  "ui_revision": "podcast-exploration-2026-10-06.1",
+  "ui_revision": "podcast-exploration-2026-10-06.2",
   "facilitator_guide_version": "1.5",
-  "software_source_version": "0.1.2"
+  "software_source_version": "0.1.2",
+  "podcast_workshop_verdict": "Mix of human and AI; source-informed workshop conclusion, separate from saved model ratings"
 }
