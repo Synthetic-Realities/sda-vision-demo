@@ -98,7 +98,7 @@ Developer’s **Preview slides** opens the prepared presentation in a larger vie
 
 ## Podcast source exploration
 
-The final, source-informed workshop verdict is **Mix of human and AI**: human-authored research, selected by the researcher and adapted into a podcast with Google NotebookLM. Following the cover citation, finding the publication and comparing a podcast statement with the paper helps the group reach a fuller Human–AI reflection. The recorded transcript ratings and separate audio-excerpt description remain available with their original scope; they inform the discussion alongside the additional source evidence.
+The final, source-informed workshop verdict is **Mix of human and AI**: human-authored research, selected by Dr Sam Martin and adapted into a podcast with Google NotebookLM. Following the cover citation, finding the publication and comparing a podcast statement with the paper helps the group reach a fuller Human–AI reflection. The recorded transcript ratings and separate audio-excerpt description remain available with their original scope; they inform the discussion alongside the additional source evidence.
 
 [Follow the source](docs/Podcast_Source_Activity.md) adds podcast-specific prompts and a source reveal to the workshop. The [facilitator guide, version 1.5](docs/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf), includes the activity. Session downloads carry the displayed cover or document preview, with the recorded analysis preserved separately.
 
