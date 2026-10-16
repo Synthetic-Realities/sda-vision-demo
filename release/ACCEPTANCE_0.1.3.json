@@ -1,0 +1,104 @@
+{
+  "release_date": "2026-10-16",
+  "researcher_click_through": "APPROVED",
+  "backend_tests": {
+    "exit_code": 0,
+    "summary": [
+      "364 passed, 2 warnings in 5.69s"
+    ],
+    "copy": "isolated publication source, no working credentials",
+    "network": "socket connections disabled",
+    "dependencies": "Reused local test environment; no new installation"
+  },
+  "frontend_tests": [
+    {
+      "script": "analysis_citation.mjs",
+      "exit_code": 0,
+      "stdout": "All media citations, unmodified reports and collapsed batch queue passed."
+    },
+    {
+      "script": "animated_video_review.mjs",
+      "exit_code": 0,
+      "stdout": "Animated video: original playback URL, withdrawn-item refusal, neutral labels, all providers, sampled-frame scope and separate unchecked audio description passed."
+    },
+    {
+      "script": "community_language_review.mjs",
+      "exit_code": 0,
+      "stdout": "Community language review passed: collapsed file labels, status and trust distinctions, export ordering, raw-record preservation, individual confidence and original download."
+    },
+    {
+      "script": "community_presentations.mjs",
+      "exit_code": 0,
+      "stdout": "Community presentation helpers passed: four activities, coverage summaries, statuses, provenance, opt-in responses, escaping and report immutability."
+    },
+    {
+      "script": "external_checks.mjs",
+      "exit_code": 0,
+      "stdout": "External checks: visible checker pair, demo Gemini removal, format scope, file binding, escaped replies, export retention, session isolation and status displays passed."
+    },
+    {
+      "script": "external_checks.mjs.showcase",
+      "exit_code": 0,
+      "stdout": "External checks: visible checker pair, demo Gemini removal, format scope, file binding, escaped replies, export retention, session isolation and status displays passed."
+    },
+    {
+      "script": "facilitator_workflow.mjs",
+      "exit_code": 0,
+      "stdout": "Facilitator workflow: current labels, prepared-media scope, storage, recipients, exports, release version and linked assets passed."
+    },
+    {
+      "script": "game_view.mjs",
+      "exit_code": 0,
+      "stdout": "Game view: deferred loading, local Studio scope, safe links and navigation checks passed."
+    },
+    {
+      "script": "image_search_scope.mjs",
+      "exit_code": 0,
+      "stdout": "Image-search scope passed: images, PDF, PPTX, audio, video, text, unknown files and image-preview isolation."
+    },
+    {
+      "script": "notice_review.mjs",
+      "exit_code": 0,
+      "stdout": "Notice review: neutral practice caption/alt, selected dropdown, friendly labels, provenance reveal, choices and navigation passed."
+    },
+    {
+      "script": "podcast_exploration.mjs",
+      "exit_code": 0,
+      "stdout": "Podcast stage/reveal isolation, external-link safety, preview selection/fallback for all media, and no external image requests passed."
+    },
+    {
+      "script": "responsive_results.mjs",
+      "exit_code": 0,
+      "stdout": "Responsive result checks passed: all provider fields, status distinctions, empty and audio records preserved."
+    },
+    {
+      "script": "workshop_review.mjs",
+      "exit_code": 0,
+      "stdout": "Workshop review: carried notes, feedback placement, transcript scope/coverage, score basis, confidence, credential failure states, sound record and summary export passed."
+    },
+    {
+      "script": "workshop_start.mjs",
+      "exit_code": 0,
+      "stdout": "Workshop flow: all four activities, starter lookup/exports, error handling, removed choices and busy states passed."
+    }
+  ],
+  "build": {
+    "software_version": "0.1.3",
+    "guide_version": "1.7",
+    "typescript": "passed",
+    "research_build": "passed",
+    "recorded_demo_build": "passed",
+    "original_media_and_saved_findings": "byte-identical to approved review",
+    "showcase_changes": [
+      "showcase/CREDITS.md"
+    ],
+    "scope": "Release copy, attribution and public repository link; no method changes"
+  },
+  "guide_visual_review": "8-page guide final page and 1-page participant sheet inspected",
+  "prior_review": "All guide pages inspected during 16 October preparation",
+  "not_retested": [
+    "Live provider calls",
+    "Physical presentation hardware",
+    "Fresh online dependency installation"
+  ]
+}

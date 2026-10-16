@@ -8,6 +8,24 @@
 
 Software and guide badges link to their latest published Zenodo versions.
 
+## Current release: software 0.1.3 and guides 1.7
+
+The 16 October 2026 release puts SynthID Detector and the OpenAI image checker
+side by side, each with a paste-results box. Replies stay in the browser session
+and accompany exports separately from recorded model scores.
+
+- [Full source and release downloads](https://github.com/Synthetic-Realities/sda-vision-source/releases/tag/v0.1.3)
+- [Facilitator guide 1.7, eight pages](docs/guides/SDA_Vision_Facilitator_Guide_v1.7.pdf)
+- [Participant quick guide 1.7, one page](docs/guides/SDA_Vision_Participant_Checks_v1.7.pdf)
+- [Release notes](release/RELEASE_0.1.3.md) and [verification record](release/ACCEPTANCE_0.1.3.json)
+
+The Zenodo versions for this release are being published separately; the series
+links above remain valid. The researcher approved keeping this website repository
+public temporarily so that its existing GitHub Pages hosting remains available.
+
+Dr Sam Martin is the sole creator. Codex and Claude Code provided AI-assisted
+development support under Dr Sam Martin's direction and review.
+
 SDA stands for **Synthetic-media Discourse Analysis**. SDA Vision supports research and group discussion about **AI-generated and traditional media**.
 
 [![SDA Vision Community Workshop: complete Notice activity and response controls](docs/images/community-workshop.png)](https://sdavision.io/)
@@ -44,7 +62,7 @@ The Developer view compares the recorded model assessments, credential findings 
 
 ## Illustrated facilitator guide
 
-For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions about AI-generated and traditional media. The seven-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
+For **community facilitators, trainers, educators and researchers** leading workshops, conference sessions or online discussions about AI-generated and traditional media. The eight-page guide combines screenshots, colourful group questions and practical notes for **Notice → Discuss → Check → Reflect**.
 
 Before the session, read through the pack and choose an example you have permission to share. With the group, invite first impressions, compare explanations and then explore the recorded findings. Close by choosing practical next steps and downloading any session notes you want to keep. Adapt the pace and questions to the group.
 
@@ -60,7 +78,7 @@ Before the session, read through the pack and choose an example you have permiss
 
 Start with the **Community table scene (practice example)**. Invite first impressions before opening its creation note at Check. Choose other media that you have permission to share. The guide explains all four activities, expandable model evidence and the separate scope of transcript and sound findings.
 
-[Download the full facilitator pack (PDF, version 1.5)](docs/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf).
+[Download the full facilitator pack (PDF, version 1.7)](docs/guides/SDA_Vision_Facilitator_Guide_v1.7.pdf) and [participant quick guide](docs/guides/SDA_Vision_Participant_Checks_v1.7.pdf). The screenshots above show the earlier 1.5 activity layout; the current PDFs include the side-by-side checker workflow.
 
 ## Credits and terms
 
@@ -73,7 +91,7 @@ third-party dependencies retain their separate terms:
 
 ## Verification and updates
 
-The interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the seven-page facilitator guide version 1.5. Current checks and recording scope are documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
+The interface includes a practice example, neutral example labels, notes carried between workshop steps, responsive provider findings, separate transcript and sound coverage, and the eight-page facilitator guide version 1.7 with its participant sheet. Current checks are in the [0.1.3 verification record](release/ACCEPTANCE_0.1.3.json); earlier recording scope is documented in the [release-pack review](docs/Release_Pack_Audit_2026-09-27.md).
 
 The Animated video's four still frames have twelve saved model replies. The podcast includes one authorised Gemini description of its first 20 seconds of sound. These saved observations retain their own dates and scope. The publication build makes no model requests. The researcher completed phone and Amazon Silk checks on 28 September; the latest batch and citation display revision has additional browser checks recorded in the batch and citation details.
 
@@ -102,6 +120,6 @@ Developer’s **Preview slides** opens the prepared presentation in a larger vie
 
 The final, source-informed workshop verdict is **Mix of human and AI**: human-authored research, selected by Dr Sam Martin and adapted into a podcast with Google NotebookLM. Following the cover citation, finding the publication and comparing a podcast statement with the paper helps the group reach a fuller Human–AI reflection. The recorded transcript ratings and separate audio-excerpt description remain available with their original scope; they inform the discussion alongside the additional source evidence.
 
-[Follow the source](docs/Podcast_Source_Activity.md) adds podcast-specific prompts and a source reveal to the workshop. The [facilitator guide, version 1.5](docs/guides/SDA_Vision_Facilitator_Guide_v1.5.pdf), includes the activity. Session downloads carry the displayed cover or document preview, with the recorded analysis preserved separately.
+[Follow the source](docs/Podcast_Source_Activity.md) adds podcast-specific prompts and a source reveal to the workshop. The [facilitator guide, version 1.7](docs/guides/SDA_Vision_Facilitator_Guide_v1.7.pdf), includes the activity. Session downloads carry the displayed cover or document preview, with the recorded analysis preserved separately.
 
 [Software 0.1.2 and facilitator guide 1.5 distribution notes](release/RELEASE_0.1.2.md).
